@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-10-21T14:03:21.187Z" count="44">
+<listings generated="2026-10-21T14:06:17.496Z" count="51">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -950,6 +950,83 @@ This villa represents a unique opportunity for a luxurious family life, but also
     <version>6a42680ac4074c85</version>
   </listing>
   <listing>
+    <id>estitor:466505</id>
+    <reference>466505</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Bar]]></city>
+    <location><![CDATA[Dobra Voda, Bar]]></location>
+    <living_area_m2>125</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <floor><![CDATA[4. fl.]]></floor>
+    <title lang="me"><![CDATA[Prodaja, trosoban stan, 125m², Dobra Voda, Bar]]></title>
+    <title lang="en"><![CDATA[Sale, three bedroom apartment, 125m², Dobra Voda, Bar]]></title>
+    <description lang="me"><![CDATA[U ponudi X Residence u Dobrim Vodama nalazi se prostrani trosoban stan od 124.8 m² na četvrtom spratu. Kompleks modernog dizajna prostire se na sedam etaža, opremljen podzemnim garažama i liftovima, a izgrađen je uz primenu kvalitetnih materijala i savremenih standarda gradnje. Smešten svega 60 metara od plaže Veliki Pijesak, stan nudi mirno okruženje i obilje sunca sa preko 270 dana godišnje, čineći ga savršenim izborom za život, odmor ili sigurnu investiciju.]]></description>
+    <description lang="en"><![CDATA[Available Residence in Dobre Vode is a spacious three-bedroom apartment of 124.8 m² on the fourth floor. The complex of modern design spans seven floors, equipped with underground garages and elevators, and built with the application of quality materials and modern construction standards. Located just 60 meters from Veliki Pijesak beach, the apartment offers a peaceful environment and abundant sunshine with over 270 days a year, making it a perfect choice for living, vacation, or a secure investment.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F71d759a7-1d51-4913-a66b-309ea269d60a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0207c0ae-eb16-44b6-9fad-d37a1ea9fb44-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fdad82f0f-563d-4a91-9189-0a07fce3fc19-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>11660f0657544d2f</version>
+  </listing>
+  <listing>
+    <id>estitor:466506</id>
+    <reference>466506</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Bar]]></city>
+    <location><![CDATA[Dobra Voda, Bar]]></location>
+    <living_area_m2>118</living_area_m2>
+    <rooms>4</rooms>
+    <bedrooms>4</bedrooms>
+    <floor><![CDATA[4. fl.]]></floor>
+    <title lang="me"><![CDATA[Prodaja, četvorosoban stan, 118m², Dobra Voda, Bar]]></title>
+    <title lang="en"><![CDATA[Sale, four bedroom apartment, 118m², Dobra Voda, Bar]]></title>
+    <description lang="me"><![CDATA[U ponudi X Residence u Dobrim Vodama nalazi se prostrani trosoban stan od 117,6 m² na četvrtom spratu. Kompleks modernog dizajna prostire se na sedam etaža, opremljen podzemnim garažama i liftovima, a izgrađen je uz primenu kvalitetnih materijala i savremenih standarda gradnje. Smešten svega 60 metara od plaže Veliki Pijesak, stan nudi mirno okruženje i obilje sunca sa preko 270 dana godišnje, čineći ga savršenim izborom za život, odmor ili sigurnu investiciju.]]></description>
+    <description lang="en"><![CDATA[Available at Residence in Dobrim Vodama is a spacious three-bedroom apartment of 117.6 m² on the fourth floor. The modernly designed complex extends over seven floors, equipped with underground garages and elevators, and built using quality materials and modern construction standards. Located just 60 meters from Veliki Pijesak beach, the apartment offers a peaceful environment and abundant sunshine with over 270 days a year, making it a perfect choice for living, vacation, or a secure investment.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb378d11d-1b35-4f35-b7af-652cd503d1ba-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fee499315-01d9-4a20-a5ba-19689e1263f4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6463f864-fae7-43b2-8fa0-6bf96163ee63-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>1ccb80762538df8c</version>
+  </listing>
+  <listing>
+    <id>estitor:466507</id>
+    <reference>466507</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Bar]]></city>
+    <location><![CDATA[Dobra Voda, Bar]]></location>
+    <living_area_m2>83</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <floor><![CDATA[1. fl.]]></floor>
+    <title lang="me"><![CDATA[Prodaja, trosoban stan, 83m², Dobra Voda, Bar]]></title>
+    <title lang="en"><![CDATA[Sale, three bedroom apartment, 83m², Dobra Voda, Bar]]></title>
+    <description lang="me"><![CDATA[U ponudi X Residence u Dobrim Vodama nalazi se trosoban stan od 83.4 m² na četvrtom spratu. Kompleks je savremeno projektovan, sa sedam etaža, podzemnim garažama i liftovima, a izgrađen je kvalitetnim materijalima po modernim standardima.
+
+Smešten svega 60 metara od plaže Veliki Pijesak, objekat nudi mirno okruženje i sunčanu klimu sa preko 270 dana godišnje, čineći ga idealnim za život, odmor ili sigurnu investiciju.]]></description>
+    <description lang="en"><![CDATA[Available Residence in Dobrim Vodama features a three-bedroom apartment of 83.4 m² on the fourth floor. The complex is modernly designed, with seven floors, underground garages and elevators, and built with quality materials according to modern standards.
+
+Located just 60 meters from Veliki Pijesak beach, the property offers a peaceful environment and a sunny climate with over 270 days annually, making it ideal for living, vacation, or a secure investment.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc407b79f-e47a-46a2-9665-2c1f69ede747-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0eaf7101-2044-41c5-a303-3a95f0a8cbec-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7f76b1ee-5646-4b75-9ac0-415e0ad38600-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6c769a3e-3792-45b5-ad16-3262d2eb8394-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>2567dea438d1fdf9</version>
+  </listing>
+  <listing>
     <id>estitor:466559</id>
     <reference>466559</reference>
     <purpose>sale</purpose>
@@ -1006,6 +1083,322 @@ The complex also offers apartments with different layouts.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F63f5130c-3315-41c1-8cb8-7ca09c10a252-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>57208628d4d5db3b</version>
+  </listing>
+  <listing>
+    <id>estitor:468919</id>
+    <reference>468919</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Kotor]]></city>
+    <location><![CDATA[Kotor, Crna Gora]]></location>
+    <living_area_m2>119</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <floor><![CDATA[1. fl.]]></floor>
+    <condition><![CDATA[New / unused]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <parking><![CDATA[Garage]]></parking>
+    <title lang="me"><![CDATA[Prodaja, trosoban stan, 119m², Kotor, Crna Gora]]></title>
+    <title lang="en"><![CDATA[Sale, three bedroom apartment, 119m², Kotor, Crna Gora]]></title>
+    <description lang="me"><![CDATA[Na najlepšoj obali Crne Gore, u srcu Bokokotorskog zaliva, nastaje THE CUBE – savremeni premium kompleks koji spaja moderan dizajn, miran ambijent i vrhunski kvalitet gradnje.
+
+Na samo 13 km od Porto Montenegra i 15 minuta od aerodroma Tivat, THE CUBE nudi idealnu ravnotežu između luksuza, prirode i pristupačnosti.
+
+U ponudi:
+
+• 119.2 m² – 496.199 €
+• 129.6 m² – 506.699 €
+• 150.6 m² – 529.199 €
+• 183 m² – 639.499 €
+
+Svaki duplex ima privatnu terasu, ostavu, panoramski pogled na zaliv, opremljenu kuhinju sa ugradnim aparatima i stilizovana kupatila spremna za upotrebu.]]></description>
+    <description lang="en"><![CDATA[On the most beautiful coast of Montenegro, in the heart of the Bay of Kotor, is emerging THE CUBE – a modern premium complex that combines modern design, a peaceful ambiance, and top-quality construction.
+
+Just 13 km from Porto Montenegro and 15 minutes from Tivat airport, THE CUBE offers an ideal balance between luxury, nature, and accessibility.
+
+On offer:
+
+• 119.2 m² – 496.199 €
+• 129.6 m² – 506.699 €
+• 150.6 m² – 529.199 €
+• 183 m² – 639.499 €
+
+Each duplex has a private terrace, a storage room, panoramic views of the bay, an equipped kitchen with built-in appliances, and stylized bathrooms ready for use.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5ea6e784-9253-4476-a9d0-30ad4aa00c2d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb9256211-d404-4eac-9804-8ebf939ad30d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9aef1882-0b29-4c9c-b6b0-b6c8ef4f9096-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffa4f1748-98e5-48b4-8484-eeb3fc2c8b68-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc8199775-c682-4537-8f83-b85c9454943c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc24d3355-391f-4a87-8256-e8ef23606d0e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F83bfaf99-74f3-44eb-b177-48ec9f73d974-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa2df5b33-b699-4a6b-827a-c638ea2c9dd3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9ea16fdc-dd72-497f-92ab-7c11023e5643-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>dd16d44c03b10663</version>
+  </listing>
+  <listing>
+    <id>estitor:468949</id>
+    <reference>468949</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Tivat]]></city>
+    <location><![CDATA[Tivat, Crna Gora]]></location>
+    <living_area_m2>142</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <floor><![CDATA[1. fl.]]></floor>
+    <condition><![CDATA[New / unused]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <parking><![CDATA[Garage]]></parking>
+    <title lang="me"><![CDATA[Prodaja, trosoban stan, 142m², Tivat, Crna Gora]]></title>
+    <title lang="en"><![CDATA[Sale, three bedroom apartment, 142m², Tivat, Crna Gora]]></title>
+    <description lang="me"><![CDATA[Investiranjem u projekat "Dreams by Dukley", obezbeđujete garantovani godišnji prinos od 6% na uložena sredstva – savršen spoj prestiža i pametne investicije. Kupovinom nekretnine dobijate pristup vrhunskoj concierge usluzi i obezbeđenju koje je dostupno 24/7, omogućavajući vam bezbrižan životni stil u svakom trenutku.Plaćanje u različitim valutama, uključujući kriptovalute. Dostupni stanovi – Savremeni dizajn i komfor
+
+Svi stanovi su pažljivo projektovani, sa prostranim terasama i pripremom za ugradnju đakuzija (instalacija i đakuzi nisu uključeni u cenu).
+
+Dostupni stanovi:142.32 m² - 1.450000€
+
+69,64 m2 - 749.000€88 m² - 950.000€
+
+149.62 m2 - 1.680.000€
+
+68 m2 - 790.000€116 m2 - 1.680.000€
+
+79 m2 - 900.000€99 m2 - 1.100.000
+
+€126.69 m2 - 1.400.000€
+
+231 m2 - 2.500.000€
+
+281.79 m2 - 3.500.000€
+
+88.81 m2 - 1.150.000€,
+
+Lux, Odlična investicija, Miran kraj, Pogled na more]]></description>
+    <description lang="en"><![CDATA[By investing in the project "Dreams by Dukley", you secure a guaranteed annual return of 6% on invested funds – a perfect blend of prestige and smart investment. By purchasing a property, you gain access to premium concierge service and security available 24/7, allowing you a carefree lifestyle at all times.Payment in various currencies, including cryptocurrencies. Available apartments – Modern design and comfort
+
+All apartments are carefully designed, with spacious terraces and preparation for jacuzzi installation (installation and jacuzzi are not included in the price).
+
+Available apartments:142.32 m² - 1.450000€
+
+69,64 m2 - 749.000€88 m² - 950.000€
+
+149.62 m2 - 1.680.000€
+
+68 m2 - 790.000€116 m2 - 1.680.000€
+
+79 m2 - 900.000€99 m2 - 1.100.000
+
+€126.69 m2 - 1.400.000€
+
+231 m2 - 2.500.000€
+
+281.79 m2 - 3.500.000€
+
+88.81 m2 - 1.150.000€,
+
+Lux, Excellent investment, Quiet area, Sea view]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8530d163-93b3-4aee-b393-48f9f6f21cbd-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F12a973b4-c574-42e0-bf13-abaa75611421-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb8fb4501-e93b-4a73-a96b-342349972f02-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F180ebd96-11ad-4a05-976d-364363af7a74-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F488b299b-a82d-49ed-93f1-f0f4622f87ac-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F089b443c-2fc3-4594-95aa-0b9bc0e26fbe-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>265fc9543496fe38</version>
+  </listing>
+  <listing>
+    <id>estitor:470670</id>
+    <reference>470670</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Tivat]]></city>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <title lang="me"><![CDATA[Prodaja, dvosoban stan, Luštica Bay, Tivat]]></title>
+    <title lang="en"><![CDATA[Sale, two bedroom apartment, Luštica Bay, Tivat]]></title>
+    <description lang="me"><![CDATA[The Heights Apartments, nova kolekcija pažljivo dizajniranih rezidencija u okviru prestižne zajednice Luštica Bay – gdje se luksuz, priroda i mediteranski stil života spajaju u savršen sklad.
+
+Smještene iznad marine, ove moderne rezidencije nude spektakularne poglede, izuzetnu privatnost i neposrednu blizinu svih sadržaja – uključujući plaže, restorane, butike, golf teren i spa centre.
+
+Dostupni stanovi – The Heights
+
+Prizemlje
+
+38.49 m² – 317,000 €
+
+49.60 m² – 434,000 €
+
+44.53 m² – 390,000 €
+
+Prvi sprat
+
+67.10 m² – 567,000 €
+
+Drugi sprat
+
+93.08 m² – 753,000 €
+
+92.34 m² – 740,000 €
+
+Treći sprat
+
+115.24 m² – 903,000 €
+
+114.22 m² – 899,000 €
+
+183.29 m² – 1,591,000 €
+
+Zašto The Heights?
+
+Panoramski pogled na more i zaliv
+
+Savremena arhitektura i visok kvalitet gradnje
+
+Privatnost i sigurnost u okviru zatvorene zajednice
+
+Blizina marine, golf terena, spa centra i ekskluzivnih sadržaja]]></description>
+    <description lang="en"><![CDATA[The Heights Apartments, a new collection of carefully designed residences within the prestigious community of Luštica Bay – where luxury, nature, and the Mediterranean lifestyle merge in perfect harmony.
+
+Located above the marina, these modern residences offer spectacular views, exceptional privacy, and immediate proximity to all amenities – including beaches, restaurants, boutiques, a golf course, and spa centers.
+
+Available apartments – The Heights
+
+Ground floor
+
+38.49 m² – 317,000 €
+
+49.60 m² – 434,000 €
+
+44.53 m² – 390,000 €
+
+First floor
+
+67.10 m² – 567,000 €
+
+Second floor
+
+93.08 m² – 753,000 €
+
+92.34 m² – 740,000 €
+
+Third floor
+
+115.24 m² – 903,000 €
+
+114.22 m² – 899,000 €
+
+183.29 m² – 1,591,000 €
+
+Why The Heights?
+
+Panoramic view of the sea and bay
+
+Contemporary architecture and high quality construction
+
+Privacy and security within a gated community
+
+Proximity to the marina, golf course, spa center, and exclusive amenities]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9bc34660-58d5-42ae-8c01-154775dd280c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4485b6b9-f422-4071-99c9-7907f74d4bc3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>a4d0dbb2da4d2424</version>
+  </listing>
+  <listing>
+    <id>estitor:470674</id>
+    <reference>470674</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Tivat]]></city>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <title lang="me"><![CDATA[Prodaja, dvosoban stan, Luštica Bay, Tivat]]></title>
+    <title lang="en"><![CDATA[Sale, two bedroom apartment, Luštica Bay, Tivat]]></title>
+    <description lang="me"><![CDATA[Centrale zona se nalazi blizu Marina naselja u Luštica Bay-u i biće moderno urbano središte sa stanovima, prodavnicama, restoranima, kafićima, parkovima i javnim sadržajima. Povezana je sa svim ključnim delovima Luštice – marinom, golf terenom i plažama, kao i sa okolnim gradovima.
+
+Luštica Bay je ekskluzivno primorsko naselje sa luksuznim stanovima, restoranima, prodavnicama i hotelom Chedi 5★.
+
+270,500 € – 98.14 m² – 1-soban – Dec 2026
+
+504,000 € – 97.82 m² – 2-soban – Jun 2026
+
+604,000 € – 99.05 m² – 2-soban – Dec 2027
+
+687,500 € – 96.83 m² – 2-soban – Dec 2027
+
+687,500 € – 96.83 m² – 2-soban – Dec 2027
+
+708,500 € – 99.80 m² – 2-soban – Dec 2027
+
+759,500 € – 96.77 m² – 2-soban – Dec 2027
+
+770,500 € – 98.15 m² – 2-soban – Dec 2026
+
+825,000 € – 97.03 m² – 2-soban – Dec 2027
+
+840,000 € – 98.80 m² – 2-soban – Dec 2027
+
+1,055,500 € – 134.46 m² – 2-soban – Dec 2027
+
+1,089,000 € – 138.73 m² – 2-soban – Dec 2026
+
+1,526,000 € – 169.54 m² – 3-soban – Dec 2027
+
+15% prilikom potpisivanja ugovora, ostatak (85%) u 12 jednakih kvartalnih rata, bez kamate.]]></description>
+    <description lang="en"><![CDATA[The Centrale Zone is located near the Marina settlement in Luštica Bay and will be a modern urban center with apartments, shops, restaurants, cafes, parks, and public amenities. It is connected to all key parts of Luštica – the marina, golf course, and beaches, as well as to surrounding cities.
+
+Luštica Bay is an exclusive seaside settlement with luxury apartments, restaurants, shops, and the Chedi 5★ hotel.
+
+270,500 € – 98.14 m² – 1-bedroom – Dec 2026
+
+504,000 € – 97.82 m² – 2-bedroom – Jun 2026
+
+604,000 € – 99.05 m² – 2-bedroom – Dec 2027
+
+687,500 € – 96.83 m² – 2-bedroom – Dec 2027
+
+687,500 € – 96.83 m² – 2-bedroom – Dec 2027
+
+708,500 € – 99.80 m² – 2-bedroom – Dec 2027
+
+759,500 € – 96.77 m² – 2-bedroom – Dec 2027
+
+770,500 € – 98.15 m² – 2-bedroom – Dec 2026
+
+825,000 € – 97.03 m² – 2-bedroom – Dec 2027
+
+840,000 € – 98.80 m² – 2-bedroom – Dec 2027
+
+1,055,500 € – 134.46 m² – 2-bedroom – Dec 2027
+
+1,089,000 € – 138.73 m² – 2-bedroom – Dec 2026
+
+1,526,000 € – 169.54 m² – 3-bedroom – Dec 2027
+
+15% upon signing the contract, the remainder (85%) in 12 equal quarterly installments, without interest.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F233962e7-0e20-453c-8d4b-54dd25dce6d8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3dd56835-32a7-44c1-90b0-4deb359245b2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb36049fe-d681-498b-98a4-ace28e2bf17b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5643037b-7564-4918-b921-77c51582b655-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa72358e8-51b2-4aa4-bffa-ed0c5afc4827-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8632e747-b045-48fe-9ac3-e74e5dab2f6f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcf219e62-4df7-4f11-b231-06551cac6941-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>98f5fc928677da70</version>
   </listing>
   <listing>
     <id>estitor:471676</id>
