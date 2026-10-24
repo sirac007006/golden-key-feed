@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-10-24T10:44:44.836Z" count="884">
+<listings generated="2026-10-24T10:56:23.836Z" count="908">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -1997,6 +1997,116 @@ This location offers an excellent opportunity for the development of residential
     <version>b111d0bfbcd2217f</version>
   </listing>
   <listing>
+    <id>estitor:361531</id>
+    <reference>361531</reference>
+    <purpose>rent</purpose>
+    <type>commercial</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Zeta, Podgorica]]></location>
+    <living_area_m2>2500</living_area_m2>
+    <title lang="me"><![CDATA[Izdavanje, poslovni prostor, 2500m², Zeta, Podgorica]]></title>
+    <title lang="en"><![CDATA[Rent, office space, 2500m², Zeta, Podgorica]]></title>
+    <description lang="me"><![CDATA[Salon u višenamenske svrhe na magistralnom putu Podgorica Bar, 2500 kvadrata, raspoređenih na 4 nivoa.
+
+Prostor je opremljen klimatizacijom, rasvetom i parking mestima. Pogodan je za različite poslovne delatnosti. Lokacija je odlična, udaljena samo 1 km od aerodroma.
+
+Minimum na 2 godine.
+
+067/231-153]]></description>
+    <description lang="en"><![CDATA[Multi-purpose showroom on the main road Podgorica Bar, 2500 square meters, distributed over 4 levels.
+
+The space is equipped with air conditioning, lighting, and parking spaces. It is suitable for various business activities. The location is excellent, only 1 km from the airport.
+
+Minimum for 2 years.
+
+067/231-153]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff604a0d5-a8ef-4055-b137-3b6e0891a01d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4890a573-aba3-460b-9d1d-b5e0d62505a7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0ee54b9e-53b1-4dad-a4c7-e6d605251566-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffb3ff150-617f-472c-9316-ab902af37af7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb6b0ee42-5b8d-411b-90de-752314bb3bdb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F40e7dd5d-8e0f-4166-9578-bc5c9c5a88d2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F01e4d3f5-8a4e-40c9-be28-3f5fe3fd0ce6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa7cdfe6e-7a60-4d8a-89bf-12001f9fa6f4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff2b35f65-89ae-46d3-ad1f-d4a14a4f0b66-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>429b21fb76d5870a</version>
+  </listing>
+  <listing>
+    <id>estitor:361533</id>
+    <reference>361533</reference>
+    <purpose>sale</purpose>
+    <type>house</type>
+    <price currency="EUR">940000</price>
+    <country>ME</country>
+    <city><![CDATA[Kolašin]]></city>
+    <location><![CDATA[Kolašin, Crna Gora]]></location>
+    <living_area_m2>300</living_area_m2>
+    <title lang="me"><![CDATA[Prodaja, kuća, 300m², Kolašin, Crna Gora]]></title>
+    <title lang="en"><![CDATA[Sale, house, 300m², Kolašin, Crna Gora]]></title>
+    <description lang="me"><![CDATA[Luksuznu vilu od 300 m² u neposrednoj blizini Bianca hotela, u samom centru Kolašina. Vila je kompletno opremljena vrhunskim namještajem i modernim sadržajima, pružajući savršen spoj elegancije i udobnosti.
+
+067/231-153]]></description>
+    <description lang="en"><![CDATA[Luxury villa of 300 m² in the immediate vicinity of Bianca hotel, in the very center of Kolašin. The villa is fully furnished with high-end furniture and modern amenities, offering a perfect blend of elegance and comfort.
+
+067/231-153]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4bd6936d-7529-4332-8e24-549a0b981a8e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fff2eed6a-1e59-469f-8e23-68581ba3d46e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe1db6b87-b475-4510-b7a3-701360f8592d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6886c6ea-28aa-4218-aed9-5bce17a0bbb5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3ce500be-a223-4fba-9cdc-f7efa35df9e3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa3b48df2-d5e8-4087-971d-4b99510d4651-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fdf2741c2-f0e7-4665-b286-4314d42accb8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc6c41b51-2e8f-410f-8624-faa47faef38f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8c4aeef1-4256-43d8-8c3e-b6a4f8237f7c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Faab72d97-408f-4ed4-aff2-b81fec648733-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7ac1d572-6d56-4b72-9c56-3b7cd2311e50-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3f6ea6d8-62e6-4587-98b1-9bef0c749304-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff32d7b24-ddf7-41c3-b704-bb9fff6b8d0d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>e5b17e1e91c3a952</version>
+  </listing>
+  <listing>
+    <id>estitor:361540</id>
+    <reference>361540</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">126000</price>
+    <country>ME</country>
+    <city><![CDATA[Budva]]></city>
+    <location><![CDATA[Bečići, Budva]]></location>
+    <living_area_m2>60</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>1</bedrooms>
+    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 60m², Bečići, Budva]]></title>
+    <title lang="en"><![CDATA[Sale, one bedroom apartment, 60m², Bečići, Budva]]></title>
+    <description lang="me"><![CDATA[U ponudi je jednosoban apartman ukupne površine 60m², smješten u neposrednoj blizini hotela Splendid u Bečićima. Nalazi se u mirnom i atraktivnom dijelu, idealnom za odmor ili izdavanje tokom ljetnjih mjeseci. Apartman je funkcionalnog rasporeda, komforan i svijetao, a ispred zgrade je obezbijeđen parking prostor. Zbog svoje lokacije i sadržaja predstavlja odličnu investiciju kako za život, tako i za turističko rentiranje.
+
+Kontakt: 067/231-153]]></description>
+    <description lang="en"><![CDATA[Available is a one-bedroom apartment with a total area of 60m², located in the immediate vicinity of the Splendid hotel in Bečići. It is located in a peaceful and attractive area, ideal for vacation or renting out during the summer months. The apartment has a functional layout, is comfortable and bright, and a parking space is provided in front of the building. Due to its location and amenities, it represents an excellent investment both for living and for tourist rental.
+
+Contact: 067/231-153]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3459ddf2-f4e5-41fc-b30b-db0d54a40092-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd5c25a6b-4140-469a-8dd1-b01c4fecff44-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc7a39334-6303-4f96-9fab-51c343fc1a6a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5bf83506-dab3-43fa-8c51-3f5bbf12362a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F59df54d6-825d-4a7b-9788-b382d308aea8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F38b80e3d-e063-460a-8556-8b4e9628c4d5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8909b4c0-54ed-489e-b870-25e46b34df96-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F16b5cc8f-cdec-4fe6-afbb-ac610fb755d7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc4420609-4619-4b14-b8d2-d7cd6b59c1c4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2735ce2a-f0d1-46f5-b57b-ea737e7ed1ec-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F047acc50-7965-47af-a93b-2f9b762f3b58-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe1f03daf-ef4e-49c9-a531-64bfbac3960e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>2bf9ea4433ad26e9</version>
+  </listing>
+  <listing>
     <id>estitor:361541</id>
     <reference>361541</reference>
     <purpose>sale</purpose>
@@ -2083,6 +2193,56 @@ Total: 6 bedrooms, 5 bathrooms, 3 kitchens, 4 terraces. Construction started 200
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F092a61d9-a941-41f3-a2b0-7756d9b00b3e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>e5e1f7237a432161</version>
+  </listing>
+  <listing>
+    <id>estitor:361548</id>
+    <reference>361548</reference>
+    <purpose>rent</purpose>
+    <type>commercial</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Gornja Gorica, Podgorica]]></location>
+    <living_area_m2>440</living_area_m2>
+    <title lang="me"><![CDATA[Izdavanje, poslovni prostor, 440m², Gornja Gorica, Podgorica]]></title>
+    <title lang="en"><![CDATA[Rent, office space, 440m², Gornja Gorica, Podgorica]]></title>
+    <description lang="me"><![CDATA[Novoizgrađeni objekat modernog dizajna nalazi se u Gornjoj Gorici, 1,5 km od Komanskog mosta, uz bulevar. Površina objekta je 440 m² na placu od 400 m², sa prizemljem i spratom.
+
+Na spratu se nalaze četiri jednosobna stana i jedna garsonjera (ukupno 220 m²), potpuno opremljeni i spremni za useljenje. Svaki stan ima balkon, spuštene plafone sa rasvjetom, kvalitetnu stolariju, roletne na dugme, komarnike i optičku mrežu.
+
+Prizemlje čini poslovni prostor od 220 m², sa visinom plafona 4,5 m, čajnom kuhinjom i toaletom, spreman za više namjena.
+
+Dvorište je ograđeno i uređeno, sa parkingom za 7 vozila. Objekat posjeduje video nadzor, alarm, internet, klimu i blindirana vrata. Uknjižen, sa kompletnom infrastrukturom.
+
+Cijena najma stanova: 400 €
+
+Poslovni prostor: po dogovoru
+
+067/231-153]]></description>
+    <description lang="en"><![CDATA[Newly built property of modern design is located in Gornjoj Gorici, 1.5 km from Komanskog mosta, along the boulevard. The area of the property is 440 m² on a land plot of 400 m², with a ground floor and an upper floor.
+
+On the upper floor there are four one-bedroom apartments and one studio apartment (total 220 m²), fully equipped and move-in ready. Each apartment has a balcony, suspended ceilings with lighting, quality carpentry, button-operated blinds, mosquito nets and an optical network.
+
+The ground floor comprises a commercial space of 220 m², with a ceiling height of 4.5 m, a kitchenette and a toilet, ready for various purposes.
+
+The courtyard is fenced and landscaped, with parking for 7 vehicles. The property features video surveillance, an alarm, internet, air conditioning and security doors. Registered, with complete infrastructure.
+
+Apartment rental price: 400 €
+
+Commercial space: by agreement
+
+067/231-153]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd466a358-3402-47f3-a69a-b8cfc220baff-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb065b5b6-8fbe-43e2-9a08-815f455ddbe2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffc103b33-d848-42c2-a90f-59a9eec081b9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7c934969-7b22-44fd-b544-728bb74f3cdb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F262b5347-6449-46d1-954a-3cc229f25aea-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9bb81713-ce58-46ff-9888-8f0d49b46a39-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F24d3a2f8-ef67-4b70-a596-13f7b13d6b74-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5e9a655d-02a5-4d3e-a76b-0829aa85244a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>b474304846300dc1</version>
   </listing>
   <listing>
     <id>estitor:361550</id>
@@ -3339,6 +3499,43 @@ This villa represents a unique opportunity for a luxurious family life, but also
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4b8f641b-d252-4e96-9376-271670f272bb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>6a42680ac4074c85</version>
+  </listing>
+  <listing>
+    <id>estitor:454443</id>
+    <reference>454443</reference>
+    <purpose>sale</purpose>
+    <type>house</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Srbija]]></city>
+    <location><![CDATA[Valjevo, Srbija]]></location>
+    <living_area_m2>180</living_area_m2>
+    <rooms>4</rooms>
+    <bedrooms>4</bedrooms>
+    <bathrooms>1</bathrooms>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <title lang="me"><![CDATA[Prodaja, kuća, 180m², Valjevo, Srbija]]></title>
+    <title lang="en"><![CDATA[Sale, house, 180m², Valjevo, Srbija]]></title>
+    <description lang="me"><![CDATA[Na prodaju porodično imanje u Valjevskoj Loznici, nadomak Valjeva. Imanje obuhvata 3 hektara(30 000m2) plodne zemlje, šumu, podignute šljivike, kao i stambeni objekat površine 180 m² uz dodatnih 100 m² pomoćnih objekata (uključujući pečenjaru).
+
+Kuća ima 4 spavaće sobe, jedno kupatilo i obezbijeđen parking za četiri vozila. Imanje izlazi na seosku rječicu i posjeduje sopstveni bunar, a dostupni su i gradski vodovod, rasvjeta i dobra putna povezanost. Udaljeno je svega par minuta od magistrale i lokalne pruge, 7–8 minuta vožnje od centra Valjeva i oko 30 minuta od Beograda. Lokacija je mirna, okružena prirodom, u blizini više banja (Vrujci), idealna za život, odmor ili razvoj seoskog turizma. Može zamjena za Cg, primorje i Pg.
+
+067/231-153]]></description>
+    <description lang="en"><![CDATA[For sale, a family estate in Valjevska Loznica, near Valjevo. The estate includes 3 hectares (30,000m2) of fertile land, a forest, established plum orchards, as well as a residential building of 180 m² with an additional 100 m² of auxiliary buildings (including a barbecue house).
+
+The house has 4 bedrooms, one bathroom, and secured parking for four vehicles. The estate borders a rural stream and has its own well, and city water supply, lighting, and good road connectivity are available. It is just a few minutes from the main road and local railway, 7–8 minutes drive from the center of Valjevo, and about 30 minutes from Beograd. The location is peaceful, surrounded by nature, near several spas (Vrujci), ideal for living, vacation, or the development of rural tourism. Exchange possible for Cg, the coast, and Pg.
+
+067/231-153]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F64152040-739b-44fd-8c60-f0595b685d8c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd55a4c84-5d09-41a1-a446-b906e985c875-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8854c5cc-adf1-4641-9c16-657c28ec171b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2a4cf08e-b7f8-40ad-ab52-6c78ccc013c1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0aac32ed-a473-4f2d-aaf9-669a8ea6d71e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F263fe1fe-1dfa-4cdd-8928-05b84c34550e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F096804e6-6a78-4d02-8136-7dd0260ed736-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>166e301c6c5262d4</version>
   </listing>
   <listing>
     <id>estitor:459814</id>
@@ -7675,6 +7872,51 @@ The building is located in a quiet and well-connected location, in close proximi
     <version>77aee3b2179a25f4</version>
   </listing>
   <listing>
+    <id>estitor:489090</id>
+    <reference>489090</reference>
+    <purpose>sale</purpose>
+    <type>land</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Podgorica, Crna Gora]]></location>
+    <land_area_m2>2175</land_area_m2>
+    <title lang="me"><![CDATA[Prodaja, plac, 2175m², Podgorica, Crna Gora]]></title>
+    <title lang="en"><![CDATA[Sale, land lot, 2175m², Podgorica, Crna Gora]]></title>
+    <description lang="me"><![CDATA[Prodaje se urbanizovan plac površine 2.175 m² u Donjoj Gorici, u neposrednoj blizini južne zaobilaznice i kompanije Allianz (udaljenost oko 150 m). Mogućnost parcelizacije.
+
+✅ Dozvoljena gradnja: privremeni montažni objekat (hangar) površine do 1.000 m²
+
+✅ Pristup: plac posjeduje svoj pristupni put
+
+✅ Infrastruktura: nema dalekovoda, uredno vlasništvo 1/1
+
+✅ Lokalitet: mirna i perspektivna zona u razvoju, odlična saobraćajna povezanost
+
+Prema važećim planskim dokumentima, pored placa je planirana nova saobraćajnica koja će izlaziti direktno na južnu zaobilaznicu, što dodatno povećava atraktivnost lokacije.
+
+Idealno za poslovne namjene, skladište, servis ili slične objekte montažnog tipa.]]></description>
+    <description lang="en"><![CDATA[An urbanized land plot with an area of 2.175 m² for sale in Donja Gorica, in the immediate vicinity of the southern bypass and Allianz company (distance approximately 150 m). Possibility of parcelization.
+
+✅ Permitted construction: temporary prefabricated building (hangar) with an area of up to 1.000 m²
+
+✅ Access: the land plot has its own access road
+
+✅ Infrastructure: no power lines, clear ownership 1/1
+
+✅ Location: quiet and promising developing zone, excellent transport connectivity
+
+According to valid planning documents, a new road is planned next to the land plot, which will directly exit onto the southern bypass, which further increases the attractiveness of the location.
+
+Ideal for commercial purposes, warehouse, service center or similar prefabricated type facilities.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd5070237-115b-446e-b4bf-2cded6f70c82-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbf087edb-101c-4cd8-81cf-fa4a896ebb7e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe52c98bf-73be-49a6-a056-7456b9b05710-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>326815691b6da18f</version>
+  </listing>
+  <listing>
     <id>estitor:489449</id>
     <reference>489449</reference>
     <purpose>sale</purpose>
@@ -8612,6 +8854,60 @@ This apartment represents an excellent choice for family living, but also as an 
     <version>02c463007bec9770</version>
   </listing>
   <listing>
+    <id>estitor:491854</id>
+    <reference>491854</reference>
+    <purpose>rent</purpose>
+    <type>apartment</type>
+    <price currency="EUR">850</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Tuški Put, Podgorica]]></location>
+    <living_area_m2>84</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <title lang="me"><![CDATA[Izdavanje, trosoban stan, 84m², Tuški Put, Podgorica]]></title>
+    <title lang="en"><![CDATA[Rent, three bedroom apartment, 84m², Tuški Put, Podgorica]]></title>
+    <description lang="me"><![CDATA[Izdaje se namješten trosoban stan 84m², na Tuškom putu.
+
+✅ Površina: 84 m²
+
+✅ Struktura: trosoban
+
+✅ Namješten
+
+✅ Vešeraj
+
+✅ Mirno okruženje
+
+Prednost imaju nepušači i bračni parovi sa jednim malim djetetom.]]></description>
+    <description lang="en"><![CDATA[For rent, a furnished three-bedroom apartment 84m², on Tuški put.
+
+✅ Area: 84 m²
+
+✅ Structure: three-bedroom
+
+✅ Furnished
+
+✅ Laundry room
+
+✅ Quiet environment
+
+Preference is given to non-smokers and married couples with one small child.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2942272c-3049-4043-82be-6cf14f5bf6d8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F894cd865-2ef5-4e9a-91a1-931f2486a057-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff3e28997-18a3-4c48-89c1-e049760c998e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff1fbc67f-7d9e-4b2d-b4a2-0f78bfbaa874-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa5bc0b08-07d4-43cc-b03d-7362fc668f03-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffc1f23bb-70a7-40df-b5f8-9f77f428ff27-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa27a87c1-151c-45c6-b38a-38380bc5485b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6f9bcc2c-d742-4e37-ae5b-a8a3fd3b760f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7c8f195a-ddb8-4845-a77c-2d8199deb1ea-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2e7b8884-cd68-4e46-99d3-b3c2d9200ec3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>7184884dce3f4b2e</version>
+  </listing>
+  <listing>
     <id>estitor:491857</id>
     <reference>491857</reference>
     <purpose>sale</purpose>
@@ -8706,6 +9002,42 @@ The apartment consists of a living room with kitchen and dining area, two bedroo
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F78e3844b-c0df-4b31-8794-de9c0281f7d4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>f834a9c7fddb7294</version>
+  </listing>
+  <listing>
+    <id>estitor:492109</id>
+    <reference>492109</reference>
+    <purpose>rent</purpose>
+    <type>apartment</type>
+    <price currency="EUR">1000</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Vezirov Most, Podgorica]]></location>
+    <living_area_m2>95</living_area_m2>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <title lang="me"><![CDATA[Izdavanje, dvosoban stan, 95m², Vezirov Most, Podgorica]]></title>
+    <title lang="en"><![CDATA[Rent, two bedroom apartment, 95m², Vezirov Most, Podgorica]]></title>
+    <description lang="me"><![CDATA[Luksuzno namješten dvosoban stan 94m2 nalazi se na prvom spratu zgrade u blizini Vezirovog mosta. Oremljen je sa modernim i kvalitetnim namjestajem i tehnikom, izuzetno je komforan, posjeduje dvije terase, kupatilo i toalet kao i sve potrebne uređaje za domaćinstvo.
+
+Uključeno parking mjesto.
+
+Struja se plaća bez PDV, jer se brojilo vodi na Ambasadu. Cijena 1000€.]]></description>
+    <description lang="en"><![CDATA[This luxuriously furnished two-bedroom apartment of 94m2 is located on the first floor of a building near Vezirov most. It is equipped with modern and high-quality furniture and appliances, it is extremely comfortable, has two terraces, a bathroom and a toilet, as well as all necessary household appliances.
+
+A parking space is included.
+
+Electricity is paid without VAT, because the meter is registered to the Embassy. Price 1000€.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F76bdd49e-7081-4062-95a8-f094adee5e3e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F42e49268-fbc8-46a5-8b2d-f25bfd665ded-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1ca0052f-aac1-43ab-9e95-a9ebb680de70-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F02c41578-a479-45d5-8ee9-bddcbb09ab54-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1cba3d37-d8e5-4a41-9326-af915c823937-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2efac63c-a885-4511-ab58-5a91291aa21c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fac088023-5a82-4bf3-91c2-204bd80f09b1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe215073c-9930-4f94-91bb-74c7ac324ce6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>857a6432323d485f</version>
   </listing>
   <listing>
     <id>estitor:492114</id>
@@ -9942,6 +10274,74 @@ Kompleks se nalazi na atraktivnoj lokaciji, svega 950 m od centra Bara, na pravc
     <version>ccc8ded5f0a9e5a6</version>
   </listing>
   <listing>
+    <id>estitor:537580</id>
+    <reference>537580</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">120000</price>
+    <country>ME</country>
+    <city><![CDATA[Bar]]></city>
+    <location><![CDATA[Centar, Bar]]></location>
+    <living_area_m2>42</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>1</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[Ground Floor]]></floor>
+    <condition><![CDATA[New / unused]]></condition>
+    <parking><![CDATA[Garage]]></parking>
+    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 42m², Centar, Bar]]></title>
+    <title lang="en"><![CDATA[Sale, one bedroom apartment, 42m², Centar, Bar]]></title>
+    <description lang="me"><![CDATA[U ponudi moderan stambeni kompleks savremene arhitekture, projektovan po visokim standardima gradnje i funkcionalnosti.
+
+Objekat je spratnosti -2Po + Pr + 10, i sastoji se od dvije lamele (A i B), sa dvije podzemne etaže namijenjene garažama i ostavama. Stanarima su na raspolaganju recepcije, kao i 6 liftova, uz implementirane smart sisteme za dodatni komfor i sigurnost.
+
+U ponudi su različite strukture stanova:
+
+• jednosobni apartmani: 42,04 – 50,94 m²
+
+• dvosobni apartmani: 83,18 m²
+
+• penthausi: 103,72 – 113,23 m²
+
+Već po cijeni 120.000€ se mogu kupiti jednosobni stanovi. U cijenu stana uključeno parking mjesto.
+
+Kompleks se nalazi na atraktivnoj lokaciji, svega 950 m od centra Bara, na pravcu ka Ulcinju i Velikoj plaži.]]></description>
+    <description lang="en"><![CDATA[On offer is a modern residential complex of contemporary architecture, designed according to high standards of construction and functionality.
+
+The building has -2Po + Pr + 10 floors, and consists of two lamellae (A and B), with two underground floors intended for garages and storage rooms. Receptions are available to residents, as well as 6 elevators, with implemented smart systems for additional comfort and security.
+
+Different apartment structures are available:
+
+• one-bedroom apartments: 42,04 – 50,94 m²
+
+• two-bedroom apartments: 83,18 m²
+
+• penthouses: 103,72 – 113,23 m²
+
+One-bedroom apartments can be purchased for prices starting from 120.000€. A parking space is included in the apartment price.
+
+The complex is located in an attractive location, just 950 m from the center of Bar, on the way to Ulcinj and Velika plaža.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Faaa46900-f02a-4788-9e19-88553faa973b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7ada810b-78b2-4776-81fd-fe53ef52de89-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc9937eb8-d3b0-4a3d-b84f-4604df7ac8f1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa58b8101-dee4-46a8-aefb-044cd0bef90d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fdebe01bf-2b04-479b-8729-a42890819dc4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9f7a4f7b-72a3-4cec-8a77-f8f01f0e136f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0a1f70c0-4b77-46ae-b4ab-2887be9cd819-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F454ef556-641c-49c7-8a51-aa0fa19bb2dc-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5fbfbb01-f4db-46f2-b3ff-351b1ba94e87-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F006296ae-5025-4cd0-aef0-f1ae84c7f83a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F887a2069-4a9b-4650-9fa2-f6f8cb46f60a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffadb208d-e304-42dd-8866-b5c2854872f8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcbf02af7-b43c-4a36-9c1e-e5a56ad6a1e2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2fc10dff-8005-43a7-8e7a-76d8240def05-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4b3542d4-50c5-4855-80ec-3ab1e9fda7a4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F487c86fb-7042-4faa-8bc3-18b63b568098-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>bf9a53d5475d3503</version>
+  </listing>
+  <listing>
     <id>estitor:537592</id>
     <reference>537592</reference>
     <purpose>rent</purpose>
@@ -10466,6 +10866,45 @@ Cijene stanova kreću se u rasponu od 302.820 € do 459.380 €., Odmah useljiv
     <version>115cfff6e03da93f</version>
   </listing>
   <listing>
+    <id>estitor:538850</id>
+    <reference>538850</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">130000</price>
+    <country>ME</country>
+    <city><![CDATA[Budva]]></city>
+    <location><![CDATA[Bečići, Budva]]></location>
+    <living_area_m2>47</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>1</bedrooms>
+    <bathrooms>1</bathrooms>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <parking><![CDATA[In front of building]]></parking>
+    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 47m², Bečići, Budva]]></title>
+    <title lang="en"><![CDATA[Sale, one bedroom apartment, 47m², Bečići, Budva]]></title>
+    <description lang="me"><![CDATA[Na prodaju potpuno opremljen stan u prizemlju u Bečićima, površine 47m². Stan je funkcionalno organizovan i spreman za useljenje.
+
+Nalazi se na odličnoj lokaciji, u mirnom dijelu. Ispred zgrade obezbijeđeno je parking mjesto, što predstavlja dodatnu pogodnost.
+
+Cijena stana iznosi 130.000€.]]></description>
+    <description lang="en"><![CDATA[For sale, a fully equipped apartment on the ground floor in Bečići, with an area of 47m². The apartment is functionally organized and move-in ready.
+
+It is located in an excellent location, in a quiet area. In front of the building, a parking space is provided, which represents an additional convenience.
+
+The price of the apartment is 130.000€.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe14716b9-f08a-4bb3-a997-008aadd6fa41-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4ccf38f6-6911-4d2f-83e9-6c8ef1c9ebd3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe30689f4-66ec-49f9-81cd-f217903da0cb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff55f04e2-3722-4f8a-ad6a-7d2f55280e49-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fdd76530e-4044-4840-81bd-ca1bd5e713a7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1e5af133-c468-4e87-933b-8e3f714be1ab-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fff7bdada-9ebd-4451-a831-ea0be033319a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>e1dc0aa390322ed2</version>
+  </listing>
+  <listing>
     <id>estitor:538868</id>
     <reference>538868</reference>
     <purpose>sale</purpose>
@@ -10505,6 +10944,74 @@ Potrebno je renoviranje.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcae66b0e-d232-4cb8-85f4-a09bb35a6837-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>de162100273d3dbd</version>
+  </listing>
+  <listing>
+    <id>estitor:538869</id>
+    <reference>538869</reference>
+    <purpose>rent</purpose>
+    <type>apartment</type>
+    <price currency="EUR">800</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Centar, Podgorica]]></location>
+    <living_area_m2>105</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[6. fl.]]></floor>
+    <furnished><![CDATA[Yes]]></furnished>
+    <title lang="me"><![CDATA[Izdavanje, trosoban stan, 105m², Centar, Podgorica]]></title>
+    <title lang="en"><![CDATA[Rent, three bedroom apartment, 105m², Centar, Podgorica]]></title>
+    <description lang="me"><![CDATA[Trosoban stan 105m2 na 6. spratu u zgradi Krstarice. Namjesten, ima javni parking ispred zgrade. Lift je u funkciji.]]></description>
+    <description lang="en"><![CDATA[Three-room apartment 105m2 on the 6th floor in the Krstarice building. Furnished, it has public parking in front of the building. The elevator is functional.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc09584f0-39ac-4b55-b09d-6ca29d10cd9f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4a1900ab-7e72-4c9f-b378-816181b6e3c2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>ef516ae1b843562a</version>
+  </listing>
+  <listing>
+    <id>estitor:538919</id>
+    <reference>538919</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">115000</price>
+    <country>ME</country>
+    <city><![CDATA[Budva]]></city>
+    <location><![CDATA[Petrovac, Budva]]></location>
+    <living_area_m2>102</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>1</bedrooms>
+    <bathrooms>1</bathrooms>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <parking><![CDATA[In front of building]]></parking>
+    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 102m², Petrovac, Budva]]></title>
+    <title lang="en"><![CDATA[Sale, one bedroom apartment, 102m², Petrovac, Budva]]></title>
+    <description lang="me"><![CDATA[Prodaje se jednosoban stan površine 42 m², upisan u List nepokretnosti, uz prostranu terasu od dodatnih 30 m² sa djelimičnim pogledom na more.
+
+Stan se izdvaja po posebnom, zasebnom ulazu direktno sa terase, što pruža dodatnu privatnost, mir i osjećaj odvojenosti, dok je istovremeno omogućen i klasičan ulaz kroz zgradu. Ova karakteristika ga čini idealnim kako za stanovanje, tako i za izdavanje.
+
+Nekretnina posjeduje urednu dokumentaciju, vlasništvo 1/1, bez tereta i ograničenja. Uz stan dolazi i obezbijeđeno parking mjesto.
+
+Odlična prilika za one koji traže funkcionalan prostor sa dodatnom vrijednošću u vidu velike terase i privatnog ulaza.]]></description>
+    <description lang="en"><![CDATA[A one-bedroom apartment with an area of 42 m² is for sale, registered in the Property Register, along with a spacious terrace of an additional 30 m² with a partial sea view.
+
+The apartment stands out for its special, separate entrance directly from the terrace, which provides additional privacy, peace, and a sense of seclusion, while a classic entrance through the building is also enabled. This feature makes it ideal both for living and for renting out.
+
+The property has clean documentation, ownership 1/1, without encumbrances and restrictions. The apartment also comes with a secured parking space.
+
+An excellent opportunity for those seeking a functional space with added value in the form of a large terrace and a private entrance.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F71ce63ce-4eca-451c-ab49-dd7f7133ac90-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8f346799-018a-4171-8f98-115e486963dd-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9f82b0ad-637a-4394-913a-a65de2a4f4c6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe9d999ee-ee67-477f-895e-ce8b555dc3f8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9c95224d-2cd7-4c39-b6b1-38bd8b9b44b0-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe9f69930-6287-4ca6-a6c4-037a85d86a99-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F85b802ac-829a-462f-863d-b4405b384200-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>64536c6696da0946</version>
   </listing>
   <listing>
     <id>estitor:538942</id>
@@ -11765,6 +12272,30 @@ Type: basement]]></description>
     <version>3e7d67ca85480505</version>
   </listing>
   <listing>
+    <id>estitor:540010</id>
+    <reference>540010</reference>
+    <purpose>sale</purpose>
+    <type>land</type>
+    <price currency="EUR">115000</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Donji Kokoti, Podgorica]]></location>
+    <land_area_m2>1100</land_area_m2>
+    <title lang="me"><![CDATA[Prodaja, plac, 1100m², Donji Kokoti, Podgorica]]></title>
+    <title lang="en"><![CDATA[Sale, land lot, 1100m², Donji Kokoti, Podgorica]]></title>
+    <description lang="me"><![CDATA[Plac u Kokotima – 1100 m², 200–300 m od teniskih terena
+
+Ravna parcela na mirnoj lokaciji, idealna za gradnju kuće ili vikendice. Blizina sportskih sadržaja i laka pristupačnost.]]></description>
+    <description lang="en"><![CDATA[Land plot in Kokotima – 1100 m², 200–300 m from tennis courts
+
+Flat plot in a quiet location, ideal for building a house or a weekend house. Proximity to sports facilities and easy accessibility.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd5a38f87-2e91-4563-a024-a061863252c9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F32616445-06bc-4172-bc55-c0e1789a4f2f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>5f737be2ee5392c9</version>
+  </listing>
+  <listing>
     <id>estitor:540021</id>
     <reference>540021</reference>
     <purpose>sale</purpose>
@@ -12217,6 +12748,48 @@ The space is located in the urban part of the city, in the immediate vicinity of
     <version>6e6320f94b25d0e6</version>
   </listing>
   <listing>
+    <id>estitor:540540</id>
+    <reference>540540</reference>
+    <purpose>sale</purpose>
+    <type>commercial</type>
+    <price currency="EUR">2000</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Tološka šuma, Podgorica]]></location>
+    <living_area_m2>100</living_area_m2>
+    <rooms>3</rooms>
+    <bedrooms>3</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[Ground Floor]]></floor>
+    <condition><![CDATA[New / unused]]></condition>
+    <furnished><![CDATA[No]]></furnished>
+    <parking><![CDATA[Public parking]]></parking>
+    <title lang="me"><![CDATA[Prodaja, poslovni prostor, 100m², Tološka šuma, Podgorica]]></title>
+    <title lang="en"><![CDATA[Sale, office space, 100m², Tološka šuma, Podgorica]]></title>
+    <description lang="me"><![CDATA[Ukupna površina objekta iznosi 100 m², raspoređenih na dvije funkcionalne etaže:
+Prizemlje – 64 m²
+Prostran i prirodno osvijetljen prostor, savršen za prijem klijenata, izložbeni salon, kancelarije ili maloprodajnu djelatnost. Fleksibilan raspored omogućava prilagodbu različitim poslovnim potrebama.
+Suteren – 36 m²
+Praktičan i svestran prostor koji se može koristiti kao skladište, dodatni uredski prostor, radionica ili za druge poslovne aktivnosti.
+Nekretnina se nalazi u urbanom dijelu grada, na atraktivnoj lokaciji u ulici Baku, s izvrsnom povezanošću prema svim ključnim saobraćajnicama i infrastrukturom. Blizina svih važnih sadržaja čini ovu lokaciju idealnom za širok spektar poslovnih djelatnosti – od trgovine i uslužnih djelatnosti, do kancelarijskog ili proizvodnog prostora.]]></description>
+    <description lang="en"><![CDATA[Total area of the property is 100 m², distributed over two functional floors:
+Ground floor – 64 m²
+Spacious and naturally lit area, perfect for client reception, a showroom, offices, or retail activities. Flexible layout allows adaptation to various business needs.
+Basement – 36 m²
+Practical and versatile space that can be used as storage, additional office space, a workshop, or for other business activities.
+The property is located in an urban part of the city, in an attractive location on Baku street, with excellent connectivity to all key roads and infrastructure. The proximity of all important amenities makes this location ideal for a wide range of business activities – from trade and service activities, to office or production space.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F34153840-9860-48d5-9d49-57fe6f79f6f5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F17c79fa6-8909-4827-80de-6c69d69aabf4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F990a74a4-a40b-455f-a091-7d7342efd6f6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff44ffbc8-d6be-4b23-aac9-1602ab2c7c0a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2384cb8c-4ecd-4adf-b60f-a38b356fc77b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcff9df46-b9d4-4143-9e5d-8de4172d6a21-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc2ba4d94-b6d4-4aed-a267-1948a1e63f72-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>577224c9c4d2629a</version>
+  </listing>
+  <listing>
     <id>estitor:540565</id>
     <reference>540565</reference>
     <purpose>rent</purpose>
@@ -12441,6 +13014,32 @@ Purpose and potential:• luxury residential complexes• commercial-retail faci
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F801107e0-7f75-46b2-ab5e-776c45100ad8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>a066f1d3003081ea</version>
+  </listing>
+  <listing>
+    <id>estitor:540601</id>
+    <reference>540601</reference>
+    <purpose>sale</purpose>
+    <type>house</type>
+    <price currency="EUR">850000</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Tološi, Podgorica]]></location>
+    <living_area_m2>300</living_area_m2>
+    <rooms>5</rooms>
+    <bedrooms>5</bedrooms>
+    <bathrooms>3</bathrooms>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <parking><![CDATA[In front of building]]></parking>
+    <title lang="me"><![CDATA[Prodaja, kuća, 300m², Tološi, Podgorica]]></title>
+    <title lang="en"><![CDATA[Sale, house, 300m², Tološi, Podgorica]]></title>
+    <description lang="me"><![CDATA[Na prodaju je luksuzna kuća u Podgorici, smještena u naselju Tološi. Kuća je prostorno raspoređena na 300 m³, dok ukupna površina placa iznosi 450 m². Svi sadržaji u kući su na visokom nivou, a interijer je dizajniran s posebnom pažnjom, s elementima koji podsjećaju na američki stil. U kući je živio bivši američki konzul, što dodatno potvrđuje kvalitet i prestiž lokacije. Zemljište je u potpunom vlasništvu (1/1).067/231-153, Uknjiženo, Miran kraj]]></description>
+    <description lang="en"><![CDATA[A luxury house is for sale in Podgorica, located in the Tološi neighborhood. The house is spatially distributed over 300 m³, while the total land plot area is 450 m². All amenities in the house are of a high standard, and the interior is designed with special care, with elements reminiscent of American style. The former American consul lived in the house, which further confirms the quality and prestige of the location. The land is in full ownership (1/1).067/231-153, Registered, Quiet neighborhood]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2e549ee4-89e4-446f-a244-e92c6cba6093-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F41bd16af-b474-4bb9-acf5-0274e4ad8ef3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>a2f3e5779c3dd5e7</version>
   </listing>
   <listing>
     <id>estitor:540602</id>
@@ -13022,6 +13621,39 @@ The street divides Acton buildings on the right side.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Faf318943-8b77-4be7-8f41-f405f785c78e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>af947d0e8c39acff</version>
+  </listing>
+  <listing>
+    <id>estitor:540941</id>
+    <reference>540941</reference>
+    <purpose>sale</purpose>
+    <type>land</type>
+    <price currency="EUR">800000</price>
+    <country>ME</country>
+    <city><![CDATA[Kotor]]></city>
+    <location><![CDATA[Dobrota, Kotor]]></location>
+    <land_area_m2>1059</land_area_m2>
+    <title lang="me"><![CDATA[Prodaja, plac, 1059m², Dobrota, Kotor]]></title>
+    <title lang="en"><![CDATA[Sale, land lot, 1059m², Dobrota, Kotor]]></title>
+    <description lang="me"><![CDATA[Lokacija se nalazi u najznačajnijem dijelu naselja Dobrota, što ovu poziciju čini posebno atraktivnom za stambenu izgradnju. Prema Nacrtu urbanističko-tehničkih uslova, na predmetnom prostoru planirana je izgradnja stambenih objekata spratnosti P+1+Pk, na placu ukupne bruto građevinske površine (BRGP) od 1059 m².
+
+Zemljište je u katastru evidentirano kao „šume II klase“, ukupne površine 1059 m².
+
+Urbanistički parametriPovršina urbanističke parcele: 1059 m²Maksimalni indeks zauzetosti: 0,35 (za odmak 100–1000 m)Pz = 370 m²Maksimalni indeks izgrađenosti: 1 (za odmak 100–1000 m)Maksimalna bruto građevinska površina objekata: 1059 m²Minimalni procenat ozelenjenosti: 25–30%Pomoćni objektiNa parceli predviđenoj za izgradnju stambenog objekta dozvoljena je i izgradnja pomoćnih objekata, poput garaže, ljetnje kuhinje ili ostave.
+
+Maksimalna spratnost: prizemna (P)Maksimalna visina: 3,0 mMaksimalna površina: do 30 m²Pomoćni objekti moraju biti smješteni unutar predviđenih građevinskih linija glavnog objekta., Miran kraj, Pogled na more, Odlična investicija]]></description>
+    <description lang="en"><![CDATA[The location is in the most significant part of the Dobrota neighborhood, which makes this position particularly attractive for residential construction. According to the Draft urban-technical conditions, on the subject area, the construction of residential buildings with P+1+Pk floors is planned, on a land plot with a total gross building area (BRGP) of 1059 m².
+
+The land is registered in the cadastre as “forests of class II”, with a total area of 1059 m².
+
+Urban parametersUrban plot area: 1059 m²Maximum occupancy index: 0.35 (for setback 100–1000 m)Pz = 370 m²Maximum build-up index: 1 (for setback 100–1000 m)Maximum gross building area of objects: 1059 m²Minimum green area percentage: 25–30%Ancillary facilitiesOn the plot intended for the construction of a residential building, the construction of ancillary facilities is also permitted, such as a garage, summer kitchen, or storage room.
+
+Maximum number of floors: ground floor (P)Maximum height: 3.0 mMaximum area: up to 30 m²Ancillary facilities must be located within the foreseen building lines of the main building., Quiet area, Sea view, Excellent investment]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcbc549ff-9dd8-49f8-9365-414d2acec955-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4b15133c-c2c1-4a88-91c8-1ee004955e42-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9ca99b1c-b1a5-4028-bf86-c6f9c11fa154-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>52c4ded77f4c43e1</version>
   </listing>
   <listing>
     <id>estitor:540944</id>
@@ -17469,6 +18101,96 @@ The property is suitable for a larger family or as an investment for rent. The l
     <version>3be85a2dc4b9ac3c</version>
   </listing>
   <listing>
+    <id>estitor:549356</id>
+    <reference>549356</reference>
+    <purpose>sale</purpose>
+    <type>land</type>
+    <price currency="EUR">53000</price>
+    <country>ME</country>
+    <city><![CDATA[Danilovgrad]]></city>
+    <location><![CDATA[Novo Selo, Danilovgrad]]></location>
+    <land_area_m2>1500</land_area_m2>
+    <title lang="me"><![CDATA[Prodaja, plac, 1500m², Novo Selo, Danilovgrad]]></title>
+    <title lang="en"><![CDATA[Sale, land lot, 1500m², Novo Selo, Danilovgrad]]></title>
+    <description lang="me"><![CDATA[Urbanistička parcela površine 1500 m², pogodna za poljoprivredno domaćinstvo, eko proizvodnju ili turizam.
+
+Dozvoljeno:
+
+* Poljoprivreda (biljna i stočarska proizvodnja)
+
+* Porodično gazdinstvo (kuća + pomoćni objekti)
+
+* Eko proizvodnja hrane
+
+* Etno selo i turizam
+
+* Manji agroindustrijski pogoni
+
+* Struja, voda obezbijedjeni
+
+* Plac je ravan
+
+* 1/1
+
+Uslovi gradnje:
+
+* Spratnost: P+1
+
+* Maksimalna površina stambenog objekta: 250 m²
+
+* Indeks zauzetosti: 0,3
+
+Udaljenosti:
+
+* Od puta: minimum 10 m
+
+* Od međe: minimum 5 m
+
+Nije dozvoljena izgradnja objekata koji zagađuju okolinu.]]></description>
+    <description lang="en"><![CDATA[Urban land plot with an area of 1500 m², suitable for an agricultural household, eco-production, or tourism.
+
+Allowed:
+
+* Agriculture (crop and livestock production)
+
+* Family farm (house + auxiliary buildings)
+
+* Eco food production
+
+* Ethno village and tourism
+
+* Smaller agro-industrial facilities
+
+* Electricity, water provided
+
+* The land plot is flat
+
+* 1/1
+
+Construction conditions:
+
+* Number of floors: P+1
+
+* Maximum area of residential building: 250 m²
+
+* Occupancy index: 0,3
+
+Distances:
+
+* From the road: minimum 10 m
+
+* From the property line: minimum 5 m
+
+Construction of buildings that pollute the environment is not allowed.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1bc5cbd0-3f53-445d-8a78-65756e77a306-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F49229e61-d3ac-481f-aaae-562ec589eca6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4550802d-9c55-4258-afff-c3025fc55506-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5d18d611-9c51-4646-8a3a-0800238fa840-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>8210098280fcd6cd</version>
+  </listing>
+  <listing>
     <id>estitor:552922</id>
     <reference>552922</reference>
     <purpose>sale</purpose>
@@ -20251,6 +20973,57 @@ The building features contemporary architecture, quality materials, and a high l
     <version>b15fb7a31de52101</version>
   </listing>
   <listing>
+    <id>estitor:563049</id>
+    <reference>563049</reference>
+    <purpose>sale</purpose>
+    <type>land</type>
+    <price currency="EUR">76000</price>
+    <country>ME</country>
+    <city><![CDATA[Danilovgrad]]></city>
+    <location><![CDATA[Spuž, Danilovgrad]]></location>
+    <land_area_m2>1900</land_area_m2>
+    <title lang="me"><![CDATA[Prodaja, plac, 1900m², Spuž, Danilovgrad]]></title>
+    <title lang="en"><![CDATA[Sale, land lot, 1900m², Spuž, Danilovgrad]]></title>
+    <description lang="me"><![CDATA[Prodaje se plac površine 1900m², smješten uz stari put Podgorica–Danilovgrad, preko puta Doma zdravlja na Lazinama.
+
+Plac je odlične pozicije i pogodan za različite vrste gradnje – porodičnu kuću, hale, magacine, poslovne objekte i slične namjene.
+
+Urbanistički parametri:
+
+• indeks izgrađenosti: 0.8
+
+• indeks zauzetosti: 0.4
+
+• maksimalna spratnost: P+1+Pk
+
+Odličan prilaz i velika mogućnost investicije za privatne i poslovne svrhe.
+
+Cijena: 40€/m²
+Ukupna površina: 1900m²]]></description>
+    <description lang="en"><![CDATA[A land plot with an area of 1900m² is for sale, located along the old road Podgorica–Danilovgrad, across from the Health Center in Lazine.
+
+The land plot has an excellent position and is suitable for various types of construction – family houses, halls, warehouses, commercial buildings, and similar purposes.
+
+Urban planning parameters:
+
+• building index: 0.8
+
+• occupancy index: 0.4
+
+• maximum number of floors: P+1+Pk
+
+Excellent access and great investment potential for private and commercial purposes.
+
+Price: 40€/m²
+Total area: 1900m²]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe96ea226-ca87-489a-83e5-981a37dc4b5b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F79ae2033-e592-4637-a95c-1e18399ad34f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6b707cac-79aa-4520-8f7c-c8d9a7cc5c51-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>50ffc0f467c5e2f1</version>
+  </listing>
+  <listing>
     <id>estitor:565805</id>
     <reference>565805</reference>
     <purpose>rent</purpose>
@@ -21853,6 +22626,45 @@ Investment Potential
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe77bc704-3d07-4de7-a244-6e7c6f8c6f40-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>9033940d99270c22</version>
+  </listing>
+  <listing>
+    <id>estitor:569899</id>
+    <reference>569899</reference>
+    <purpose>sale</purpose>
+    <type>commercial</type>
+    <price_on_request>true</price_on_request>
+    <country>ME</country>
+    <city><![CDATA[Nikšić]]></city>
+    <location><![CDATA[Kličevo, Nikšić]]></location>
+    <living_area_m2>1603</living_area_m2>
+    <floor><![CDATA[1. fl.]]></floor>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <furnished><![CDATA[No]]></furnished>
+    <title lang="me"><![CDATA[Prodaja, poslovni prostor, 1603m², Kličevo, Nikšić]]></title>
+    <title lang="en"><![CDATA[Sale, office space, 1603m², Kličevo, Nikšić]]></title>
+    <description lang="me"><![CDATA[Predmetne nepokretnosti nalaze se u naselju Kličevo, na atraktivnoj i dobro povezanoj lokaciji, udaljenoj približno 2 kilometra od centra grada, odnosno svega oko 5 minuta vožnje. Nepokretnosti obuhvataju stambene i poslovne sadržaje raspoređene na prizemlju i prvom spratu, sa ukupnom površinom od 1.603 m².
+
+Podaci o tačnom broju soba i kupatila nijesu dostupni u dostavljenoj dokumentaciji.
+
+Lokacija se odlikuje dobrom saobraćajnom povezanošću i jednostavnim pristupom, što omogućava efikasnu vezu sa ostalim djelovima grada. U neposrednoj blizini nalaze se značajni lokalni sadržaji i reperne tačke, poput ugostiteljskih objekata, gradskog groblja i spomen-obilježja, dok je u okruženju dostupna osnovna infrastruktura i ograničen broj linija javnog prevoza.
+
+Nekretnine čine stambeni objekti sa više funkcionalnih jedinica, poslovni prostor, kao i pripadajuće dvorišne i zemljišne površine, što ih čini pogodnim za različite namjene – od porodičnog stanovanja do poslovnih aktivnosti ili investicionih projekata. Dodatnu vrijednost predstavlja blizina glavnih saobraćajnica i relativno dobra povezanost sa širim područjem, uključujući i aerodrom u Podgorici, udaljen približno 61 kilometar.
+
+Zahvaljujući kombinaciji stambenih, poslovnih i zemljišnih kapaciteta, kao i povoljnoj poziciji u urbanom dijelu naselja Kličevo, predmetne nepokretnosti predstavljaju interesantnu priliku za investitore i korisnike koji traže multifunkcionalan prostor sa potencijalom daljeg razvoja.]]></description>
+    <description lang="en"><![CDATA[The subject properties are located in the Kličevo neighborhood, in an attractive and well-connected location, approximately 2 kilometers from the city center, or just about 5 minutes' drive. The properties include residential and commercial facilities distributed on the ground floor and first floor, with a total area of 1.603 m².
+
+Data on the exact number of rooms and bathrooms are not available in the submitted documentation.
+
+The location is characterized by good traffic connectivity and easy access, which enables an efficient connection with other parts of the city. In the immediate vicinity are significant local amenities and landmarks, such as hospitality properties, the city cemetery and memorial, while basic infrastructure and a limited number of public transport lines are available in the surroundings.
+
+The properties consist of residential buildings with multiple functional units, commercial space, as well as associated courtyard and land areas, which makes them suitable for various purposes – from family living to business activities or investment projects. Additional value is represented by the proximity of main roads and relatively good connectivity with the wider area, including Podgorica airport, located approximately 61 kilometers away.
+
+Thanks to the combination of residential, commercial, and land capacities, as well as the favorable position in the urban part of the Kličevo neighborhood, the subject properties represent an interesting opportunity for investors and users seeking a multifunctional space with potential for further development.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F674ac78b-161f-4b76-8828-086d6dd70bf0-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7f042e5c-bcef-4d24-9643-c2e75c30c856-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>e5be05ce11f8c8fa</version>
   </listing>
   <listing>
     <id>estitor:569900</id>
@@ -23485,6 +24297,103 @@ Additionally:
     <version>d073d7133b69c2a9</version>
   </listing>
   <listing>
+    <id>estitor:580353</id>
+    <reference>580353</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">117600</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Zabjelo, Podgorica]]></location>
+    <living_area_m2>49</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>1</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[4. fl.]]></floor>
+    <condition><![CDATA[New / unused]]></condition>
+    <furnished><![CDATA[No]]></furnished>
+    <parking><![CDATA[Garage]]></parking>
+    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 49m², Zabjelo, Podgorica]]></title>
+    <title lang="en"><![CDATA[Sale, one bedroom apartment, 49m², Zabjelo, Podgorica]]></title>
+    <description lang="me"><![CDATA[Na prodaju – Jednosobni stanovi u izgradnji | Zabjelo, Podgorica
+
+U ponudi su dva jednosobna stana, površine 49 m², smještena na 4. spratu (posljednji sprat) moderne stambene zgrade u izgradnji, na odličnoj lokaciji na Zabjelu, iza Rocky Pistolata.
+
+Objekat je projektovan prema savremenim standardima gradnje i posjedovaće lift, a zahvaljujući kvalitetnoj izgradnji i pažljivo odabranoj lokaciji predstavlja odličan izbor kako za stanovanje, tako i za investiciju.
+
+Lokacija pruža savršen balans između urbanog načina života i privatnosti. U neposrednoj blizini nalaze se prodavnice, škole, vrtići, restorani, kao i svi sadržaji neophodni za ugodan i kvalitetan život.
+
+Osnovne informacije:
+
+* Lokacija: Zabjelo, iza Rocky Pistolata, Podgorica
+
+* Površina: 49 m²
+
+* Jednosoban
+
+* 4. sprat (posljednji)
+
+* Objekat u izgradnji
+
+* Lift
+
+Dodatno:
+
+* Garažno mjesto: 13.500 €
+
+* Dostupna su dva garažna mjesta
+
+Pogodnosti:
+
+* Kupac je oslobođen plaćanja poreza na promet nepokretnosti od 3%
+
+* Planirani završetak radova: početak 2027. godine]]></description>
+    <description lang="en"><![CDATA[For sale – One-bedroom apartments under construction | Zabjelo, Podgorica
+
+Two one-bedroom apartments are available, with an area of 49 m², located on the 4th floor (top floor) of a modern residential building under construction, in an excellent location in Zabjelo, behind Rocky Pistolata.
+
+The building is designed according to modern construction standards and will have an elevator, and thanks to the quality construction and carefully selected location, it represents an excellent choice for both living and investment.
+
+The location provides a perfect balance between urban lifestyle and privacy. In the immediate vicinity there are shops, schools, kindergartens, restaurants, as well as all amenities necessary for a comfortable and quality life.
+
+Basic information:
+
+* Location: Zabjelo, behind Rocky Pistolata, Podgorica
+
+* Area: 49 m²
+
+* One-bedroom
+
+* 4th floor (top)
+
+* Building under construction
+
+* Elevator
+
+Additionally:
+
+* Parking space: 13.500 €
+
+* Two parking spaces are available
+
+Benefits:
+
+* The buyer is exempt from paying the 3% real estate transfer tax
+
+* Planned completion of works: beginning of 2027]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2516ae8e-5371-4256-adcb-5664dc61476f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F724072f2-41cb-4f85-8375-8614ce28b85a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F69d3ad0c-2080-479a-93f9-bd8e7e3a71f0-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F257c52a3-35d8-40eb-a9af-acc29fdec066-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F025615e7-57f4-40d7-8635-fd95f1ec39f5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa69d0262-898f-4956-b8c9-39dd2aa5706a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F40ec8633-6979-4a21-b7be-32c2f13e7465-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F152f4862-398d-466e-992b-667e1dea8737-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>5000e958c95a4453</version>
+  </listing>
+  <listing>
     <id>estitor:580362</id>
     <reference>580362</reference>
     <purpose>sale</purpose>
@@ -23526,6 +24435,41 @@ Excellent location, quality construction, and modern standards make this commerc
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fef4b86c8-195c-4755-9cc7-6b6b270aea6e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>49fbab5a842a3fdc</version>
+  </listing>
+  <listing>
+    <id>estitor:580367</id>
+    <reference>580367</reference>
+    <purpose>sale</purpose>
+    <type>commercial</type>
+    <price currency="EUR">70000</price>
+    <country>ME</country>
+    <city><![CDATA[Budva]]></city>
+    <location><![CDATA[Rozino, Budva]]></location>
+    <living_area_m2>24</living_area_m2>
+    <floor><![CDATA[Ground Floor]]></floor>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <title lang="me"><![CDATA[Prodaja, poslovni prostor, 24m², Rozino, Budva]]></title>
+    <title lang="en"><![CDATA[Sale, office space, 24m², Rozino, Budva]]></title>
+    <description lang="me"><![CDATA[Poslovni prostor 24 m² – Budva, Rozino (kod Tehno Maxa)
+
+Na prodaju poslovni prostor površine 24 m² na atraktivnoj lokaciji u naselju Rozino, u blizini Tehno Maxa.
+
+Prostor je trenutno u funkciji frizerskog i kozmetičkog salona i prodaje se kompletno namješten, spreman za nastavak rada bez dodatnih ulaganja.
+
+Odlična lokacija, uređena unutrašnjost i postojeća namjena čine ovu nekretninu idealnom za nastavak poslovanja ili kao investiciju za izdavanje.]]></description>
+    <description lang="en"><![CDATA[Commercial space 24 m² – Budva, Rozino (near Tehno Max)
+
+For sale, a commercial space with a surface area of 24 m² in an attractive location in the Rozino neighborhood, in the proximity of Tehno Max.
+
+The space is currently functioning as a hairdressing and beauty salon and is sold completely furnished, ready for continued operation without additional investments.
+
+Excellent location, arranged interior, and existing purpose make this property ideal for continuing business or as an investment for renting out.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0f3380ba-7d53-4aac-9b8e-b27b80c821cb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc7eb9fcd-ac72-4405-ba21-cf069e49ea39-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>e3c1037f22397af0</version>
   </listing>
   <listing>
     <id>estitor:580380</id>
@@ -38554,6 +39498,162 @@ Studios in the complex are in high demand due to their relatively affordable ent
     <version>200f86e8ea59b802</version>
   </listing>
   <listing>
+    <id>mdrealty:2726</id>
+    <reference>2726</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">105000</price>
+    <country>ME</country>
+    <region><![CDATA[Bay of Kotor]]></region>
+    <city><![CDATA[Tivat]]></city>
+    <location><![CDATA[Tivat, Bay of Kotor]]></location>
+    <latitude>42.42004368695949</latitude>
+    <longitude>18.72157335137056</longitude>
+    <living_area_m2>27.06</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>0</bedrooms>
+    <bathrooms>1</bathrooms>
+    <year_built>2027</year_built>
+    <parking><![CDATA[Yes]]></parking>
+    <title lang="me"><![CDATA[Stanovi u Tivtu br. 2726]]></title>
+    <title lang="en"><![CDATA[Apartments in Tivat]]></title>
+    <description lang="me"><![CDATA[fotografija tipskog stana u kompleksu
+
+Nudimo na prodaju stanove u novom stambenom kompleksu, koji se nalazi u naselju Mrčevac, Tivat. Kompleks je udaljen samo nekoliko minuta od centra grada, obale i Porto Montenegra, spajajući pogodnu gradsku infrastrukturu i mirniju atmosferu za život tokom cele godine.
+
+U prodaji su stanovi u objektima B i C. Projekat obuhvata studije, jednosobne i dvosobne stanove, kao i prostrane porodične rezidencije sa terasama i pogledom na more, grad i planine.
+
+Osnovne karakteristike tipskih stanova:
+
+• Broj soba: 1–3
+• Broj spavaćih soba: 0–2
+• Broj kupatila: 1–2.5
+• Površina stanova: od 27.06 m² do 123.53 m²
+• Pogled: more, grad, planine
+
+O stanovima:
+
+Rasporedi su dizajnirani sa fokusom na funkcionalnost i maksimalno iskorišćenje prostora. U zavisnosti od formata, dostupni su kompaktni studiji za stanovanje ili izdavanje, jednosobni stanovi i prostranije porodične rezidencije sa dve spavaće sobe.
+
+Veliki prozori obezbeđuju dobro prirodno osvetljenje prostorija, a prostrane terase u većini stanova omogućavaju organizaciju punopravne zone za odmor sa pogledom na more, grad ili planinski pejzaž Tivta.
+
+Završna obrada uključuje:
+
+• francuski drveni parket
+• aluminijumske prozore sa dvostrukim staklom
+• italijansku keramiku u kuhinjama i kupatilima
+• Laufen sanitarije
+• Hansgrohe slavine
+• Carrier A+ sistem grejanja i klimatizacije
+
+Parking mesto u podzemnoj garaži — 17.000 €
+
+Infrastruktura kompleksa:
+
+• otvoreni bazen
+• panoramski bazen na krovu objekta B
+• fitnes sala
+• staza za trčanje
+• dečije igralište
+• recepcija
+• sistem video nadzora
+• upravljačka kompanija kompleksa
+• supermarket
+• apoteka
+• poslovni prostori u okviru kompleksa
+
+O tivatskoj opštini:
+
+Tivat se smatra jednim od najtraženijih gradova u Crnoj Gori za stalni boravak i investicije u nekretnine. Grad nudi modernu infrastrukturu, međunarodnu marinu Porto Montenegro, uređeno šetalište, restorane, prodavnice i dobru saobraćajnu povezanost.
+
+Naselje Mrčevac se nalazi u blizini centra Tivta i međunarodnog aerodroma, što ga čini pogodnim kako za stalni boravak, tako i za odmor.
+
+Lokacija:
+
+• centar Tivta — oko 2 km
+• Porto Montenegro — oko 2.5 km
+• more i šetalište — oko 800 m
+• plaže — oko 800 m
+• aerodrom Tivat — oko 1.3 km
+• aerodrom Dubrovnik — oko 52 km
+• aerodrom Podgorica — oko 88 km
+
+Investicioni potencijal:
+
+Tivat ostaje jedno od najtraženijih tržišta nekretnina u Crnoj Gori zahvaljujući razvoju Porto Montenegra, međunarodnoj potražnji i ograničenom broju novih projekata. Stanovi u modernim stambenim kompleksima uživaju stabilnu potražnju kako za sopstveno stanovanje, tako i za dugoročno i sezonsko izdavanje.]]></description>
+    <description lang="en"><![CDATA[We offer for sale apartments in the new residential complex, located in the Mrcevac area, Tivat. The complex is just a few minutes from the city center, the coast, and Porto Montenegro, combining convenient urban infrastructure with a calmer atmosphere for year-round living.
+
+Apartments are available for sale in buildings B and C. The project features studios, one- and two-bedroom apartments, as well as spacious family residences with terraces and views of the sea, city, and mountains.
+
+Key features of typical apartments:
+
+• Number of rooms: 1–3
+• Number of bedrooms: 0–2
+• Number of bathrooms: 1–2.5
+• Apartment area: from 27.06 m² to 123.53 m²
+• Views: sea, city, mountains
+
+About the apartments:
+
+Layouts are designed with an emphasis on functionality and maximum space utilization. Depending on the format, compact studios for living or rental, one-bedroom apartments, and more spacious two-bedroom family residences are available.
+
+Large windows provide good natural light, and spacious terraces in most apartments allow for a full-fledged relaxation area with views of the sea, the city, or the mountain landscape of Tivat.
+
+Finishes include:
+
+• French wooden parquet
+• double-glazed aluminum windows
+• Italian ceramics in kitchens and bathrooms
+• Laufen sanitary ware
+• Hansgrohe faucets
+• Carrier A+ heating and air conditioning system
+
+Parking space in the underground garage — 17,000 €
+
+Complex infrastructure:
+
+• outdoor swimming pool
+• panoramic rooftop pool in building B
+• fitness center
+• jogging track
+• children's playground
+• reception
+• video surveillance system
+• complex management company
+• supermarket
+• pharmacy
+• commercial premises on-site
+
+About the Tivat area:
+
+Tivat is considered one of the most sought-after cities in Montenegro for permanent residence and real estate investment. The city offers modern infrastructure, the international marina Porto Montenegro, a landscaped promenade, restaurants, shops, and convenient transport links.
+
+The Mrcevac area is located near the center of Tivat and the international airport, making it convenient for both permanent residence and vacation.
+
+Location:
+
+• Tivat center — about 2 km
+• Porto Montenegro — about 2.5 km
+• sea and promenade — about 800 m
+• beaches — about 800 m
+• Tivat airport — about 1.3 km
+• Dubrovnik airport — about 52 km
+• Podgorica airport — about 88 km
+
+Investment potential:
+
+Tivat remains one of the most popular real estate markets in Montenegro due to the development of Porto Montenegro, international demand, and a limited number of new projects. Apartments in modern residential complexes are in stable demand both for personal use and for long-term and seasonal rentals.]]></description>
+    <images>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/4ba7b7a2-4fbc-4fa8-be18-889f9c495f0b/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/202b11ce-162e-4908-a939-b102674611cb/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/49b8d592-3956-4f52-ade2-204178769ef6/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ee731c32-5e51-44a1-9bc8-fc64bc6131bb/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b9c897b3-5629-4b4f-a051-64be3aa1cf77/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/9fff5f57-cb22-4fa3-ae2b-4cea267ece3a/variants/large.jpg]]></image>
+    </images>
+    <version>deb5f166d1f69025</version>
+  </listing>
+  <listing>
     <id>mdrealty:2744</id>
     <reference>2744</reference>
     <purpose>sale</purpose>
@@ -39095,6 +40195,249 @@ The room participates in a hotel-managed rental program, which turns the purchas
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/c3e46557-2efb-4fdb-9358-39069e086502/variants/large.jpg]]></image>
     </images>
     <version>161e11a45d97436a</version>
+  </listing>
+  <listing>
+    <id>mdrealty:2777</id>
+    <reference>2777</reference>
+    <purpose>sale</purpose>
+    <type>house</type>
+    <price currency="EUR">380000</price>
+    <country>ME</country>
+    <region><![CDATA[Bay of Kotor]]></region>
+    <city><![CDATA[Kavac]]></city>
+    <location><![CDATA[Kavac, Bay of Kotor]]></location>
+    <latitude>42.41618115715632</latitude>
+    <longitude>18.742130150691175</longitude>
+    <living_area_m2>110.3</living_area_m2>
+    <rooms>4</rooms>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <year_built>2026</year_built>
+    <parking><![CDATA[Yes]]></parking>
+    <title lang="me"><![CDATA[Taunhaus u Kavaču br. 2777]]></title>
+    <title lang="en"><![CDATA[Townhouse in Kavac]]></title>
+    <description lang="me"><![CDATA[Nudimo na prodaju taunhaus sa 3 spavaće sobe u modernom stambenom kompleksu, smještenom na mirnoj padini između Kotora i aerodroma Tivat. Kuća je potpuno spremna za useljenje i dostupna za kupovinu po sistemu „ključ u ruke“. Kompleks spaja privatnost seoske kuće, sopstvenu parcelu i mediteransku arhitekturu od vrhunskih ekoloških materijala.
+
+Osnovne karakteristike:
+
+• Spavaće sobe: 3
+• Kupatila: 2 (uključujući gostinjsko)
+• Broj spratova: 2
+• Ukupna površina kuće: 110.3 m²
+• Površina parcele: 200 m²
+• Terase: 2, proširena terasa na drugom spratu — sa pogledom na more
+• Sopstvena garaža
+
+O taunhausu:
+
+Raspored kuće predviđa na prvom spratu prostrani dnevni boravak sa kuhinjom i trpezarijom, gostinjsko kupatilo, predsoblje i terasu (15 m²) sa izlazom na plac.
+
+Na drugom spratu se nalaze dvije spavaće sobe, dodatna prostorija koja se može koristiti kao treća spavaća soba, radna soba ili garderober, kupatilo, hodnik i proširena terasa (10.72 m²) sa otvorenim pogledom na more.
+
+Kuća je izgrađena po modernim tehnologijama od energetski efikasnih materijala u mediteranskom stilu. Panoramski prozori otporni na udarce obezbjeđuju dobro prirodno osvjetljenje i vizuelno spajaju unutrašnji prostor sa prirodom koja ga okružuje.
+
+U cijenu je uključeno:
+
+• unutrašnja završna obrada: parket/keramičke pločice, okrečeni zidovi i plafoni (boja po izboru kupca)
+• potpuno završena fasada, krov, prozori
+• inženjerske komunikacije: struja, vodosnabdijevanje, kanalizacija, bojleri u kupatilima
+• klimatizacija u dnevnom boravku i glavnoj spavaćoj sobi
+• podno grijanje u kupatilima i kuhinji
+• sanitarije i pločice u kupatilima
+• terasa ispred kuće, sopstvena garaža, staza do ulaza
+• plac: osnovno uređenje (travnjak) i živa ograda po obodu
+
+Specijalna ponuda:
+
+Prilikom kupovine taunhausa, investitor obezbjeđuje besplatno profesionalno pejzažno uređenje parcele od strane iskusnog baštovana — u okviru akcije povodom završetka izgradnje svih kuća tipa A u kompleksu.
+
+Dodatne opcije uz doplatu:
+
+• postavljanje dodatnih staza
+• mogućnost ugradnje bazena, saune i teretane po individualnom projektu
+• kamena obrada kuće i teritorije
+• potpuno opremanje namještajem „ključ u ruke“ sa dizajnerom
+• radovi na drvetu unutar/izvan kuće
+
+Infrastruktura kompleksa:
+
+• zatvorena teritorija
+• savremena mediteranska arhitektura
+• energetski efikasna gradnja (monolitni armirano-betonski okvir)
+• parking zone
+• fleksibilan izbor rasporeda i opcija po individualnom projektu
+
+Lokacija:
+
+• supermarket i apoteka (Škaljari) — oko 2 km
+• restoran i kafić (Škaljari) — manje od 1 km
+• Stari grad Kotor — oko 3 km
+• međunarodni aerodrom aerodrom Tivat — oko 3 km
+• Porto Montenegro, Tivat — oko 7 km
+• Stari grad Budva — oko 16 km
+
+Investicioni potencijal:
+
+Region između Kotora i Tivta ostaje jedan od strateški interesantnih pravaca na tržištu nekretnina Crne Gore zahvaljujući blizini aerodroma, Starog grada Kotora i marine Porto Montenegro, uz očuvanje mirnije, "seoske" atmosfere u poređenju sa gustom gradnjom na obali. Sopstvena parcela, savremena energetski efikasna gradnja, fleksibilnost u izboru rasporeda i završne obrade, kao i mogućnost dodatnog uređenja teritorije (bazen, sauna, teretana) čine taunhaus atraktivnim kako za stalni boravak, tako i za dugoročnu investiciju sa potencijalom rasta vrijednosti.]]></description>
+    <description lang="en"><![CDATA[We offer for sale a 3-bedroom townhouse in a modern residential complex located on a quiet hillside between Kotor and Tivat airport. The house is fully move-in ready and available for purchase on a turnkey basis. The complex combines the privacy of a country house, a private plot of land, and Mediterranean architecture built with premium eco-friendly materials.
+
+Key features:
+
+• Bedrooms: 3
+• Bathrooms: 2 (including a guest bathroom)
+• Number of floors: 2
+• Total house area: 110.3 m²
+• Plot area: 200 m²
+• Terraces: 2, with an enlarged second-floor terrace featuring a sea view
+• Private garage
+
+About the townhouse:
+
+The layout of the house includes a spacious living room with a kitchen and dining area, a guest bathroom, an entrance hall, and a terrace (15 m²) with access to the plot on the ground floor.
+
+On the second floor, there are two bedrooms, an additional room that can be used as a third bedroom, office, or walk-in closet, a bathroom, a hallway, and an enlarged terrace (10.72 m²) with an open sea view.
+
+The house is built using modern technologies with energy-efficient materials in a Mediterranean style. Panoramic impact-resistant windows provide excellent natural lighting and visually integrate the interior space with the surrounding nature.
+
+The price includes:
+
+• Interior finishing: parquet/ceramic tiles, painted walls and ceilings (color of the buyer's choice)
+• Fully completed facade, roof, and windows
+• Engineering utilities: electricity, water supply, sewage, boilers in bathrooms
+• Air conditioning in the living room and master bedroom
+• Underfloor heating in bathrooms and the kitchen
+• Sanitary ware and tiles in bathrooms
+• Terrace in front of the house, private garage, and entrance path
+• Plot: basic landscaping (lawn) and a green hedge around the perimeter
+
+Special offer:
+
+When purchasing the townhouse, the developer provides free professional landscaping of the plot by an experienced gardener — as part of a promotion marking the completion of all Type A houses in the complex.
+
+Additional options for an extra charge:
+
+• Laying of additional paths
+• Possibility of installing a swimming pool, sauna, and gym according to an individual project
+• Stone finishing of the house and territory
+• Full turnkey furnishing with a designer
+• Woodwork inside/outside the house
+
+Complex infrastructure:
+
+• Gated community
+• Modern Mediterranean architecture
+• Energy-efficient construction (monolithic reinforced concrete frame)
+• Parking areas
+• Flexible choice of layout and options according to an individual project
+
+Location:
+
+• Supermarket and pharmacy (Škaljari) — about 2 km
+• Restaurant and cafe (Škaljari) — less than 1 km
+• Kotor Old Town — about 3 km
+• Tivat International Airport — about 3 km
+• Porto Montenegro, Tivat — about 7 km
+• Budva Old Town — about 16 km
+
+Investment potential:
+
+The area between Kotor and Tivat remains one of the strategically interesting directions in the Montenegrin real estate market due to its proximity to the airport, Kotor Old Town, and Porto Montenegro marina, while maintaining a calmer, "village" atmosphere compared to the dense development of the coast. A private plot of land, modern energy-efficient construction, flexibility in choosing the layout and finishing, as well as the possibility of additional territory improvements (swimming pool, sauna, gym) make the townhouse attractive both for permanent residence and for long-term investment with potential for value growth.]]></description>
+    <images>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/fc942024-c01c-43dd-9077-f8f283d80987/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/33ddbd68-8882-41eb-9458-a2166be847e5/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/0c51add2-a3a6-4dae-8300-3548e67a7fb1/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/a10d04aa-7ad1-4be2-ab76-15b886b82440/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ddb215af-2d92-4287-8d7c-0bc6e61bfe8c/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/db7e9fca-6386-4679-aaae-174b91483a69/variants/large.jpg]]></image>
+    </images>
+    <version>55a11d1fe62c8dcc</version>
+  </listing>
+  <listing>
+    <id>mdrealty:2824</id>
+    <reference>2824</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">124800</price>
+    <country>ME</country>
+    <region><![CDATA[Bar Riviera]]></region>
+    <city><![CDATA[Bar]]></city>
+    <location><![CDATA[Bar, Bar Riviera]]></location>
+    <latitude>42.08649151484726</latitude>
+    <longitude>19.126573216750828</longitude>
+    <living_area_m2>51</living_area_m2>
+    <rooms>2</rooms>
+    <bedrooms>1</bedrooms>
+    <bathrooms>1</bathrooms>
+    <year_built>2026</year_built>
+    <title lang="me"><![CDATA[Stanovi u Baru №2824]]></title>
+    <title lang="en"><![CDATA[Apartments in Bar]]></title>
+    <description lang="me"><![CDATA[Nudimo na prodaju stanove u stambenom kompleksu — dvije već izgrađene zgrade u mirnom dijelu Starog Bara. Puštanje u rad i useljenje očekuju se za 1–1,5 mjesec (do sredine septembra 2026.).
+
+Glavne karakteristike
+
+• Površina: 51–61 m²
+• Sprat: po izboru — suteren (prvi), 1., 2. ili 3. (posljednji)
+• Visina plafona: 3 m
+• Grijanje/hlađenje: multi-split sistem Mitsubishi Electric (garancija 5 godina)
+• Prozori i vrata: aluminijumska, Braća Marić
+• Video nadzor na teritoriji kompleksa
+
+O stanu
+
+Stanovi se odlikuju visokim plafonima od 3 metra, što stvara osjećaj prostranosti, rijetkim za novogradnju ovog segmenta. Zgrada je već izgrađena — završna obrada je u toku, rok za primopredaju ključeva je minimalan u poređenju sa projektima u fazi iskopa. Razlika u cijeni između spratova odražava standardnu logiku investitora: suteren je pristupačniji po ulaznom budžetu, gornji spratovi su skuplji zbog pogleda i osvjetljenja.
+
+Lokacija
+
+Kompleks se nalazi u dijelu Starog Bara, blizu istorijskog dijela grada:
+
+• apoteka "Stari Grad" — oko 220 m
+• supermarket Femić — oko 655 m
+• Starobarska pijaca — oko 850 m
+• autobuska stanica (Stari Bar) — oko 770 m
+• Stari grad Bar (tvrđava) — oko 1,1 km
+• more i gradska plaža — oko 2,5–3 km (5–7 minuta automobilom)
+
+Investicioni potencijal
+
+Skoro puštanje u rad — jedna od glavnih prednosti: kupac izbjegava tipične rizike dugotrajne izgradnje i može računati na useljenje ili izdavanje u narednim mjesecima. Blizina istorijskog centra Bara čini ove stanove interesantnim za izdavanje turistima koji posjećuju Stari grad, a raspon po površini i budžetu omogućava izbor opcije prema različitim investicionim strategijama — od kompaktnog stana za izdavanje do prostranijeg za vlastito stanovanje.]]></description>
+    <description lang="en"><![CDATA[We offer for sale apartments in the residential complex — two already built buildings in a quiet area of Old Bar. Commissioning and occupancy are expected in 1–1.5 months (by mid-September 2026).
+
+Key Features
+
+• Area: 51–61 m²
+• Floor: choice of ground (first), 1st, 2nd, or 3rd (top)
+• Ceiling height: 3 m
+• Heating/cooling: Mitsubishi Electric multi-split system (5-year warranty)
+• Windows and doors: aluminum, Braća Marić
+• Video surveillance on the complex grounds
+
+About the Apartment
+
+The apartments feature high 3-meter ceilings, creating a sense of spaciousness rare for new builds in this segment. The building is already constructed — finishing is in the final stage, with minimal key delivery time compared to projects at the foundation stage. The price difference between floors reflects the developer's standard logic: the ground level is more affordable for entry budget, while upper floors are priced higher due to views and natural light.
+
+Location
+
+The complex is located in the Old Bar area, near the historic part of the city:
+
+• pharmacy "Stari Grad" — about 220 m
+• Femić supermarket — about 655 m
+• Old Bar market — about 850 m
+• bus stop (Stari Bar) — about 770 m
+• Old Town Bar (fortress) — about 1.1 km
+• sea and city beach — about 2.5–3 km (5–7 minutes by car)
+
+Investment Potential
+
+Quick commissioning is one of the main advantages: the buyer avoids typical long-term construction risks and can expect occupancy or rental income within the coming months. Proximity to Bar's historic center makes these apartments attractive for renting to tourists visiting the Old Town, and the range of sizes and budgets allows choosing an option for different investment strategies — from a compact rental apartment to a more spacious one for personal residence.]]></description>
+    <images>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb95f23e-439c-4537-a50e-712aa82961f7/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/55ac5dd6-be7e-4158-8350-7fc57b508f31/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/11257506-2d32-4e76-8f5b-7208b0a038dd/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b9f4ee68-8dae-4b13-8f9c-0fc3ff174f82/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/87185a75-993e-4eb4-8d9b-147a025ad77e/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/3a712cc1-7356-48c6-910d-04457c17dfb8/variants/large.jpg]]></image>
+    </images>
+    <version>c906809992f7ca55</version>
   </listing>
   <listing>
     <id>mdrealty:2844</id>
