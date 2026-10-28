@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-10-28T14:40:44.666Z" count="906">
+<listings generated="2026-10-28T14:57:42.875Z" count="909">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -14246,6 +14246,67 @@ Luxury, New construction, Excellent investment]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F74339ac1-a72c-4bd5-a185-2273ec75081d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>cafa69d697589c69</version>
+  </listing>
+  <listing>
+    <id>estitor:542862</id>
+    <reference>542862</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">133000</price>
+    <country>ME</country>
+    <city><![CDATA[Nikšić]]></city>
+    <location><![CDATA[Centar, Nikšić]]></location>
+    <living_area_m2>80</living_area_m2>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[2. fl.]]></floor>
+    <year_built>2026</year_built>
+    <condition><![CDATA[New / unused]]></condition>
+    <furnished><![CDATA[Partially furnished]]></furnished>
+    <parking><![CDATA[Public parking]]></parking>
+    <title lang="me"><![CDATA[Prodaja, dvosoban stan, 80m², Centar, Nikšić]]></title>
+    <title lang="en"><![CDATA[Sale, two bedroom apartment, 80m², Centar, Nikšić]]></title>
+    <description lang="me"><![CDATA[Prodaje se moderan, nenamješten stan površine 80 m², smješten u naselju Rudo Polje u Nikšiću. Stan se nalazi u novogradnji i predstavlja odličnu priliku za miran porodičan život ili investiciju. Stan ima centralno grijanje.
+
+U cijenu uključena ugradnja toplotne pumpe (velika ušteda na grijanju i hlađenju). Snimak stana na upit., Novogradnja, Odlična investicija]]></description>
+    <description lang="en"><![CDATA[A modern, unfurnished apartment with an area of 80 m² is for sale, located in the Rudo Polje neighborhood in Nikšić. The apartment is in a new construction building and represents an excellent opportunity for a peaceful family life or investment. The apartment has central heating. The price includes the installation of a heat pump (significant savings on heating and cooling). Apartment video available upon request. New construction, Excellent investment]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F45004c7e-5d01-406b-8606-4e754b8f4f52-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Facfeef51-afe9-4861-9fd5-d033dbb557ec-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>2ad319dd9b2fd173</version>
+  </listing>
+  <listing>
+    <id>estitor:542863</id>
+    <reference>542863</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">137000</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Centar, Podgorica]]></location>
+    <living_area_m2>88</living_area_m2>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[4. fl.]]></floor>
+    <condition><![CDATA[Excellent condition]]></condition>
+    <furnished><![CDATA[Yes]]></furnished>
+    <parking><![CDATA[Public parking]]></parking>
+    <title lang="me"><![CDATA[Prodaja, dvosoban stan, 88m², Centar, Podgorica]]></title>
+    <title lang="en"><![CDATA[Sale, two bedroom apartment, 88m², Centar, Podgorica]]></title>
+    <description lang="me"><![CDATA[Prodaje se prostran i funkcionalan stan površine 88 m², smješten na 4. spratu u zgradi desetke u Nikšiću.
+
+Stan ima odličan raspored, pogodan za porodičan život, sa dosta prirodne svjetlosti. Snimak stana interno., Odmah useljiv, Miran kraj]]></description>
+    <description lang="en"><![CDATA[A spacious and functional apartment with an area of 88 m² is for sale, located on the 4th floor in the 'desetke' building in Nikšić. The apartment has an excellent layout, suitable for family life, with plenty of natural light. Internal apartment footage. Move-in ready. Quiet neighborhood.]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbbe344ad-c056-4c93-bd31-e6a264055050-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F611f271d-7dae-4dbd-8bd0-a5002408a101-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5b89cf41-ce75-450a-bd04-388bb3b75677-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F92db9216-5b94-43ec-8fff-c86d9c5550db-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>8ae00481a1529381</version>
   </listing>
   <listing>
     <id>estitor:543449</id>
@@ -35501,6 +35562,48 @@ Designed for a life in balance, the project offers a unique living experience th
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F776b794e-4713-4631-bcb1-bd47e251b62f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>72654e74ec005001</version>
+  </listing>
+  <listing>
+    <id>mdrealty:1931</id>
+    <reference>1931</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">243012</price>
+    <country>ME</country>
+    <region><![CDATA[Bay of Kotor]]></region>
+    <city><![CDATA[Igalo]]></city>
+    <location><![CDATA[Igalo, Bay of Kotor]]></location>
+    <latitude>42.45056090476524</latitude>
+    <longitude>18.50087985225531</longitude>
+    <living_area_m2>51</living_area_m2>
+    <rooms>1</rooms>
+    <bedrooms>0</bedrooms>
+    <bathrooms>1</bathrooms>
+    <year_built>2024</year_built>
+    <parking><![CDATA[Yes]]></parking>
+    <title lang="me"><![CDATA[Stanovi u Igalu br. 1931]]></title>
+    <title lang="en"><![CDATA[Apartments in Igalo]]></title>
+    <description lang="me"><![CDATA[Stambeni višeporodični kompleks „River Side” u Igalu. Kompleks se nalazi u fazi unutrašnjih završnih radova. Uvođenje u eksploataciju planirano je za 2021. godinu.
+
+Opcije stanova koji su na prodaju:
+
+• Jednosobni stanovi površine 39 - 93 m2 od 87 500 evra.
+• Apartmani sa dve spavaće sobe, površine 67-116 m2, po ceni od 148 450 evra.]]></description>
+    <description lang="en"><![CDATA[Completed residential apartment complex in Igalo.
+
+Available apartments for sale:
+
+* One-bedroom apartments: 39–93 m², starting from €87,500.
+* Two-bedroom apartments: 67–116 m², starting from €148,450.]]></description>
+    <images>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2e5ef759-b388-4a1b-839c-644ce2be12cc/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/f7263ff5-d61a-480d-a2f7-5ed8a1747d88/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b22a14e7-1f41-4929-9510-47e4a559de61/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/4ff68d84-cc41-448b-9666-a210045a0749/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/06f69664-437f-4fa2-a350-effb5df24e52/variants/large.jpg]]></image>
+      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/0161505b-ab2b-4acd-90c6-26a469a2810d/variants/large.jpg]]></image>
+    </images>
+    <version>0c19c61f5ab94baf</version>
   </listing>
   <listing>
     <id>mdrealty:2452</id>
