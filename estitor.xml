@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-10-31T11:25:13.638Z" count="908">
+<listings generated="2026-10-31T11:30:45.944Z" count="908">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -19111,7 +19111,7 @@ Long-term rental is also possible, as well as exchange for a property in Moskva.
     <reference>557056</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">120000</price>
+    <price currency="EUR">132500</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Zabjelo, Podgorica]]></location>
@@ -19162,8 +19162,6 @@ Planirani završetak radova je kraj 2027. godine.]]></description>
 
 The apartments are functionally designed and adapted for various purposes — ideal for both living and business activities. The modern layout of the rooms allows for maximum space utilization and comfortable living.
 
-The price is 2.400 € per m².
-
 There is an option to purchase a garage parking space at a price of 15.000 €.
 
 The building is being constructed by a reliable investor with many years of experience in the construction of residential-commercial buildings, with the application of high construction standards and carefully selected materials.
@@ -19203,14 +19201,14 @@ The planned completion of works is the end of 2027.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc563f4c2-cf12-4a44-920f-e50307f63469-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fea6f326d-08fc-4d45-b9c3-f9f1a4602b1a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>07191f4e4c4af4e2</version>
+    <version>6e72eecaf0139948</version>
   </listing>
   <listing>
     <id>estitor:557057</id>
     <reference>557057</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">134400</price>
+    <price currency="EUR">148400</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Zabjelo, Podgorica]]></location>
@@ -19261,8 +19259,6 @@ Planirani završetak radova je kraj 2027. godine.]]></description>
 
 The apartments are functionally designed and adapted for various purposes — ideal for both residential and commercial activity. Modern room layout allows for maximum space utilization and comfortable living.
 
-The price is 2.400 € per m².
-
 There is a possibility of purchasing a parking space at a price of 15.000 €.
 
 The building is being constructed by a reliable investor with many years of experience in the construction of residential and commercial buildings, with the application of high construction standards and carefully selected materials.
@@ -19300,7 +19296,7 @@ The planned completion of works is the end of 2027.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F06e6e7a7-2866-4ced-a494-d3db3104dced-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffb261028-9bf1-422e-a73e-79842b01cdd3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>84212f1e759d9aa8</version>
+    <version>35a03ce6e541b371</version>
   </listing>
   <listing>
     <id>estitor:557064</id>
@@ -19403,7 +19399,7 @@ The planned completion of works is the end of 2027.]]></description>
     <reference>557074</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">88800</price>
+    <price currency="EUR">98050</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Zabjelo, Podgorica]]></location>
@@ -19476,14 +19472,14 @@ The planned completion of works is end of 2027.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9b0cfef6-3f09-4d0e-a4b9-0c291ff2eba1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff18e007f-a35d-4905-a0d6-22d534951c84-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>6cb5ae1517ae29c1</version>
+    <version>9031793f68a1bc69</version>
   </listing>
   <listing>
     <id>estitor:557077</id>
     <reference>557077</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">110400</price>
+    <price currency="EUR">121900</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Zabjelo, Podgorica]]></location>
@@ -19552,8 +19548,6 @@ Building features:
 
 The location provides excellent connectivity with all important amenities — in the immediate vicinity are markets, schools, restaurants, commercial and sports centers.
 
-Apartment price: 110.400 €
-
 Flexible payment is enabled for buyers:
 
 - 40% upon signing the contract
@@ -19572,7 +19566,7 @@ The planned completion of works is the end of 2027.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fdcf8a0d8-e5ba-4967-ab16-28292cab757e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0e5d985b-bbf0-44fc-a4e5-82f97ee783f3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>af48546eac6a3dfb</version>
+    <version>34146d85454777e3</version>
   </listing>
   <listing>
     <id>estitor:557080</id>
