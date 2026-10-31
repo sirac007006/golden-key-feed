@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-10-28T14:57:42.875Z" count="909">
+<listings generated="2026-10-31T11:25:13.638Z" count="908">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -9874,52 +9874,6 @@ Open parking is available in front of the building, and the location itself is c
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fefac65e3-1d00-4ab4-8752-e22df818bbc3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>0bef7e5dcff41bcc</version>
-  </listing>
-  <listing>
-    <id>estitor:537209</id>
-    <reference>537209</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price currency="EUR">103000</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Zabjelo, Podgorica]]></location>
-    <living_area_m2>45</living_area_m2>
-    <rooms>1</rooms>
-    <bedrooms>1</bedrooms>
-    <bathrooms>1</bathrooms>
-    <floor><![CDATA[Ground Floor]]></floor>
-    <year_built>2026</year_built>
-    <condition><![CDATA[New / unused]]></condition>
-    <furnished><![CDATA[Partially furnished]]></furnished>
-    <parking><![CDATA[In front of building]]></parking>
-    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 45m², Zabjelo, Podgorica]]></title>
-    <title lang="en"><![CDATA[Sale, one bedroom apartment, 45m², Zabjelo, Podgorica]]></title>
-    <description lang="me"><![CDATA[Prodaje se funkcionalan i lijepo organizovan jednosoban stan površine 45m² (realno 47m²), smješten na visokom prizemlju stambene zgrade u naselju Zabjelo, u blizini Titeksa. Lokacija je izuzetno praktična – na svega nekoliko minuta hoda od BIG Fashion centra.
-
-Stan je dobro osvijetljen i raspored prostorija je maksimalno iskorišćen. Prodaje se sa ugradnom kuhinjom, šankom, televizorom i ugradnim ormarom, što budućem kupcu omogućava brzo i jednostavno useljenje bez dodatnih ulaganja.
-
-Uz stan dolazi i parking mjesto, što predstavlja veliku prednost.
-
-Cijena: 103.000€, Uknjiženo, Odlična investicija, Novogradnja, Miran kraj, Odmah useljiv, Hitna prodaja]]></description>
-    <description lang="en"><![CDATA[For sale is a functional and well-organized one-bedroom apartment with an area of 45m² (actually 47m²), located on the high ground floor of a residential building in the Zabjelo neighborhood, near Titeks. The location is extremely practical – just a few minutes' walk from the BIG Fashion center.
-
-The apartment is well-lit and the room layout is maximally utilized. It is sold with a built-in kitchen, a bar, a TV, and a built-in wardrobe, which allows the future buyer quick and easy move-in without additional investments.
-
-The apartment also comes with a parking space, which is a great advantage.
-
-Price: 103.000€, Registered, Excellent investment, New construction, Quiet neighborhood, Move-in ready, Urgent sale]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F36d519c3-a8c1-4e72-a0d4-2033a318f079-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8c9b6e98-4a50-4e67-83e3-42a0b23e1939-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe29530bd-96e1-4d13-bb03-523980dd11c1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa98a9849-4e1a-4be3-b89a-38488cd18ab6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F01d5d956-b088-4d5c-bd8c-0fdc6c0f1eac-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F473159ec-a9e3-46c1-a55a-5ef19152098b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F85e45e0c-d571-4ed6-a0a4-f1f51da4abd4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F263e74af-404d-4c2d-9e09-8eca290f16d9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>615c2d31e6ca779f</version>
   </listing>
   <listing>
     <id>estitor:537214</id>
@@ -40860,7 +40814,7 @@ Villa owners have full access to all Luštica Bay infrastructure:
   </listing>
   <listing>
     <id>mdrealty:unit-10</id>
-    <reference>unit-10</reference>
+    <reference>900000977</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">470000</price>
@@ -40908,11 +40862,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.07.23-min-1.png]]></image>
     </images>
-    <version>7c378fec2e1445b9</version>
+    <version>edddf2e0a29aabf0</version>
   </listing>
   <listing>
     <id>mdrealty:unit-106</id>
-    <reference>unit-106</reference>
+    <reference>900000454</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1206000</price>
@@ -40953,11 +40907,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_0011A1-31.jpg]]></image>
     </images>
-    <version>9fa495a4e35e7906</version>
+    <version>8a8f0a134c6b1768</version>
   </listing>
   <listing>
     <id>mdrealty:unit-107</id>
-    <reference>unit-107</reference>
+    <reference>900000395</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1110000</price>
@@ -40998,11 +40952,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00214-1-32%20--.jpg]]></image>
     </images>
-    <version>e35204cf304df64d</version>
+    <version>3ae216f0a177d63b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-108</id>
-    <reference>unit-108</reference>
+    <reference>900000462</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">733500</price>
@@ -41043,11 +40997,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00314-2-25.jpg]]></image>
     </images>
-    <version>bb1e60a4d266ccce</version>
+    <version>e9ad3c5919dbb640</version>
   </listing>
   <listing>
     <id>mdrealty:unit-109</id>
-    <reference>unit-109</reference>
+    <reference>900000369</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">785000</price>
@@ -41088,11 +41042,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00414-2-31.jpg]]></image>
     </images>
-    <version>899d46fafa92d823</version>
+    <version>ce37034170fbc3ea</version>
   </listing>
   <listing>
     <id>mdrealty:unit-11</id>
-    <reference>unit-11</reference>
+    <reference>900000832</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">310000</price>
@@ -41140,11 +41094,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.04.22-min-1.png]]></image>
     </images>
-    <version>347af272218e2144</version>
+    <version>eb0fc4b17b1a68ae</version>
   </listing>
   <listing>
     <id>mdrealty:unit-110</id>
-    <reference>unit-110</reference>
+    <reference>900000346</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">785000</price>
@@ -41185,11 +41139,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/14-2-34.png]]></image>
     </images>
-    <version>df229d10efe5371b</version>
+    <version>65a2ef8427bc2d44</version>
   </listing>
   <listing>
     <id>mdrealty:unit-111</id>
-    <reference>unit-111</reference>
+    <reference>900000470</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">583500</price>
@@ -41230,11 +41184,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00614-4-12.jpg]]></image>
     </images>
-    <version>a47d5ca0fbb4325c</version>
+    <version>598a198d2eaa0e23</version>
   </listing>
   <listing>
     <id>mdrealty:unit-112</id>
-    <reference>unit-112</reference>
+    <reference>900000350</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">333000</price>
@@ -41274,11 +41228,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00714-4-13.jpg]]></image>
     </images>
-    <version>6982c9aec742bdf8</version>
+    <version>70d6186270000a0c</version>
   </listing>
   <listing>
     <id>mdrealty:unit-113</id>
-    <reference>unit-113</reference>
+    <reference>900000351</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">748500</price>
@@ -41319,11 +41273,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00814-5-13.jpg]]></image>
     </images>
-    <version>5498fcdaa7b09df6</version>
+    <version>abd83ac1dea991b2</version>
   </listing>
   <listing>
     <id>mdrealty:unit-114</id>
-    <reference>unit-114</reference>
+    <reference>900000353</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1610500</price>
@@ -41364,11 +41318,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_00914-5-32.jpg]]></image>
     </images>
-    <version>422745a049d5124b</version>
+    <version>c9565eecb0fb34f0</version>
   </listing>
   <listing>
     <id>mdrealty:unit-115</id>
-    <reference>unit-115</reference>
+    <reference>900000499</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1143000</price>
@@ -41409,11 +41363,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_01014-6-31.jpg]]></image>
     </images>
-    <version>9c2ec20c0a011089</version>
+    <version>69b1eaa45dec505d</version>
   </listing>
   <listing>
     <id>mdrealty:unit-116</id>
-    <reference>unit-116</reference>
+    <reference>900000430</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">495000</price>
@@ -41454,11 +41408,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_01114-7-01.jpg]]></image>
     </images>
-    <version>43fd15decd4a6639</version>
+    <version>02b23761b0fa80e1</version>
   </listing>
   <listing>
     <id>mdrealty:unit-117</id>
-    <reference>unit-117</reference>
+    <reference>900000471</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">693500</price>
@@ -41499,11 +41453,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_01214-7-11.jpg]]></image>
     </images>
-    <version>9cb788be0b048158</version>
+    <version>25aaeeaa22a313dd</version>
   </listing>
   <listing>
     <id>mdrealty:unit-118</id>
-    <reference>unit-118</reference>
+    <reference>900000378</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">693500</price>
@@ -41544,11 +41498,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_01314-7-13.jpg]]></image>
     </images>
-    <version>c7acdaeca107a5eb</version>
+    <version>714421bf64f478d4</version>
   </listing>
   <listing>
     <id>mdrealty:unit-119</id>
-    <reference>unit-119</reference>
+    <reference>900000432</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">774500</price>
@@ -41589,11 +41543,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Sea View, Mountain view, Ci
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2ffa9e8c-2619-479f-bd60-f49f791d35be/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_centrale_01414-7-21.jpg]]></image>
     </images>
-    <version>57e3a9d711826100</version>
+    <version>9b31a592b863c1ad</version>
   </listing>
   <listing>
     <id>mdrealty:unit-12</id>
-    <reference>unit-12</reference>
+    <reference>900000978</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">280000</price>
@@ -41642,11 +41596,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.00.19-min.png]]></image>
     </images>
-    <version>ff0d6ea13930650d</version>
+    <version>84c2e3d0ecb758a3</version>
   </listing>
   <listing>
     <id>mdrealty:unit-13</id>
-    <reference>unit-13</reference>
+    <reference>900000946</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">315000</price>
@@ -41694,11 +41648,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.04.22-min-2.png]]></image>
     </images>
-    <version>1436a39e6e1ec4ce</version>
+    <version>ef384007f3e6033b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-14</id>
-    <reference>unit-14</reference>
+    <reference>900000947</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">330000</price>
@@ -41746,11 +41700,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.16.30-min.png]]></image>
     </images>
-    <version>39995ad71486dff1</version>
+    <version>16f14b696c8e209a</version>
   </listing>
   <listing>
     <id>mdrealty:unit-140</id>
-    <reference>unit-140</reference>
+    <reference>900000973</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1500000</price>
@@ -41789,11 +41743,11 @@ Amenities: Alarm system, intercom, city, mountain, and sea views, property manag
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e6edb6b9-ffd1-42d6-93fb-448c30caf35d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_003villa3.png.jpg]]></image>
     </images>
-    <version>c29fce91f28ec1d7</version>
+    <version>ee8596a877b04d32</version>
   </listing>
   <listing>
     <id>mdrealty:unit-141</id>
-    <reference>unit-141</reference>
+    <reference>900000796</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1300000</price>
@@ -41832,11 +41786,11 @@ Amenities: Alarm system, intercom, city, mountain, and sea views, property manag
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e6edb6b9-ffd1-42d6-93fb-448c30caf35d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_004villa7.png.jpg]]></image>
     </images>
-    <version>92d8d80b7952bd03</version>
+    <version>11ba0296fe3d7d91</version>
   </listing>
   <listing>
     <id>mdrealty:unit-142</id>
-    <reference>unit-142</reference>
+    <reference>900000944</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1300000</price>
@@ -41875,11 +41829,11 @@ Amenities: Alarm system, intercom, city, mountain, and sea views, property manag
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e6edb6b9-ffd1-42d6-93fb-448c30caf35d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_001vila8.png.jpg]]></image>
     </images>
-    <version>70a80900b0cbdbeb</version>
+    <version>f99a05b7f2855657</version>
   </listing>
   <listing>
     <id>mdrealty:unit-143</id>
-    <reference>unit-143</reference>
+    <reference>900000911</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1400000</price>
@@ -41920,11 +41874,11 @@ Amenities: Alarm system, intercom, city, mountain, and sea views, property manag
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e6edb6b9-ffd1-42d6-93fb-448c30caf35d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_005villa9.png.jpg]]></image>
     </images>
-    <version>d50dec97a74e17cd</version>
+    <version>be284398ec891460</version>
   </listing>
   <listing>
     <id>mdrealty:unit-144</id>
-    <reference>unit-144</reference>
+    <reference>900000943</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1400000</price>
@@ -41967,11 +41921,11 @@ Amenities: Alarm system, Intercom, City view, Mountain view, Sea View, Managemen
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e6edb6b9-ffd1-42d6-93fb-448c30caf35d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_006villa10.png.jpg]]></image>
     </images>
-    <version>97440a4b7dda4993</version>
+    <version>7e22e3d072deb37b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-145</id>
-    <reference>unit-145</reference>
+    <reference>900000942</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1400000</price>
@@ -42012,11 +41966,11 @@ Amenities: Alarm system, intercom, city, mountain, and sea views, property manag
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e6edb6b9-ffd1-42d6-93fb-448c30caf35d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_002vilal11.png-min.jpg]]></image>
     </images>
-    <version>bf792286ef71a158</version>
+    <version>b95ae1887195ad5b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-147</id>
-    <reference>unit-147</reference>
+    <reference>900000910</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">243012</price>
@@ -42058,11 +42012,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_004PD5.png.jpg]]></image>
     </images>
-    <version>6f8b2cffe60847ec</version>
+    <version>feb2d21432397576</version>
   </listing>
   <listing>
     <id>mdrealty:unit-148</id>
-    <reference>unit-148</reference>
+    <reference>900000971</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">239163</price>
@@ -42104,11 +42058,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_005PD6.png.jpg]]></image>
     </images>
-    <version>cc2af44d8cce4699</version>
+    <version>55f5ea223f12c33e</version>
   </listing>
   <listing>
     <id>mdrealty:unit-149</id>
-    <reference>unit-149</reference>
+    <reference>900000940</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">300810</price>
@@ -42150,11 +42104,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_006PD10.png.jpg]]></image>
     </images>
-    <version>904f1d425453339f</version>
+    <version>3e822388703c81ad</version>
   </listing>
   <listing>
     <id>mdrealty:unit-15</id>
-    <reference>unit-15</reference>
+    <reference>900000914</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">287000</price>
@@ -42202,11 +42156,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.00.19-min-1.png]]></image>
     </images>
-    <version>2ad5c54869638909</version>
+    <version>7e947763e9535dfc</version>
   </listing>
   <listing>
     <id>mdrealty:unit-150</id>
-    <reference>unit-150</reference>
+    <reference>900000908</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">272151</price>
@@ -42248,11 +42202,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_007PD11.png.jpg]]></image>
     </images>
-    <version>8438743e2474ed90</version>
+    <version>06522d4e5a993acd</version>
   </listing>
   <listing>
     <id>mdrealty:unit-151</id>
-    <reference>unit-151</reference>
+    <reference>900000970</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">278976</price>
@@ -42294,11 +42248,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_008PD12.png.jpg]]></image>
     </images>
-    <version>c4af352d60005be0</version>
+    <version>2a0760c25d9c3820</version>
   </listing>
   <listing>
     <id>mdrealty:unit-152</id>
-    <reference>unit-152</reference>
+    <reference>900000969</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">216084</price>
@@ -42340,11 +42294,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_009PD13.png.jpg]]></image>
     </images>
-    <version>117b3e160d30dca4</version>
+    <version>7c342669eb87a958</version>
   </listing>
   <listing>
     <id>mdrealty:unit-153</id>
-    <reference>unit-153</reference>
+    <reference>900000907</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">266752</price>
@@ -42386,11 +42340,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_010PD14.png.jpg]]></image>
     </images>
-    <version>6aa1ec0bd62929cc</version>
+    <version>78201cf5eb921c6a</version>
   </listing>
   <listing>
     <id>mdrealty:unit-154</id>
-    <reference>unit-154</reference>
+    <reference>900000968</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">330891</price>
@@ -42432,11 +42386,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_011PD15.png.jpg]]></image>
     </images>
-    <version>f9e89a66f9348181</version>
+    <version>3cdf6bad77a3f297</version>
   </listing>
   <listing>
     <id>mdrealty:unit-155</id>
-    <reference>unit-155</reference>
+    <reference>900000967</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">320565</price>
@@ -42478,11 +42432,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_012PD16.png.jpg]]></image>
     </images>
-    <version>dae900635b045fe9</version>
+    <version>2f4cfb61eb395a5f</version>
   </listing>
   <listing>
     <id>mdrealty:unit-156</id>
-    <reference>unit-156</reference>
+    <reference>900000965</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">242389</price>
@@ -42524,11 +42478,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_013PD18.png.jpg]]></image>
     </images>
-    <version>c0eed49d56b33176</version>
+    <version>66dad41cea54d626</version>
   </listing>
   <listing>
     <id>mdrealty:unit-157</id>
-    <reference>unit-157</reference>
+    <reference>900000966</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">407505</price>
@@ -42570,11 +42524,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_014PD19.png.jpg]]></image>
     </images>
-    <version>3d2828b4e8b29d25</version>
+    <version>437556f42efaff27</version>
   </listing>
   <listing>
     <id>mdrealty:unit-158</id>
-    <reference>unit-158</reference>
+    <reference>900000939</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">188800</price>
@@ -42616,11 +42570,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_001B2%20PD13.png.jpg]]></image>
     </images>
-    <version>922b2d344bfc18d4</version>
+    <version>22c6c696d9a55832</version>
   </listing>
   <listing>
     <id>mdrealty:unit-159</id>
-    <reference>unit-159</reference>
+    <reference>900000938</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">270600</price>
@@ -42662,11 +42616,11 @@ Amenities: Alarm system, intercom, air conditioning, parking, sea, mountain and 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b4e9e651-7114-4d99-ba6e-1531bf65368d/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/floor_plan_002B2%20PD17.png.jpg]]></image>
     </images>
-    <version>ac7276540ee4d875</version>
+    <version>c6c6781ba6f1a271</version>
   </listing>
   <listing>
     <id>mdrealty:unit-16</id>
-    <reference>unit-16</reference>
+    <reference>900000883</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">315000</price>
@@ -42714,11 +42668,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.04.22-min-4.png]]></image>
     </images>
-    <version>290fbcc603a2222d</version>
+    <version>32a55eb03bcc6a9b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-162</id>
-    <reference>unit-162</reference>
+    <reference>900000051</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">182500</price>
@@ -42798,11 +42752,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>64192fae711c0886</version>
+    <version>ba080a4aaa6d7ad0</version>
   </listing>
   <listing>
     <id>mdrealty:unit-163</id>
-    <reference>unit-163</reference>
+    <reference>900000048</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">105000</price>
@@ -42882,11 +42836,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>f4cfc563c8778c33</version>
+    <version>45dfa0cba2706402</version>
   </listing>
   <listing>
     <id>mdrealty:unit-164</id>
-    <reference>unit-164</reference>
+    <reference>900000050</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">192000</price>
@@ -42966,11 +42920,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>212725900b33457d</version>
+    <version>6780da3f461533c1</version>
   </listing>
   <listing>
     <id>mdrealty:unit-165</id>
-    <reference>unit-165</reference>
+    <reference>900000046</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">182500</price>
@@ -43050,11 +43004,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>4fe8354f045a7433</version>
+    <version>616ca7448a9f86ce</version>
   </listing>
   <listing>
     <id>mdrealty:unit-167</id>
-    <reference>unit-167</reference>
+    <reference>900000041</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">182500</price>
@@ -43134,11 +43088,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/plan_B104.png_006-1.jpg]]></image>
     </images>
-    <version>fa52e8f460f48450</version>
+    <version>62c2e8320b1b8fc6</version>
   </listing>
   <listing>
     <id>mdrealty:unit-168</id>
-    <reference>unit-168</reference>
+    <reference>900000605</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">530000</price>
@@ -43219,11 +43173,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/plan_B107.png_007.jpg]]></image>
     </images>
-    <version>47ccf2feb776ae6a</version>
+    <version>46f256878f118324</version>
   </listing>
   <listing>
     <id>mdrealty:unit-169</id>
-    <reference>unit-169</reference>
+    <reference>900000044</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">360400</price>
@@ -43303,11 +43257,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>3145d6c07fff35b1</version>
+    <version>d5dc57cddf410450</version>
   </listing>
   <listing>
     <id>mdrealty:unit-17</id>
-    <reference>unit-17</reference>
+    <reference>900000948</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">755000</price>
@@ -43353,11 +43307,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/f0a182c3-cac4-4499-90d5-c707fde84297/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
     </images>
-    <version>799b7cea039fed33</version>
+    <version>0dfa4ccab2aa9b3c</version>
   </listing>
   <listing>
     <id>mdrealty:unit-171</id>
-    <reference>unit-171</reference>
+    <reference>900000453</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">312700</price>
@@ -43436,11 +43390,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>18b11211486f1f56</version>
+    <version>a5f5f692ec130e8e</version>
   </listing>
   <listing>
     <id>mdrealty:unit-176</id>
-    <reference>unit-176</reference>
+    <reference>900000038</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">148400</price>
@@ -43520,11 +43474,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>f9202257eb206f97</version>
+    <version>1a4ba1d00c4b7366</version>
   </listing>
   <listing>
     <id>mdrealty:unit-179</id>
-    <reference>unit-179</reference>
+    <reference>900000014</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">165000</price>
@@ -43604,11 +43558,11 @@ Whether you are looking for a new home on the Montenegrin coast, a holiday retre
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/7c85ecbd-b454-4061-9244-3a44b3300681/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/cb9e62ba-a754-45f3-870d-04277f1ecc12/variants/large.jpg]]></image>
     </images>
-    <version>ca651b186f6b8da9</version>
+    <version>32746745a6798452</version>
   </listing>
   <listing>
     <id>mdrealty:unit-18</id>
-    <reference>unit-18</reference>
+    <reference>900000980</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">295000</price>
@@ -43655,11 +43609,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.00.19-min-2.png]]></image>
     </images>
-    <version>a0264c20c5aa7318</version>
+    <version>c8829b49928b12ab</version>
   </listing>
   <listing>
     <id>mdrealty:unit-19</id>
-    <reference>unit-19</reference>
+    <reference>900000844</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">320000</price>
@@ -43709,11 +43663,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2015.49.08-min-1.png]]></image>
     </images>
-    <version>43627254962e8fef</version>
+    <version>cb79f932bce70cff</version>
   </listing>
   <listing>
     <id>mdrealty:unit-20</id>
-    <reference>unit-20</reference>
+    <reference>900000963</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">569000</price>
@@ -43761,11 +43715,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.36.31.png]]></image>
     </images>
-    <version>8d2a3ce544d43130</version>
+    <version>8d94b91e10bb06a5</version>
   </listing>
   <listing>
     <id>mdrealty:unit-21</id>
-    <reference>unit-21</reference>
+    <reference>900000981</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">314820</price>
@@ -43810,11 +43764,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan.png]]></image>
     </images>
-    <version>e3373a20ea499bf7</version>
+    <version>f515d265668dec91</version>
   </listing>
   <listing>
     <id>mdrealty:unit-215</id>
-    <reference>unit-215</reference>
+    <reference>900000933</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">257400</price>
@@ -43855,11 +43809,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/SJ001.png]]></image>
     </images>
-    <version>907ba51fc6a57834</version>
+    <version>7736539ad8938c4b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-216</id>
-    <reference>unit-216</reference>
+    <reference>900000652</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">176800</price>
@@ -43900,11 +43854,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/SJ101.png]]></image>
     </images>
-    <version>3bf1331ee98b25a2</version>
+    <version>64a93cddbee9c4a8</version>
   </listing>
   <listing>
     <id>mdrealty:unit-217</id>
-    <reference>unit-217</reference>
+    <reference>900000935</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">251600</price>
@@ -43945,11 +43899,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/SJ102.png]]></image>
     </images>
-    <version>ecd179d21e7bdc8a</version>
+    <version>abfba4ffa009b16e</version>
   </listing>
   <listing>
     <id>mdrealty:unit-218</id>
-    <reference>unit-218</reference>
+    <reference>900000936</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">210000</price>
@@ -43990,11 +43944,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/SJ202.png]]></image>
     </images>
-    <version>c5c3d0ee1b8e16af</version>
+    <version>ad19022d91a2e6c4</version>
   </listing>
   <listing>
     <id>mdrealty:unit-219</id>
-    <reference>unit-219</reference>
+    <reference>900000937</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">161700</price>
@@ -44035,11 +43989,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Breeze%20SJ001.png]]></image>
     </images>
-    <version>29d256141ce87554</version>
+    <version>bbaed94984097538</version>
   </listing>
   <listing>
     <id>mdrealty:unit-22</id>
-    <reference>unit-22</reference>
+    <reference>900000481</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">329650</price>
@@ -44090,11 +44044,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_07%20floor%20plan-min.png]]></image>
     </images>
-    <version>52079a241daba99d</version>
+    <version>19e80234b9f2e3e9</version>
   </listing>
   <listing>
     <id>mdrealty:unit-220</id>
-    <reference>unit-220</reference>
+    <reference>900000934</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">161700</price>
@@ -44135,11 +44089,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Breeze%20SJ002.png]]></image>
     </images>
-    <version>0d23bf4ab42b1c4b</version>
+    <version>77ada39fec911960</version>
   </listing>
   <listing>
     <id>mdrealty:unit-221</id>
-    <reference>unit-221</reference>
+    <reference>900000904</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">221100</price>
@@ -44180,11 +44134,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Breeze%20SJ003.png]]></image>
     </images>
-    <version>0c6f174953edf6d9</version>
+    <version>e72870b1e64e5603</version>
   </listing>
   <listing>
     <id>mdrealty:unit-222</id>
-    <reference>unit-222</reference>
+    <reference>900000903</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">251600</price>
@@ -44225,11 +44179,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Breeze%20SJ101.png]]></image>
     </images>
-    <version>604abe6cfcb8e2f4</version>
+    <version>39674a9274d068ca</version>
   </listing>
   <listing>
     <id>mdrealty:unit-223</id>
-    <reference>unit-223</reference>
+    <reference>900000902</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">210000</price>
@@ -44270,11 +44224,11 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Breeze%20SJ201.png]]></image>
     </images>
-    <version>3aa12dee5ee952dd</version>
+    <version>49b00e7c0ea2caaa</version>
   </listing>
   <listing>
     <id>mdrealty:unit-224</id>
-    <reference>unit-224</reference>
+    <reference>900000899</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">151204</price>
@@ -44315,11 +44269,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/S01.png]]></image>
     </images>
-    <version>2c34aeb82d8d4a40</version>
+    <version>95c3c112ad711f37</version>
   </listing>
   <listing>
     <id>mdrealty:unit-225</id>
-    <reference>unit-225</reference>
+    <reference>900000952</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">150535</price>
@@ -44358,11 +44312,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.47.50.png]]></image>
     </images>
-    <version>35c229b28bb67ad2</version>
+    <version>cf9f48b098884acf</version>
   </listing>
   <listing>
     <id>mdrealty:unit-226</id>
-    <reference>unit-226</reference>
+    <reference>900000358</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">150535</price>
@@ -44401,11 +44355,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.48.50.png]]></image>
     </images>
-    <version>50bd6a61d9445625</version>
+    <version>b6bb18e79dfddd8d</version>
   </listing>
   <listing>
     <id>mdrealty:unit-227</id>
-    <reference>unit-227</reference>
+    <reference>900000359</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">150535</price>
@@ -44444,11 +44398,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.50.02.png]]></image>
     </images>
-    <version>fb1c78e18efc9aad</version>
+    <version>5dbfa13c9c773dd2</version>
   </listing>
   <listing>
     <id>mdrealty:unit-228</id>
-    <reference>unit-228</reference>
+    <reference>900000360</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">150535</price>
@@ -44487,11 +44441,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.50.34.png]]></image>
     </images>
-    <version>3814a31a6afdb667</version>
+    <version>c08ae96e1e54b804</version>
   </listing>
   <listing>
     <id>mdrealty:unit-229</id>
-    <reference>unit-229</reference>
+    <reference>900000954</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">150535</price>
@@ -44530,11 +44484,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.52.22.png]]></image>
     </images>
-    <version>cf78ffc11aec1dad</version>
+    <version>2bde5c735f0f4904</version>
   </listing>
   <listing>
     <id>mdrealty:unit-230</id>
-    <reference>unit-230</reference>
+    <reference>900000955</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">190164</price>
@@ -44573,11 +44527,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.53.34.png]]></image>
     </images>
-    <version>8e7f4b24218cb532</version>
+    <version>7847a2e06fd64022</version>
   </listing>
   <listing>
     <id>mdrealty:unit-231</id>
-    <reference>unit-231</reference>
+    <reference>900000956</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">152672</price>
@@ -44616,11 +44570,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/S104.png]]></image>
     </images>
-    <version>2b827468caa848cf</version>
+    <version>c40669e9f53b6ede</version>
   </listing>
   <listing>
     <id>mdrealty:unit-232</id>
-    <reference>unit-232</reference>
+    <reference>900000921</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">151996</price>
@@ -44659,11 +44613,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.57.37.png]]></image>
     </images>
-    <version>9b09d3e91951f376</version>
+    <version>1a914b44f4599df7</version>
   </listing>
   <listing>
     <id>mdrealty:unit-233</id>
-    <reference>unit-233</reference>
+    <reference>900000926</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">151996</price>
@@ -44704,11 +44658,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2011.57.37-1.png]]></image>
     </images>
-    <version>b64777905573a4c4</version>
+    <version>ac0f171e528fff30</version>
   </listing>
   <listing>
     <id>mdrealty:unit-234</id>
-    <reference>unit-234</reference>
+    <reference>900000924</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">151996</price>
@@ -44747,11 +44701,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.01.15.png]]></image>
     </images>
-    <version>ef89a173d3e3cd1a</version>
+    <version>0dc218569dd38cd0</version>
   </listing>
   <listing>
     <id>mdrealty:unit-235</id>
-    <reference>unit-235</reference>
+    <reference>900000879</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">151996</price>
@@ -44790,11 +44744,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.01.54.png]]></image>
     </images>
-    <version>37cb9e35ff4100c9</version>
+    <version>3e6335319fc50149</version>
   </listing>
   <listing>
     <id>mdrealty:unit-236</id>
-    <reference>unit-236</reference>
+    <reference>900000930</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">151528</price>
@@ -44833,11 +44787,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.03.08.png]]></image>
     </images>
-    <version>89d0b03f5a87611f</version>
+    <version>b5c7948198806e89</version>
   </listing>
   <listing>
     <id>mdrealty:unit-237</id>
-    <reference>unit-237</reference>
+    <reference>900000901</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">176228</price>
@@ -44878,11 +44832,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.04.11.png]]></image>
     </images>
-    <version>1e034b330048a8c6</version>
+    <version>56d8bfd8d0b4b5f5</version>
   </listing>
   <listing>
     <id>mdrealty:unit-238</id>
-    <reference>unit-238</reference>
+    <reference>900000961</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">197478</price>
@@ -44923,11 +44877,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.04.57.png]]></image>
     </images>
-    <version>27e28ee165d6cd6c</version>
+    <version>d19de323c7a70fce</version>
   </listing>
   <listing>
     <id>mdrealty:unit-239</id>
-    <reference>unit-239</reference>
+    <reference>900000962</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">158544</price>
@@ -44968,11 +44922,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.05.51.png]]></image>
     </images>
-    <version>8d8a7ea52f228675</version>
+    <version>c15d9ed030aa1be6</version>
   </listing>
   <listing>
     <id>mdrealty:unit-240</id>
-    <reference>unit-240</reference>
+    <reference>900000922</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">157842</price>
@@ -45011,11 +44965,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.06.38.png]]></image>
     </images>
-    <version>72e47b3672e6e8d5</version>
+    <version>dd85b348c02535e5</version>
   </listing>
   <listing>
     <id>mdrealty:unit-241</id>
-    <reference>unit-241</reference>
+    <reference>900000957</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">157842</price>
@@ -45056,11 +45010,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.08.04.png]]></image>
     </images>
-    <version>cef21049bcd8790a</version>
+    <version>bb6a6f1dbc7206d9</version>
   </listing>
   <listing>
     <id>mdrealty:unit-242</id>
-    <reference>unit-242</reference>
+    <reference>900000953</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">157842</price>
@@ -45101,11 +45055,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.08.53.png]]></image>
     </images>
-    <version>700f61038cdd8a1a</version>
+    <version>3dac96628aa93ae5</version>
   </listing>
   <listing>
     <id>mdrealty:unit-243</id>
-    <reference>unit-243</reference>
+    <reference>900000900</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">152226</price>
@@ -45146,11 +45100,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.09.37.png]]></image>
     </images>
-    <version>25dd789427fee10f</version>
+    <version>6fdc98e34b1ccf36</version>
   </listing>
   <listing>
     <id>mdrealty:unit-244</id>
-    <reference>unit-244</reference>
+    <reference>900000920</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">152226</price>
@@ -45191,11 +45145,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.12.21.png]]></image>
     </images>
-    <version>9a11bd8c2a863856</version>
+    <version>0ef2a1530e454e71</version>
   </listing>
   <listing>
     <id>mdrealty:unit-245</id>
-    <reference>unit-245</reference>
+    <reference>900000897</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">183060</price>
@@ -45236,11 +45190,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.13.20.png]]></image>
     </images>
-    <version>414ffde1a616d720</version>
+    <version>6c4aac824052c425</version>
   </listing>
   <listing>
     <id>mdrealty:unit-246</id>
-    <reference>unit-246</reference>
+    <reference>900000951</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">183006</price>
@@ -45281,11 +45235,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.14.18.png]]></image>
     </images>
-    <version>195a81b3229962cb</version>
+    <version>966e75bdd9627595</version>
   </listing>
   <listing>
     <id>mdrealty:unit-247</id>
-    <reference>unit-247</reference>
+    <reference>900000337</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">193592</price>
@@ -45328,11 +45282,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.15.12.png]]></image>
     </images>
-    <version>977c19b6bde309e4</version>
+    <version>cf4be8a1ddf47bab</version>
   </listing>
   <listing>
     <id>mdrealty:unit-248</id>
-    <reference>unit-248</reference>
+    <reference>900000896</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">183736</price>
@@ -45373,11 +45327,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.16.24.png]]></image>
     </images>
-    <version>932034d9351eaf00</version>
+    <version>260022e6a4a08ce6</version>
   </listing>
   <listing>
     <id>mdrealty:unit-249</id>
-    <reference>unit-249</reference>
+    <reference>900000950</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">170576</price>
@@ -45418,11 +45372,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.17.26.png]]></image>
     </images>
-    <version>aaeec45a0c6cbae5</version>
+    <version>a142aba55c08e1b8</version>
   </listing>
   <listing>
     <id>mdrealty:unit-25</id>
-    <reference>unit-25</reference>
+    <reference>900000545</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">321100</price>
@@ -45473,11 +45427,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_11-min-1.png]]></image>
     </images>
-    <version>cc804cc755dd74e5</version>
+    <version>59759a18729b913c</version>
   </listing>
   <listing>
     <id>mdrealty:unit-250</id>
-    <reference>unit-250</reference>
+    <reference>900000919</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">169512</price>
@@ -45518,11 +45472,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/S324.png]]></image>
     </images>
-    <version>f792e8cdaff87832</version>
+    <version>d9437eada0c09cbd</version>
   </listing>
   <listing>
     <id>mdrealty:unit-251</id>
-    <reference>unit-251</reference>
+    <reference>900000916</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">207857</price>
@@ -45563,11 +45517,11 @@ Amenities: Alarm system, reception, intercom, air conditioning, parking, mountai
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/814f6d85-c4af-4603-9c4a-e419ff8cf8b8/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-06-15%20at%2012.19.58.png]]></image>
     </images>
-    <version>e2ebe625ccbfc865</version>
+    <version>baba252410647248</version>
   </listing>
   <listing>
     <id>mdrealty:unit-26</id>
-    <reference>unit-26</reference>
+    <reference>900000495</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">435100</price>
@@ -45618,11 +45572,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_12-min-1.png]]></image>
     </images>
-    <version>e4e50205926ff301</version>
+    <version>d79bb7aba9c09908</version>
   </listing>
   <listing>
     <id>mdrealty:unit-27</id>
-    <reference>unit-27</reference>
+    <reference>900000517</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">265050</price>
@@ -45673,11 +45627,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_13-min-1.png]]></image>
     </images>
-    <version>1058651c7900747e</version>
+    <version>9b755b2aad621cac</version>
   </listing>
   <listing>
     <id>mdrealty:unit-28</id>
-    <reference>unit-28</reference>
+    <reference>900000482</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">275500</price>
@@ -45728,11 +45682,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_14-min-1.png]]></image>
     </images>
-    <version>55c17923dbc84ba5</version>
+    <version>87d200dee0171c72</version>
   </listing>
   <listing>
     <id>mdrealty:unit-281</id>
-    <reference>unit-281</reference>
+    <reference>900000646</reference>
     <purpose>sale</purpose>
     <type>house</type>
     <price currency="EUR">600000</price>
@@ -45774,11 +45728,11 @@ Amenities: Alarm system, Intercom, Air conditioning, Parking, Garden, Grill, Sea
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/2a633884-4b48-4869-8683-9b394a46ef89/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/townhouse_1-1.jpg]]></image>
     </images>
-    <version>554754f9c2340222</version>
+    <version>e39eaf4be4b6b98e</version>
   </listing>
   <listing>
     <id>mdrealty:unit-29</id>
-    <reference>unit-29</reference>
+    <reference>900000494</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">267900</price>
@@ -45829,11 +45783,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_15-min-1.png]]></image>
     </images>
-    <version>30e6561cbcf0cdbf</version>
+    <version>73f9ef5d5ec7d3dd</version>
   </listing>
   <listing>
     <id>mdrealty:unit-30</id>
-    <reference>unit-30</reference>
+    <reference>900000509</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">415150</price>
@@ -45884,11 +45838,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/01_16-min-1.png]]></image>
     </images>
-    <version>d5b6ddd4ad2c5cd9</version>
+    <version>6aab7bce03f820f1</version>
   </listing>
   <listing>
     <id>mdrealty:unit-304</id>
-    <reference>unit-304</reference>
+    <reference>900000987</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">147630</price>
@@ -45934,11 +45888,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/9be9987e-d45b-4099-898b-482bb00564c1/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
     </images>
-    <version>13f1f304c1582803</version>
+    <version>27b2b72fa8f71f7a</version>
   </listing>
   <listing>
     <id>mdrealty:unit-305</id>
-    <reference>unit-305</reference>
+    <reference>900000397</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">132540</price>
@@ -45984,11 +45938,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/9be9987e-d45b-4099-898b-482bb00564c1/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
     </images>
-    <version>f1d5475d052cb229</version>
+    <version>8d2ef4faff2592fc</version>
   </listing>
   <listing>
     <id>mdrealty:unit-306</id>
-    <reference>unit-306</reference>
+    <reference>900000958</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">76726</price>
@@ -46034,11 +45988,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-07-30%20at%2011.41.19.png]]></image>
     </images>
-    <version>12b256eeed11e84f</version>
+    <version>33dab8ecba5cc5f8</version>
   </listing>
   <listing>
     <id>mdrealty:unit-307</id>
-    <reference>unit-307</reference>
+    <reference>900000960</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">85332</price>
@@ -46084,11 +46038,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-07-30%20at%2011.41.37.png]]></image>
     </images>
-    <version>27ea15b1bec16d05</version>
+    <version>efabba05f0d6e37b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-308</id>
-    <reference>unit-308</reference>
+    <reference>900000375</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">76492</price>
@@ -46134,11 +46088,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-07-30%20at%2011.41.19-1.png]]></image>
     </images>
-    <version>2353bbaaccdb31f9</version>
+    <version>327ce9d7ce7cf51e</version>
   </listing>
   <listing>
     <id>mdrealty:unit-309</id>
-    <reference>unit-309</reference>
+    <reference>900000888</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">84968</price>
@@ -46184,11 +46138,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-07-30%20at%2011.41.37-1.png]]></image>
     </images>
-    <version>617ff0012559a573</version>
+    <version>d5126af624c3f21a</version>
   </listing>
   <listing>
     <id>mdrealty:unit-31</id>
-    <reference>unit-31</reference>
+    <reference>900000501</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">354350</price>
@@ -46239,11 +46193,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/02_05-min-1.png]]></image>
     </images>
-    <version>13937ccbb8f4d39e</version>
+    <version>9afbcdd9fc24960d</version>
   </listing>
   <listing>
     <id>mdrealty:unit-32</id>
-    <reference>unit-32</reference>
+    <reference>900000508</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">242250</price>
@@ -46294,11 +46248,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/02_07-min-1.png]]></image>
     </images>
-    <version>0a05ec24f29c5922</version>
+    <version>64f73f9177beb772</version>
   </listing>
   <listing>
     <id>mdrealty:unit-325</id>
-    <reference>unit-325</reference>
+    <reference>900000932</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">88550</price>
@@ -46343,11 +46297,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/9be9987e-d45b-4099-898b-482bb00564c1/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
     </images>
-    <version>8a77e20918740734</version>
+    <version>e5c291cb53a0dc69</version>
   </listing>
   <listing>
     <id>mdrealty:unit-326</id>
-    <reference>unit-326</reference>
+    <reference>900000931</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">101400</price>
@@ -46392,11 +46346,11 @@ Key Highlights:
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/9be9987e-d45b-4099-898b-482bb00564c1/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/15fa5aa8-59e8-4db4-9018-12a4c03ec580/variants/large.jpg]]></image>
     </images>
-    <version>017328452bf062e2</version>
+    <version>150f3056a9d4eebe</version>
   </listing>
   <listing>
     <id>mdrealty:unit-33</id>
-    <reference>unit-33</reference>
+    <reference>900000507</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">369550</price>
@@ -46447,11 +46401,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/02_09-min-1.png]]></image>
     </images>
-    <version>7ecb11fe8620f88d</version>
+    <version>db392e66d040ff31</version>
   </listing>
   <listing>
     <id>mdrealty:unit-34</id>
-    <reference>unit-34</reference>
+    <reference>900000505</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">320150</price>
@@ -46502,11 +46456,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/02_12-min-1.png]]></image>
     </images>
-    <version>8aa3284d50512e51</version>
+    <version>9c31603c549d6145</version>
   </listing>
   <listing>
     <id>mdrealty:unit-35</id>
-    <reference>unit-35</reference>
+    <reference>900000548</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">416100</price>
@@ -46557,11 +46511,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/02_13-min-1.png]]></image>
     </images>
-    <version>24626cd2ce0a8575</version>
+    <version>ef46ca440266e9b4</version>
   </listing>
   <listing>
     <id>mdrealty:unit-36</id>
-    <reference>unit-36</reference>
+    <reference>900000529</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">493050</price>
@@ -46612,11 +46566,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/02_14-min.png]]></image>
     </images>
-    <version>2691f1f18e1dea8e</version>
+    <version>7a341453630c3613</version>
   </listing>
   <listing>
     <id>mdrealty:unit-37</id>
-    <reference>unit-37</reference>
+    <reference>900000532</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">311600</price>
@@ -46667,11 +46621,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_12-min.png]]></image>
     </images>
-    <version>190bd6b7240bbfac</version>
+    <version>5d12c3c9f8168e5f</version>
   </listing>
   <listing>
     <id>mdrealty:unit-38</id>
-    <reference>unit-38</reference>
+    <reference>900000510</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">301150</price>
@@ -46722,11 +46676,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_07-min.png]]></image>
     </images>
-    <version>b8e5085ee0237365</version>
+    <version>c88034eee47b6fca</version>
   </listing>
   <listing>
     <id>mdrealty:unit-39</id>
-    <reference>unit-39</reference>
+    <reference>900000483</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">266000</price>
@@ -46777,11 +46731,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_06-min.png]]></image>
     </images>
-    <version>a2d8be50320731cb</version>
+    <version>e1a6539c6dcc83e5</version>
   </listing>
   <listing>
     <id>mdrealty:unit-40</id>
-    <reference>unit-40</reference>
+    <reference>900000534</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">227050</price>
@@ -46834,11 +46788,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_05-min.png]]></image>
     </images>
-    <version>546b930ebdc29d8e</version>
+    <version>02f39146cde0abdd</version>
   </listing>
   <listing>
     <id>mdrealty:unit-41</id>
-    <reference>unit-41</reference>
+    <reference>900000533</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">241000</price>
@@ -46889,11 +46843,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_04-min.png]]></image>
     </images>
-    <version>c4b3c34f29b2db8b</version>
+    <version>f78db77c615f5d5f</version>
   </listing>
   <listing>
     <id>mdrealty:unit-42</id>
-    <reference>unit-42</reference>
+    <reference>900000502</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">228950</price>
@@ -46946,11 +46900,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_03-min.png]]></image>
     </images>
-    <version>1853496f4c9e6648</version>
+    <version>b37f4b270c459a0e</version>
   </listing>
   <listing>
     <id>mdrealty:unit-43</id>
-    <reference>unit-43</reference>
+    <reference>900000679</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">322050</price>
@@ -47001,11 +46955,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_01-min.png]]></image>
     </images>
-    <version>63d6497f7fd84afe</version>
+    <version>0fd4f3842fda747d</version>
   </listing>
   <listing>
     <id>mdrealty:unit-44</id>
-    <reference>unit-44</reference>
+    <reference>900000535</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">507300</price>
@@ -47056,11 +47010,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/04_16-min.png]]></image>
     </images>
-    <version>4673632663af3042</version>
+    <version>f028655eb8018aaf</version>
   </listing>
   <listing>
     <id>mdrealty:unit-45</id>
-    <reference>unit-45</reference>
+    <reference>900000538</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">230850</price>
@@ -47110,11 +47064,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/04_15-min.png]]></image>
     </images>
-    <version>c947e35a211f7d96</version>
+    <version>331ab28cf554a158</version>
   </listing>
   <listing>
     <id>mdrealty:unit-46</id>
-    <reference>unit-46</reference>
+    <reference>900000527</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">251750</price>
@@ -47167,11 +47121,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/04_04-min.png]]></image>
     </images>
-    <version>4da5e70da7e7650c</version>
+    <version>f68d347058f91a57</version>
   </listing>
   <listing>
     <id>mdrealty:unit-47</id>
-    <reference>unit-47</reference>
+    <reference>900000460</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">211850</price>
@@ -47224,11 +47178,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/04_02-min.png]]></image>
     </images>
-    <version>5db4410b76fe8c76</version>
+    <version>4909a9a5f8fda8c2</version>
   </listing>
   <listing>
     <id>mdrealty:unit-48</id>
-    <reference>unit-48</reference>
+    <reference>900000523</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">303050</price>
@@ -47279,11 +47233,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/04_01-min.png]]></image>
     </images>
-    <version>7e68b53f432de86b</version>
+    <version>b19936f8ccd07a9b</version>
   </listing>
   <listing>
     <id>mdrealty:unit-49</id>
-    <reference>unit-49</reference>
+    <reference>900000547</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">355300</price>
@@ -47336,11 +47290,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_13-min.png]]></image>
     </images>
-    <version>b06beaeb7d7120ab</version>
+    <version>7070ce76f5717a98</version>
   </listing>
   <listing>
     <id>mdrealty:unit-5</id>
-    <reference>unit-5</reference>
+    <reference>900000982</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">299000</price>
@@ -47384,11 +47338,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/f0a182c3-cac4-4499-90d5-c707fde84297/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
     </images>
-    <version>6e0bacde6e5b64d9</version>
+    <version>2a936ec2e829dd2d</version>
   </listing>
   <listing>
     <id>mdrealty:unit-50</id>
-    <reference>unit-50</reference>
+    <reference>900000549</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">117800</price>
@@ -47440,11 +47394,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_12.png]]></image>
     </images>
-    <version>57c3487b3ed245dc</version>
+    <version>8e23a51c7cb88ab8</version>
   </listing>
   <listing>
     <id>mdrealty:unit-51</id>
-    <reference>unit-51</reference>
+    <reference>900000551</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">257450</price>
@@ -47496,11 +47450,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_10-min.png]]></image>
     </images>
-    <version>9a377bb2da18bfd8</version>
+    <version>b6c40cbd8716a282</version>
   </listing>
   <listing>
     <id>mdrealty:unit-52</id>
-    <reference>unit-52</reference>
+    <reference>900000503</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">331550</price>
@@ -47551,11 +47505,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_09-min.png]]></image>
     </images>
-    <version>2748c3594fed1907</version>
+    <version>14f9f113da22b999</version>
   </listing>
   <listing>
     <id>mdrealty:unit-53</id>
-    <reference>unit-53</reference>
+    <reference>900000484</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">108300</price>
@@ -47605,11 +47559,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_08-min.png]]></image>
     </images>
-    <version>d1f69bfdb4953506</version>
+    <version>2e77495865f343e0</version>
   </listing>
   <listing>
     <id>mdrealty:unit-54</id>
-    <reference>unit-54</reference>
+    <reference>900000518</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">197600</price>
@@ -47662,11 +47616,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_07-min.png]]></image>
     </images>
-    <version>1b195e97d0a18749</version>
+    <version>ea5785a92f646f8f</version>
   </listing>
   <listing>
     <id>mdrealty:unit-55</id>
-    <reference>unit-55</reference>
+    <reference>900000537</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">413250</price>
@@ -47717,11 +47671,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_21-min.png]]></image>
     </images>
-    <version>4ec39727be18d2ae</version>
+    <version>0b5830ce9c9519b8</version>
   </listing>
   <listing>
     <id>mdrealty:unit-56</id>
-    <reference>unit-56</reference>
+    <reference>900000463</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">403750</price>
@@ -47772,11 +47726,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_22-min.png]]></image>
     </images>
-    <version>e093c3e87bbb2aa7</version>
+    <version>83e3dccece23bfc6</version>
   </listing>
   <listing>
     <id>mdrealty:unit-57</id>
-    <reference>unit-57</reference>
+    <reference>900000512</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">283100</price>
@@ -47829,11 +47783,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/05_16B-min%202.png]]></image>
     </images>
-    <version>ce29b8c28e1765f4</version>
+    <version>d817cb91bc506be3</version>
   </listing>
   <listing>
     <id>mdrealty:unit-58</id>
-    <reference>unit-58</reference>
+    <reference>900000511</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">228950</price>
@@ -47886,11 +47840,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/06_02-min.png]]></image>
     </images>
-    <version>652bdc74afbe97d0</version>
+    <version>13a7b22e7472c922</version>
   </listing>
   <listing>
     <id>mdrealty:unit-59</id>
-    <reference>unit-59</reference>
+    <reference>900000528</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">317300</price>
@@ -47943,11 +47897,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/06_10-min.png]]></image>
     </images>
-    <version>bb0ab920905583e0</version>
+    <version>545cf78de693dd10</version>
   </listing>
   <listing>
     <id>mdrealty:unit-6</id>
-    <reference>unit-6</reference>
+    <reference>900000983</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">250000</price>
@@ -47992,11 +47946,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2015.58.39-min.png]]></image>
     </images>
-    <version>d26888edb7e5a0dd</version>
+    <version>1da790b7131034b7</version>
   </listing>
   <listing>
     <id>mdrealty:unit-60</id>
-    <reference>unit-60</reference>
+    <reference>900000531</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">184300</price>
@@ -48047,11 +48001,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/06_12-min.png]]></image>
     </images>
-    <version>2ab64e46074c18fd</version>
+    <version>f7fe4ce01008c7fa</version>
   </listing>
   <listing>
     <id>mdrealty:unit-61</id>
-    <reference>unit-61</reference>
+    <reference>900000530</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">380950</price>
@@ -48102,11 +48056,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/06_13-min.png]]></image>
     </images>
-    <version>9f8bb8f70bd1b186</version>
+    <version>b984daad91dbf661</version>
   </listing>
   <listing>
     <id>mdrealty:unit-62</id>
-    <reference>unit-62</reference>
+    <reference>900000552</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">122550</price>
@@ -48156,11 +48110,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_03-min.png]]></image>
     </images>
-    <version>f995c4b56670346a</version>
+    <version>e2aed3c422a3dceb</version>
   </listing>
   <listing>
     <id>mdrealty:unit-63</id>
-    <reference>unit-63</reference>
+    <reference>900000520</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">141550</price>
@@ -48210,11 +48164,11 @@ This development offers an appealing opportunity to enjoy refined Mediterranean 
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/5a7997c6-c9c2-474b-bb75-5618267c2353/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/03_04-min.png]]></image>
     </images>
-    <version>1603242bc1ace5c4</version>
+    <version>2c406c9c2c839ecf</version>
   </listing>
   <listing>
     <id>mdrealty:unit-64</id>
-    <reference>unit-64</reference>
+    <reference>900000985</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">356940</price>
@@ -48259,11 +48213,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-1.png]]></image>
     </images>
-    <version>782cc70ac1cda9cd</version>
+    <version>96e6aba8c49b7725</version>
   </listing>
   <listing>
     <id>mdrealty:unit-68</id>
-    <reference>unit-68</reference>
+    <reference>900000986</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">242520</price>
@@ -48308,11 +48262,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-5.png]]></image>
     </images>
-    <version>25eb96b3cead01c3</version>
+    <version>dce168d29ac1f865</version>
   </listing>
   <listing>
     <id>mdrealty:unit-69</id>
-    <reference>unit-69</reference>
+    <reference>900000915</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">238620</price>
@@ -48355,11 +48309,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-6.png]]></image>
     </images>
-    <version>36f32f2c0151a577</version>
+    <version>deee39db168b0838</version>
   </listing>
   <listing>
     <id>mdrealty:unit-7</id>
-    <reference>unit-7</reference>
+    <reference>900000949</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">278000</price>
@@ -48404,11 +48358,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.00.19.png]]></image>
     </images>
-    <version>fd1259b4fe3ea75c</version>
+    <version>b885a39b4ad11858</version>
   </listing>
   <listing>
     <id>mdrealty:unit-70</id>
-    <reference>unit-70</reference>
+    <reference>900000975</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">270660</price>
@@ -48454,11 +48408,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-7.png]]></image>
     </images>
-    <version>ad3c9101a6c16621</version>
+    <version>6d18c51622ffb120</version>
   </listing>
   <listing>
     <id>mdrealty:unit-71</id>
-    <reference>unit-71</reference>
+    <reference>900000945</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">298080</price>
@@ -48504,11 +48458,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-8.png]]></image>
     </images>
-    <version>043d6e14f737d2e1</version>
+    <version>3287efaab43cd259</version>
   </listing>
   <listing>
     <id>mdrealty:unit-72</id>
-    <reference>unit-72</reference>
+    <reference>900000974</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">362580</price>
@@ -48553,11 +48507,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-9.png]]></image>
     </images>
-    <version>1b487e75ebca7457</version>
+    <version>43ca734ce06a8580</version>
   </listing>
   <listing>
     <id>mdrealty:unit-73</id>
-    <reference>unit-73</reference>
+    <reference>900000906</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
     <price currency="EUR">493980</price>
@@ -48602,11 +48556,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/ground%20floor%20plan-10.png]]></image>
     </images>
-    <version>9abd49f15cd7c8b6</version>
+    <version>652e0fc660bc4364</version>
   </listing>
   <listing>
     <id>mdrealty:unit-74</id>
-    <reference>unit-74</reference>
+    <reference>900000381</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">3442000</price>
@@ -48646,11 +48600,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/magnific__combine-into-side-by-side-images__89712-min.png]]></image>
     </images>
-    <version>fbb0c635d86fa35c</version>
+    <version>baa11abd1c4e60a9</version>
   </listing>
   <listing>
     <id>mdrealty:unit-75</id>
-    <reference>unit-75</reference>
+    <reference>900000383</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">3756000</price>
@@ -48690,11 +48644,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G-1B2-V12-min.png]]></image>
     </images>
-    <version>f3758e66d8dab4be</version>
+    <version>5d6396e9e3ca5057</version>
   </listing>
   <listing>
     <id>mdrealty:unit-76</id>
-    <reference>unit-76</reference>
+    <reference>900000404</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">4232000</price>
@@ -48734,11 +48688,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G-1B2-V13-min.png]]></image>
     </images>
-    <version>920969685caa008c</version>
+    <version>d69c65ddb204cb62</version>
   </listing>
   <listing>
     <id>mdrealty:unit-77</id>
-    <reference>unit-77</reference>
+    <reference>900000394</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">4056000</price>
@@ -48778,11 +48732,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%201%20C%201%20-%20V%201-min.png]]></image>
     </images>
-    <version>d518f41eb0289ca1</version>
+    <version>b38252b6d770d00c</version>
   </listing>
   <listing>
     <id>mdrealty:unit-78</id>
-    <reference>unit-78</reference>
+    <reference>900000384</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">4198000</price>
@@ -48822,11 +48776,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%201%20C%201%20-%20V%205-min.png]]></image>
     </images>
-    <version>129712d13d711a08</version>
+    <version>fd671b499854f446</version>
   </listing>
   <listing>
     <id>mdrealty:unit-79</id>
-    <reference>unit-79</reference>
+    <reference>900000233</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">3647000</price>
@@ -48866,11 +48820,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G-1C1-V6-min.png]]></image>
     </images>
-    <version>0503137d566e0f76</version>
+    <version>e9a7cbc3d7592d20</version>
   </listing>
   <listing>
     <id>mdrealty:unit-8</id>
-    <reference>unit-8</reference>
+    <reference>900000803</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">310000</price>
@@ -48917,11 +48871,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.04.22-min.png]]></image>
     </images>
-    <version>3561b364d6599416</version>
+    <version>7c150511d9375ba7</version>
   </listing>
   <listing>
     <id>mdrealty:unit-80</id>
-    <reference>unit-80</reference>
+    <reference>900000642</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">5076000</price>
@@ -48961,11 +48915,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G-1C1-V7-min.png]]></image>
     </images>
-    <version>5988b17d2f943f2b</version>
+    <version>c838b8f4b4ea7c9f</version>
   </listing>
   <listing>
     <id>mdrealty:unit-81</id>
-    <reference>unit-81</reference>
+    <reference>900000363</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price currency="EUR">3931000</price>
@@ -49005,11 +48959,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G-1C1-V8-min.png]]></image>
     </images>
-    <version>f7271f6427498b58</version>
+    <version>65ce45b4a90e2993</version>
   </listing>
   <listing>
     <id>mdrealty:unit-82</id>
-    <reference>unit-82</reference>
+    <reference>900000410</reference>
     <purpose>sale</purpose>
     <type>house</type>
     <price currency="EUR">2643000</price>
@@ -49049,11 +49003,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%20I%20C%202%20-%20T%20H%203%20a-min.png]]></image>
     </images>
-    <version>7e816a708cd2fb8f</version>
+    <version>bfab7af699408362</version>
   </listing>
   <listing>
     <id>mdrealty:unit-83</id>
-    <reference>unit-83</reference>
+    <reference>900000283</reference>
     <purpose>sale</purpose>
     <type>house</type>
     <price currency="EUR">2539000</price>
@@ -49093,11 +49047,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%20I%20C%202%20-%20T%20H%203%20b-min.png]]></image>
     </images>
-    <version>56fb3d67e98e74b1</version>
+    <version>602df42484e3807a</version>
   </listing>
   <listing>
     <id>mdrealty:unit-84</id>
-    <reference>unit-84</reference>
+    <reference>900000285</reference>
     <purpose>sale</purpose>
     <type>house</type>
     <price currency="EUR">2524000</price>
@@ -49137,11 +49091,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%20I%20C%202%20-%20T%20H%204%D0%90%20-min.png]]></image>
     </images>
-    <version>8c3347ec672fae58</version>
+    <version>ffa8c3d8bd9aa33a</version>
   </listing>
   <listing>
     <id>mdrealty:unit-85</id>
-    <reference>unit-85</reference>
+    <reference>900000406</reference>
     <purpose>sale</purpose>
     <type>house</type>
     <price currency="EUR">2561000</price>
@@ -49181,11 +49135,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%20I%20C%202%20-%20T%20H%204%20b-min.png]]></image>
     </images>
-    <version>580f34a312aa1db8</version>
+    <version>390eda52a309e0cf</version>
   </listing>
   <listing>
     <id>mdrealty:unit-86</id>
-    <reference>unit-86</reference>
+    <reference>900000286</reference>
     <purpose>sale</purpose>
     <type>house</type>
     <price currency="EUR">2189000</price>
@@ -49225,11 +49179,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/G%20-%20I%20C%202%20-%20T%20H%207%20b-min.png]]></image>
     </images>
-    <version>235b1c6d4b702f79</version>
+    <version>8183bb808294de30</version>
   </listing>
   <listing>
     <id>mdrealty:unit-87</id>
-    <reference>unit-87</reference>
+    <reference>900000387</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1360000</price>
@@ -49270,11 +49224,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/GA401%20-min.png]]></image>
     </images>
-    <version>e8c1d1c432940c25</version>
+    <version>6d9188bb94c8f6b1</version>
   </listing>
   <listing>
     <id>mdrealty:unit-88</id>
-    <reference>unit-88</reference>
+    <reference>900000288</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1159000</price>
@@ -49315,11 +49269,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/GA403%20-min.png]]></image>
     </images>
-    <version>30e013e66dcec6ca</version>
+    <version>63cde8aa5efd0e5f</version>
   </listing>
   <listing>
     <id>mdrealty:unit-89</id>
-    <reference>unit-89</reference>
+    <reference>900000201</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1447000</price>
@@ -49360,11 +49314,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/GA404%20-min.png]]></image>
     </images>
-    <version>15536f98ad4dfe20</version>
+    <version>e181699cbf5f3363</version>
   </listing>
   <listing>
     <id>mdrealty:unit-9</id>
-    <reference>unit-9</reference>
+    <reference>900000913</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">440000</price>
@@ -49411,11 +49365,11 @@ Security & Services: 24/7 reception, intercom, alarm system, parking, profession
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/b000c201-7fa3-4d50-a2cf-99075019536b/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/Screenshot%202026-04-29%20at%2016.07.23-min.png]]></image>
     </images>
-    <version>8121d7434e6c3cb4</version>
+    <version>724c9984a55ca1c0</version>
   </listing>
   <listing>
     <id>mdrealty:unit-90</id>
-    <reference>unit-90</reference>
+    <reference>900000417</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">859000</price>
@@ -49456,11 +49410,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Garden, Grill, Cit
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/faf84ee3-1bb8-441b-ae73-77a3ffe5d1c5/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/GA413%20-min.png]]></image>
     </images>
-    <version>fb7f0a9ab468c697</version>
+    <version>57b5fa3e8bf97c70</version>
   </listing>
   <listing>
     <id>mdrealty:unit-91</id>
-    <reference>unit-91</reference>
+    <reference>900000345</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">753000</price>
@@ -49501,11 +49455,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-6-13.png]]></image>
     </images>
-    <version>1b90821a2ff518b7</version>
+    <version>014b3df7faa5738d</version>
   </listing>
   <listing>
     <id>mdrealty:unit-92</id>
-    <reference>unit-92</reference>
+    <reference>900000215</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">740000</price>
@@ -49546,11 +49500,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-7-11.png]]></image>
     </images>
-    <version>c424c340b0337fa8</version>
+    <version>15ffe4fc052ad9ba</version>
   </listing>
   <listing>
     <id>mdrealty:unit-93</id>
-    <reference>unit-93</reference>
+    <reference>900000418</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">903000</price>
@@ -49591,11 +49545,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-7-12.png]]></image>
     </images>
-    <version>df62fd717c9a02b8</version>
+    <version>dd9d18600ad2a336</version>
   </listing>
   <listing>
     <id>mdrealty:unit-94</id>
-    <reference>unit-94</reference>
+    <reference>900000389</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">723000</price>
@@ -49636,11 +49590,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-7-21.png]]></image>
     </images>
-    <version>8164f7b2db662c7b</version>
+    <version>b9c5a0d7ab318035</version>
   </listing>
   <listing>
     <id>mdrealty:unit-95</id>
-    <reference>unit-95</reference>
+    <reference>900000392</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">899000</price>
@@ -49681,11 +49635,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-7-22.png]]></image>
     </images>
-    <version>9e589e757114628f</version>
+    <version>229d3fd5a9c2c065</version>
   </listing>
   <listing>
     <id>mdrealty:unit-96</id>
-    <reference>unit-96</reference>
+    <reference>900000317</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">716000</price>
@@ -49726,11 +49680,11 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-7-23.png]]></image>
     </images>
-    <version>adf19cab006be868</version>
+    <version>2551317cc8e63ce7</version>
   </listing>
   <listing>
     <id>mdrealty:unit-97</id>
-    <reference>unit-97</reference>
+    <reference>900000514</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1591000</price>
@@ -49771,7 +49725,7 @@ Amenities: Intercom, Alarm system, Air conditioning, Parking, Sea View, Mountain
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/ea1bbf7d-0536-4775-b08d-66b373148ad4/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/8-8-21.png]]></image>
     </images>
-    <version>1ebacc73c89b9837</version>
+    <version>5d6f698ec0c31da5</version>
   </listing>
   <listing>
     <id>sanpatrik:115862</id>
@@ -50866,7 +50820,7 @@ The apartments provide a rare combination of luxury living, privacy, and access 
   </listing>
   <listing>
     <id>sothebys:1bdr-sea-view-apartment-in-new-versa-residences-porto-montenegro</id>
-    <reference>1bdr-sea-view-apartment-in-new-versa-residences-porto-montenegro</reference>
+    <reference>900000333</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">536000</price>
@@ -50959,11 +50913,11 @@ Price for garage space is 50,000 eur.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F9.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F10.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>9bd1136f8a347726</version>
+    <version>d6e829ff8fcb26e1</version>
   </listing>
   <listing>
     <id>sothebys:alba-2bdr-furnished-apartment-in-boka-place-tivat</id>
-    <reference>alba-2bdr-furnished-apartment-in-boka-place-tivat</reference>
+    <reference>900001114</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">675000</price>
@@ -51017,11 +50971,11 @@ Boka Place is a new urban district within Porto Montenegro, a commercial and res
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F09%2FBoka-placa-2-bed-20.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F09%2FBoka-placa-2-bed-22.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b1fc9c7c4c54cd81</version>
+    <version>003adb39c8c16d78</version>
   </listing>
   <listing>
     <id>sothebys:alba-one-bedroom-apartment-boka-place</id>
-    <reference>alba-one-bedroom-apartment-boka-place</reference>
+    <reference>900000049</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">499000</price>
@@ -51072,11 +51026,11 @@ Boka Place is a new urban district within Porto Montenegro, a commercial and res
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Flistings%2Fsir-700021%2Fcms-843cad319c9d3808.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Flistings%2Fsir-700021%2Fcms-093dd02e9458063f.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>8cd31d70b8ea9cfc</version>
+    <version>a9591ad3d9400b45</version>
   </listing>
   <listing>
     <id>sothebys:aqua-2bdr-waterfront-apartment</id>
-    <reference>aqua-2bdr-waterfront-apartment</reference>
+    <reference>900000154</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -51138,11 +51092,11 @@ Porto Montenegro is a world-class marine resort with exclusive residences, bouti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F12%2F12-Tivat-Porto-Montenegro-waterfront-two-bedroom-apartment-in-Regent-Pool-Club-Residence-Aqua-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F12%2F1-Tivat-Porto-Montenegro-waterfront-two-bedroom-apartment-in-Regent-Pool-Club-Residence-Aqua-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>7978f38cc55d5eef</version>
+    <version>afbe68f4e2f41e86</version>
   </listing>
   <listing>
     <id>sothebys:baia-3bdr-apartment-2</id>
-    <reference>baia-3bdr-apartment-2</reference>
+    <reference>900000767</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1650000</price>
@@ -51204,11 +51158,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, bouti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F02%2F14.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F02%2F15.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>93b4d5ea78c05433</version>
+    <version>7e9bccbedd1cb7bb</version>
   </listing>
   <listing>
     <id>sothebys:baia-3bdr-penthouse-2</id>
-    <reference>baia-3bdr-penthouse-2</reference>
+    <reference>900000700</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">4300000</price>
@@ -51303,11 +51257,11 @@ Porto Montenegro is a world-class marine resort with exclusive residences, bouti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F01%2F24-Tivat-Porto-Montenegro-%E2%80%93-a-three-bedroom-penthouse-apartment-with-a-private-swimming-pool-Regent-Pool-Club-Baia-Residence.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F01%2F25-Tivat-Porto-Montenegro-%E2%80%93-a-three-bedroom-penthouse-apartment-with-a-private-swimming-pool-Regent-Pool-Club-Baia-Residence.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b0d573ffcec25236</version>
+    <version>e475f552859ebbca</version>
   </listing>
   <listing>
     <id>sothebys:designer-three-bedroom-waterfront-apartment-teuta</id>
-    <reference>designer-three-bedroom-waterfront-apartment-teuta</reference>
+    <reference>900000332</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">3500000</price>
@@ -51406,11 +51360,11 @@ Fitness]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F09%2F21-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F09%2F22-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>54615c7b84065f91</version>
+    <version>212d0e923f9a5d3c</version>
   </listing>
   <listing>
     <id>sothebys:duplex-penthouse-milena</id>
-    <reference>duplex-penthouse-milena</reference>
+    <reference>900000815</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1000000</price>
@@ -51478,11 +51432,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, bouti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F02%2F17-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F02%2F18-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>eebb9e9d7938ed7e</version>
+    <version>b5153241dea199e7</version>
   </listing>
   <listing>
     <id>sothebys:elena-1bdr-apartment-3</id>
-    <reference>elena-1bdr-apartment-3</reference>
+    <reference>900000151</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -51534,11 +51488,11 @@ Porto Montenegro is a world-class marina for super-yachts, with a beautiful resi
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F03%2FLS16.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F03%2FLS29.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>37e6fd8d5b2ae062</version>
+    <version>cf71036245528e7a</version>
   </listing>
   <listing>
     <id>sothebys:elena-2bdr-apartment-2</id>
-    <reference>elena-2bdr-apartment-2</reference>
+    <reference>900000152</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1250000</price>
@@ -51609,11 +51563,11 @@ Porto Montenegro is a world-class marina for superyachts, with a beautiful resid
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F06%2F19-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F06%2F20-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>2e4aeb9cc126a420</version>
+    <version>84e49a871e6cf2b3</version>
   </listing>
   <listing>
     <id>sothebys:elena-apartment-i-tivat</id>
-    <reference>elena-apartment-i-tivat</reference>
+    <reference>900000072</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">592500</price>
@@ -51715,11 +51669,11 @@ A special payment program in Elena residences is underway, with installment paym
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F27-25.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F28-18.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>badcc916f2c8fd88</version>
+    <version>44b934643aa93b30</version>
   </listing>
   <listing>
     <id>sothebys:exclusive-2bdr-apartment-in-elena-building-porto-montenegro</id>
-    <reference>exclusive-2bdr-apartment-in-elena-building-porto-montenegro</reference>
+    <reference>900001121</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -51777,11 +51731,11 @@ Porto Montenegro is a world-class marina for superyachts, with a beautiful resid
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F12-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F13-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>70c37569b124102b</version>
+    <version>c81412e6db407aa7</version>
   </listing>
   <listing>
     <id>sothebys:exclusive-3bdr-elena-penthouse</id>
-    <reference>exclusive-3bdr-elena-penthouse</reference>
+    <reference>900001100</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -51864,11 +51818,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, bouti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F03%2F24-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F03%2F25-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b371e1a28bea82db</version>
+    <version>cb4d73a66ba285da</version>
   </listing>
   <listing>
     <id>sothebys:exclusive-waterfront-3bdr-penthouse-baia</id>
-    <reference>exclusive-waterfront-3bdr-penthouse-baia</reference>
+    <reference>900001006</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -51967,11 +51921,11 @@ Porto Montenegro is a world-class marine resort with exclusive residences, bouti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F09%2F21-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F09%2F22-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>4007cc9d4d0d8ec0</version>
+    <version>d8e1beecdcebf01d</version>
   </listing>
   <listing>
     <id>sothebys:furnished-one-bedroom-apartment-boka-place</id>
-    <reference>furnished-one-bedroom-apartment-boka-place</reference>
+    <reference>900001015</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">490000</price>
@@ -52037,11 +51991,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F2-8.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F1-8.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>21ade39ba1cd7f44</version>
+    <version>2651fb68e0967c49</version>
   </listing>
   <listing>
     <id>sothebys:ksenija-1bdr-apartment-for-rent</id>
-    <reference>ksenija-1bdr-apartment-for-rent</reference>
+    <reference>900000800</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -52105,11 +52059,11 @@ The apartment is available for long-term rent and is ready for immediate occupan
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F11%2F14.jpeg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F11%2F15.jpeg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>bf6589178da346e9</version>
+    <version>6ceabc7434e1abe1</version>
   </listing>
   <listing>
     <id>sothebys:ksenija-apartment-iitivat</id>
-    <reference>ksenija-apartment-iitivat</reference>
+    <reference>900001135</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">425000</price>
@@ -52199,11 +52153,11 @@ Additional facilities:
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F8-8.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F16-10.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>92542127c6b2e49f</version>
+    <version>c08d37ef6f15f364</version>
   </listing>
   <listing>
     <id>sothebys:ksenija-penthouse-i-tivat-porto-montenegro</id>
-    <reference>ksenija-penthouse-i-tivat-porto-montenegro</reference>
+    <reference>900001137</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">3300000</price>
@@ -52269,11 +52223,11 @@ The owner has unlimited right to use reception (24 hours), concierge services, s
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F26-20.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F27-21.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>560409d5bd17045f</version>
+    <version>51deea9efa58bb96</version>
   </listing>
   <listing>
     <id>sothebys:ksenija-residence-2bdr-apartment-for-rent</id>
-    <reference>ksenija-residence-2bdr-apartment-for-rent</reference>
+    <reference>900000148</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -52337,11 +52291,11 @@ The nearest airport is Tivat Airport, 4 km from Porto Montenegro,]]></descriptio
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F09%2F5-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F09%2F4-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>fdde5494d6f634a0</version>
+    <version>494f5589b0b7f1c3</version>
   </listing>
   <listing>
     <id>sothebys:luxury-4bdr-apartment-elena</id>
-    <reference>luxury-4bdr-apartment-elena</reference>
+    <reference>900000069</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -52406,11 +52360,11 @@ Porto Montenegro is a world-class marina for superyachts, with a beautiful resid
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F17.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F18.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>90c0a104b3da3c88</version>
+    <version>234babb5151fd0c9</version>
   </listing>
   <listing>
     <id>sothebys:luxury-one-bedroom-apartment-elena</id>
-    <reference>luxury-one-bedroom-apartment-elena</reference>
+    <reference>900000093</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -52472,11 +52426,11 @@ The apartment is available for long-term rent and is ready for immediate occupan
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F07%2FWhatsApp-Image-2026-07-27-at-13.43.18-1.jpeg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F07%2FWhatsApp-Image-2026-07-27-at-13.43.25-1.jpeg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>ff3686a23b30e0c3</version>
+    <version>5f49591a9bb6d670</version>
   </listing>
   <listing>
     <id>sothebys:luxury-two-bedroom-apartment-elena-building</id>
-    <reference>luxury-two-bedroom-apartment-elena-building</reference>
+    <reference>900000331</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -52552,11 +52506,11 @@ Porto Montenegro is a world-class marina for superyachts, with a beautiful resid
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F08%2F18-Tivat-Porto-Montenegro-%E2%80%93-contemporary-two-bedroom-apartment-with-sea-view-Elena-building-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F08%2F19-Tivat-Porto-Montenegro-%E2%80%93-contemporary-two-bedroom-apartment-with-sea-view-Elena-building.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>7ac56ba269f30f74</version>
+    <version>ba8565f5c6480e40</version>
   </listing>
   <listing>
     <id>sothebys:mistral-1bdr-apartment</id>
-    <reference>mistral-1bdr-apartment</reference>
+    <reference>900000739</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">580000</price>
@@ -52614,11 +52568,11 @@ Boka Place is located on elevated ground overlooking Porto Montenegro Marina, ju
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F10%2F7.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F10%2F8.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>da40779f077184c9</version>
+    <version>f2b2efeb36e26265</version>
   </listing>
   <listing>
     <id>sothebys:mistral-2bdr-duplex-apartment</id>
-    <reference>mistral-2bdr-duplex-apartment</reference>
+    <reference>900000823</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1315200</price>
@@ -52675,11 +52629,11 @@ Boka Place is located on elevated ground overlooking Porto Montenegro Marina, ju
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F04%2F10-Tivat-Porto-Montenegro-two-bedroom-duplex-apartment-in-the-Mistral-building-Boka-Place-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F04%2F11-Tivat-Porto-Montenegro-two-bedroom-duplex-apartment-in-the-Mistral-building-Boka-Place-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>45806da5891a3b66</version>
+    <version>9141a1d9c803b899</version>
   </listing>
   <listing>
     <id>sothebys:modern-one-bedroom-apartment-in-thea-building-boka-place</id>
-    <reference>modern-one-bedroom-apartment-in-thea-building-boka-place</reference>
+    <reference>900000356</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">550000</price>
@@ -52748,11 +52702,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F08%2F14.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F08%2F15.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>52c2e25f3f13c2b8</version>
+    <version>6f10a9dc94f6c5fd</version>
   </listing>
   <listing>
     <id>sothebys:modern-studio-apartment-in-boka-place</id>
-    <reference>modern-studio-apartment-in-boka-place</reference>
+    <reference>900000316</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">448159</price>
@@ -52813,11 +52767,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F08%2F7-4.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F08%2F8-4.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>e204770218930aea</version>
+    <version>f6862c7ac2b43deb</version>
   </listing>
   <listing>
     <id>sothebys:one-bedroom-apartment-baia-porto-montenegro</id>
-    <reference>one-bedroom-apartment-baia-porto-montenegro</reference>
+    <reference>900000748</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -52886,11 +52840,11 @@ Porto Montenegro is a world-class seaside resort with exclusive residences, bout
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F06%2F16-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F06%2F18-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>af147e047822fef0</version>
+    <version>9efb37b10b6a97fc</version>
   </listing>
   <listing>
     <id>sothebys:ozana-2bdr-apartment</id>
-    <reference>ozana-2bdr-apartment</reference>
+    <reference>900001026</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1100000</price>
@@ -52964,11 +52918,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, retai
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F07%2F11-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F07%2F12-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>342428cfc8941fc0</version>
+    <version>08d46ca46fdc5662</version>
   </listing>
   <listing>
     <id>sothebys:ozana-two-bedroom-apartment-for-rent</id>
-    <reference>ozana-two-bedroom-apartment-for-rent</reference>
+    <reference>900000730</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -53034,11 +52988,11 @@ Designed for nautical life, the residences in Porto Montenegro make the most of 
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F04%2F15-Tivat-Porto-Montenegro-two-bedroom-apartment-overlooking-the-pool.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F04%2F16-Tivat-Porto-Montenegro-two-bedroom-apartment-overlooking-the-pool.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>f528434fa8a2466d</version>
+    <version>aa22ad2ca674972c</version>
   </listing>
   <listing>
     <id>sothebys:portonovi-2-bedroom-spacious-apartment</id>
-    <reference>portonovi-2-bedroom-spacious-apartment</reference>
+    <reference>900001247</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1385000</price>
@@ -53110,11 +53064,11 @@ Portonovi has an excellent position between the mountains and the sea, with an a
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F15-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F16.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>9f7a3658d7abc81a</version>
+    <version>6b429278b3df2462</version>
   </listing>
   <listing>
     <id>sothebys:portonovi-3bdr-furnished-apartment</id>
-    <reference>portonovi-3bdr-furnished-apartment</reference>
+    <reference>900001021</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1700000</price>
@@ -53201,11 +53155,11 @@ Other features include onshore retail outlets, coffee bars, and restaurants.]]><
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F08%2F24-min-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F08%2F25-min-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b9be819ab8cd83c6</version>
+    <version>8dbef1c31bb36132</version>
   </listing>
   <listing>
     <id>sothebys:portonovi-private-home</id>
-    <reference>portonovi-private-home</reference>
+    <reference>900001032</reference>
     <purpose>sale</purpose>
     <type>villa</type>
     <price_on_request>true</price_on_request>
@@ -53324,11 +53278,11 @@ Portonovi Montenegro is the Adriatic’s ultra-premium resort lifestyle destinat
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F12%2F7-Herceg-Novi-Portonovi-OneOnly-exclusive-branded-villa.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F12%2F8-Herceg-Novi-Portonovi-OneOnly-exclusive-branded-villa.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>8d2beb983c7e8e5b</version>
+    <version>7950b49244423f72</version>
   </listing>
   <listing>
     <id>sothebys:private-half-floor-penthouse-collection</id>
-    <reference>private-half-floor-penthouse-collection</reference>
+    <reference>900000850</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -53419,11 +53373,11 @@ This property is positioned as a truly unique offering on the market, a rare exa
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F04%2F24-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F04%2F25-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>a1474076282db29e</version>
+    <version>a4f5cc1de2436306</version>
   </listing>
   <listing>
     <id>sothebys:regent-2bdr-waterfront-apartment</id>
-    <reference>regent-2bdr-waterfront-apartment</reference>
+    <reference>900001104</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">2200000</price>
@@ -53484,11 +53438,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, retai
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F06%2F15-Tivat-Porto-Montenegro-%E2%80%93-Luxury-2bdr-Apartment-within-Regent-5-Hotel.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F06%2F16-Tivat-Porto-Montenegro-%E2%80%93-Luxury-2bdr-Apartment-within-Regent-5-Hotel.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>47bf209d71abcb04</version>
+    <version>80bfbc2b45dfca94</version>
   </listing>
   <listing>
     <id>sothebys:riviera-waterfront-apartment</id>
-    <reference>riviera-waterfront-apartment</reference>
+    <reference>900001248</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">580250</price>
@@ -53595,11 +53549,11 @@ The nearest airport in Tivat is 20 km away.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F08%2F19.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F08%2F21.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>f9e878bf04494a4e</version>
+    <version>9850d075862a7b67</version>
   </listing>
   <listing>
     <id>sothebys:sea-view-1bdr-apartment-boka-place</id>
-    <reference>sea-view-1bdr-apartment-boka-place</reference>
+    <reference>900000250</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">650000</price>
@@ -53659,11 +53613,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F05%2F68A3870-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F05%2F68A3871.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>712f56efaa9d4b83</version>
+    <version>49480d6ada7ac419</version>
   </listing>
   <listing>
     <id>sothebys:serviced-studio-apartment-boka-place</id>
-    <reference>serviced-studio-apartment-boka-place</reference>
+    <reference>900000837</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">420000</price>
@@ -53724,11 +53678,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F14-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F15.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>43df92f9feb288d0</version>
+    <version>071a67933317c731</version>
   </listing>
   <listing>
     <id>sothebys:serviced-studio-apartment-boka-place-2</id>
-    <reference>serviced-studio-apartment-boka-place-2</reference>
+    <reference>900001259</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">450000</price>
@@ -53789,11 +53743,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F12-9.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F77072_stan_boka_place_17_1200x800.jpg-1-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>a3caa4ff21f2a96e</version>
+    <version>84c9999a4f8a60e5</version>
   </listing>
   <listing>
     <id>sothebys:signature-regent-penthouse</id>
-    <reference>signature-regent-penthouse</reference>
+    <reference>900000077</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -53865,11 +53819,11 @@ Kotor, with UNESCO-protected Old Town, is 12km away.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F05%2F21.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>9816f6c158dec75c</version>
+    <version>70a3fdc36fd97da9</version>
   </listing>
   <listing>
     <id>sothebys:sirocco-one-bedroom-apartment</id>
-    <reference>sirocco-one-bedroom-apartment</reference>
+    <reference>900000028</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">500000</price>
@@ -53940,11 +53894,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F03%2F12-4.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F03%2F13-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>f7af951819d8fb86</version>
+    <version>7b036cf509510d25</version>
   </listing>
   <listing>
     <id>sothebys:sirocco-studio-apartment</id>
-    <reference>sirocco-studio-apartment</reference>
+    <reference>900001136</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">400000</price>
@@ -54002,11 +53956,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F2-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2F10-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>74fa812ced450572</version>
+    <version>1688e4e49b34bdb5</version>
   </listing>
   <listing>
     <id>sothebys:sirocco-studio-apartment-2</id>
-    <reference>sirocco-studio-apartment-2</reference>
+    <reference>900001019</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">315000</price>
@@ -54060,11 +54014,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F07%2F2H8A4060.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F07%2F2H8A4070.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>38e92b9f920ec10a</version>
+    <version>cb65998209ff250a</version>
   </listing>
   <listing>
     <id>sothebys:spacious-regent-studio</id>
-    <reference>spacious-regent-studio</reference>
+    <reference>900001022</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">475000</price>
@@ -54119,11 +54073,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, retai
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F03%2F1-Tivat-Porto-Montenegro-%E2%80%93-studio-apartment-within-the-Regent-5-hotel-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F03%2F15-Tivat-Porto-Montenegro-%E2%80%93-studio-apartment-within-the-Regent-5-hotel-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>2fdb729447b944f3</version>
+    <version>b66aff4138bc0405</version>
   </listing>
   <listing>
     <id>sothebys:studio-apartment-with-sea-view-in-new-versa-residences-porto-montenegro</id>
-    <reference>studio-apartment-with-sea-view-in-new-versa-residences-porto-montenegro</reference>
+    <reference>900000142</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">416000</price>
@@ -54212,11 +54166,11 @@ Price for garage space is 50,000 eur.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F10-4.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F11-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>ccebfb1f994a73f6</version>
+    <version>0f3510e5630c091b</version>
   </listing>
   <listing>
     <id>sothebys:tara-1bdr-apartment-for-sale</id>
-    <reference>tara-1bdr-apartment-for-sale</reference>
+    <reference>900000179</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -54278,11 +54232,11 @@ The nearest airport is Tivat Airport, 4 km from Porto Montenegro. Dubrovnik Airp
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F06%2Fstudio085.me-65.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F06%2F15-min.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>32a6f0c37238f458</version>
+    <version>7314e465d6154ff0</version>
   </listing>
   <listing>
     <id>sothebys:tara-2bdr-apartment</id>
-    <reference>tara-2bdr-apartment</reference>
+    <reference>900000138</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1600000</price>
@@ -54347,11 +54301,11 @@ Porto Montenegro is a world-class marina for super-yachts, with a beautiful resi
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F04%2F17-Tivat-Porto-Montenegro-%E2%80%93-two-bedroom-apartment-with-sea-view-in-Tara-residence.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F04%2F18-Tivat-Porto-Montenegro-%E2%80%93-two-bedroom-apartment-with-sea-view-in-Tara-residence.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>42d4a62a7350c5d6</version>
+    <version>04945e2fe5c83e99</version>
   </listing>
   <listing>
     <id>sothebys:tara-4bed-apartment</id>
-    <reference>tara-4bed-apartment</reference>
+    <reference>900000139</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">2500000</price>
@@ -54422,11 +54376,11 @@ Porto Montenegro is a world-class marina resort with exclusive residences, retai
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F08%2F16-Tivat-Porto-Montenegro-%E2%80%93-four-bedroom-apartment-with-open-sea-view-Tara-building.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F08%2F17-Tivat-Porto-Montenegro-%E2%80%93-four-bedroom-apartment-with-open-sea-view-Tara-building.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b9566e1e4c79da57</version>
+    <version>de40e283007ead12</version>
   </listing>
   <listing>
     <id>sothebys:teuta-1bdr-apartment-for-rent</id>
-    <reference>teuta-1bdr-apartment-for-rent</reference>
+    <reference>900000150</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -54505,11 +54459,11 @@ FEATURES
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F08%2F21-Porto-Montenegro-Apartment-For-Rent.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2022%2F08%2F9-Porto-Montenegro-Apartment-For-Rent.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>7ca604f51cd5bfb1</version>
+    <version>13c91f60b4e18ace</version>
   </listing>
   <listing>
     <id>sothebys:teuta-penthouse-tivat</id>
-    <reference>teuta-penthouse-tivat</reference>
+    <reference>900000188</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">3000000</price>
@@ -54583,11 +54537,11 @@ cupboards in natural timbers or soft paint complete the sense of refined luxury.
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F22-31.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F23-30.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>0c466868aa30149e</version>
+    <version>f8a8878fb12ddfc8</version>
   </listing>
   <listing>
     <id>sothebys:thea-1bdr-apartment-6</id>
-    <reference>thea-1bdr-apartment-6</reference>
+    <reference>900001117</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -54646,11 +54600,11 @@ Boka Place is located on elevated ground overlooking the Porto Montenegro Marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F03%2F6.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fbp-1.webp&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>c909cf01c224581c</version>
+    <version>f51dc98b6aa1b248</version>
   </listing>
   <listing>
     <id>sothebys:thea-sea-view-penthouse</id>
-    <reference>thea-sea-view-penthouse</reference>
+    <reference>900000130</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1495000</price>
@@ -54729,11 +54683,11 @@ Boca Place is located on an elevated bank that overlooks Porto Montenegro marina
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F05%2F24.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F05%2F25.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>ff893e87ca142402</version>
+    <version>0252db236838b285</version>
   </listing>
   <listing>
     <id>sothebys:two-bedroom-apartment-harmonia-complex-becici</id>
-    <reference>two-bedroom-apartment-harmonia-complex-becici</reference>
+    <reference>900001260</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">446400</price>
@@ -54777,11 +54731,11 @@ The Harmonia residential complex is a luxurious apartment complex located in the
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F13-two-bedroom-apartment-Harmonia-complex.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F14-two-bedroom-apartment-Harmonia-complex.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>4ca89cc5f317ce1d</version>
+    <version>545900c951f1e180</version>
   </listing>
   <listing>
     <id>sothebys:two-bedroom-apartment-ksenija-building</id>
-    <reference>two-bedroom-apartment-ksenija-building</reference>
+    <reference>900000300</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1130000</price>
@@ -54852,11 +54806,11 @@ Porto Montenegro is a world-class marina and luxury resort, with exclusive resid
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F02%2F15-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F02%2F16-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>a9cd6e3c7b535abb</version>
+    <version>5b754d4a39df57a3</version>
   </listing>
   <listing>
     <id>sothebys:two-duplex-penthouse-alba-boka-place</id>
-    <reference>two-duplex-penthouse-alba-boka-place</reference>
+    <reference>900000852</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">1295000</price>
@@ -54934,11 +54888,11 @@ Located just a short walk from Porto Montenegro Marina and the waterfront promen
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F06%2F15-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F06%2F16-3.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>5a999cbd976abeb1</version>
+    <version>b717ff89bd978c29</version>
   </listing>
   <listing>
     <id>sothebys:vero-residences-2bdr-sea-view-apartment</id>
-    <reference>vero-residences-2bdr-sea-view-apartment</reference>
+    <reference>900000685</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">831000</price>
@@ -55032,11 +54986,11 @@ Price for garage space is 50,000 eur.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F12-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F07%2F13-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>78fbd99fede2fd93</version>
+    <version>697b2f9b833feb23</version>
   </listing>
   <listing>
     <id>sothebys:vero-residences-studio-apartment</id>
-    <reference>vero-residences-studio-apartment</reference>
+    <reference>900000074</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">399000</price>
@@ -55126,11 +55080,11 @@ Price for garage space is 50,000 eur.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2FVero-Vera-Facade.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F01%2FVero-Versa-Marina-View.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>267602f6948db983</version>
+    <version>ea338cb9840b57e7</version>
   </listing>
   <listing>
     <id>sothebys:waterfront-2bdr-apartment-tara</id>
-    <reference>waterfront-2bdr-apartment-tara</reference>
+    <reference>900000081</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -55188,11 +55142,11 @@ The residents have at their disposal a communal swimming pool with a sea view, a
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2024%2F05%2F16-min-2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2026%2F05%2F2-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>e715a90e58eecd2d</version>
+    <version>74ef927d137c6d69</version>
   </listing>
   <listing>
     <id>sothebys:waterfront-2bdr-baia</id>
-    <reference>waterfront-2bdr-baia</reference>
+    <reference>900001123</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -55264,11 +55218,11 @@ Based on the ‘hotel condominium’ model, these luxury residences for sale, wi
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2021%2F02%2F31.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2021%2F02%2F29.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b210fefecb99d478</version>
+    <version>125272bbb4a30b5c</version>
   </listing>
   <listing>
     <id>sothebys:waterfront-apartment-baia-porto-montenegro</id>
-    <reference>waterfront-apartment-baia-porto-montenegro</reference>
+    <reference>900001130</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -55346,11 +55300,11 @@ Ideal for anyone looking for international standards to buy in Montenegro]]></de
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F25-23.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2020%2F06%2F26-21.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>b7353c62385d284e</version>
+    <version>b6a07f499ba29258</version>
   </listing>
   <listing>
     <id>sothebys:waterfront-penthouse-tara-porto-montenegro</id>
-    <reference>waterfront-penthouse-tara-porto-montenegro</reference>
+    <reference>900001069</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">2750000</price>
@@ -55429,11 +55383,11 @@ Porto Montenegro is a world-class marina that features exclusive residences, ret
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F04%2F24-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F04%2F25-min-1.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>e17b8e9839388202</version>
+    <version>bf9f66568f4e7308</version>
   </listing>
   <listing>
     <id>sothebys:zeta-3bdr-penthouse</id>
-    <reference>zeta-3bdr-penthouse</reference>
+    <reference>900000785</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price_on_request>true</price_on_request>
@@ -55520,11 +55474,11 @@ Close to all amenities (ATM, pharmacy, hair salon, day spa, store)]]></descripti
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F10%2FLuksuzan-apartman-u-Porto-Montenegro-27.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2025%2F10%2FLuksuzan-apartman-u-Porto-Montenegro-28.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>65072ca49060c5af</version>
+    <version>de0328db5587cd42</version>
   </listing>
   <listing>
     <id>sothebys:zeta-studio-apartment</id>
-    <reference>zeta-studio-apartment</reference>
+    <reference>900000849</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
     <price currency="EUR">400000</price>
@@ -55573,6 +55527,6 @@ Porto Montenegro is a world-class marina resort with exclusive residences, retai
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F10%2F2.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
       <image><![CDATA[https://wsrv.nl/?url=vzgx2zg2xcow4f2x.public.blob.vercel-storage.com%2Fwp-content%2Fuploads%2F2023%2F10%2F15.jpg&output=jpg&q=85&w=1600&we&cx=0&cy=0&cw=100%25&ch=87%25]]></image>
     </images>
-    <version>950af74bff63563a</version>
+    <version>95fb58a678c06ab6</version>
   </listing>
 </listings>
