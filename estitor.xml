@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-10-31T11:30:45.944Z" count="908">
+<listings generated="2026-11-02T12:05:54.706Z" count="908">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -1161,18 +1161,17 @@ With its spacious interiors, peaceful surroundings, and prime location, this pro
 
 067/231-153]]></description>
     <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F04b2d4a7-c9d7-4204-8af1-0b9126591b19-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F574ff12c-5d34-4f17-9104-8dd25c9c586a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1f5aa55c-1ca7-414c-bcf3-a0c81732623f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F04b2d4a7-c9d7-4204-8af1-0b9126591b19-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff6b871e2-03dc-49af-af47-7c24133e6a73-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F26faefdd-a372-4c4e-bbc4-89628969c04e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff6b871e2-03dc-49af-af47-7c24133e6a73-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2f6f40fd-4eda-4acb-b0a2-2b05723e67ce-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F08cee2f4-72b2-48fd-867b-cf7b26dd7931-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F825c600c-67cc-44dd-b113-670b480d781d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2cf3c55f-3f09-43c0-8e2f-d4d3abff7521-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Faab9e196-84b2-406a-89c3-b3c6fd4a48ef-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F08cee2f4-72b2-48fd-867b-cf7b26dd7931-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>a9bd146608be6ef0</version>
+    <version>8f9f66360526a669</version>
   </listing>
   <listing>
     <id>estitor:349173</id>
@@ -1688,7 +1687,7 @@ The house is without encumbrances, with proper documentation.
     <reference>349228</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
-    <price currency="EUR">1500</price>
+    <price currency="EUR">1300</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Central Point, Podgorica]]></location>
@@ -1701,9 +1700,7 @@ The house is without encumbrances, with proper documentation.
     <description lang="me"><![CDATA[Dvosoban stan površine 86 m², smješten na trećem spratu zgrade sa liftom u Central Pointu. Stan ima dvije terase, a u cijenu je uključeno i parking mjesto. Moguće je dodatno opremanje stana prema dogovoru. Cijena mjesečnog zakupa iznosi 1.500 €.
 
 067/231-153]]></description>
-    <description lang="en"><![CDATA[Two-bedroom apartment with a surface area of 86 m², located on the third floor of a building with an elevator in Central Point. The apartment has two terraces, and a parking space is included in the price. Additional furnishing of the apartment is possible by agreement. The monthly rental price is 1.500 €.
-
-067/231-153]]></description>
+    <description lang="en"><![CDATA[Two-bedroom apartment with a surface area of 86 m², located on the third floor of a building with an elevator in Central Point. The apartment has two terraces, and a parking space is included in the price. Additional furnishing of the apartment is possible by agreement. The monthly rental price is 1300 €.]]></description>
     <images>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8bcc2d40-2f0b-4c27-be1f-d3fd9d941e75-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbadf1f33-f672-4d8d-b5b3-e50fb3765e82-lg.webp&output=jpg&q=85&w=1600&we]]></image>
@@ -1719,7 +1716,7 @@ The house is without encumbrances, with proper documentation.
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F804c93a2-0f55-46ca-8195-03150c68726b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F04bd9856-e345-45b4-80fb-3c5f711c957e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>884baae30031480d</version>
+    <version>a4852a38d0b7bbaf</version>
   </listing>
   <listing>
     <id>estitor:349229</id>
@@ -5892,7 +5889,7 @@ With 24-hour security and concierge services, the apartment provides complete co
     <reference>471282</reference>
     <purpose>sale</purpose>
     <type>land</type>
-    <price currency="EUR">180000</price>
+    <price currency="EUR">210000</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Rogami, Podgorica]]></location>
@@ -5953,7 +5950,7 @@ Contracted fee: 7.848,25 €]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F07403b80-fea2-468e-92ee-2cf6f79c2ec5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1224c0bb-6814-486e-9099-0a96e0c364a8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>36174da64f715ebd</version>
+    <version>a5ec4cf82c42e870</version>
   </listing>
   <listing>
     <id>estitor:471287</id>
@@ -26797,7 +26794,7 @@ Price: 105.000€]]></description>
     <reference>610237</reference>
     <purpose>rent</purpose>
     <type>apartment</type>
-    <price currency="EUR">1300</price>
+    <price currency="EUR">1000</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Central Point, Podgorica]]></location>
@@ -26879,7 +26876,7 @@ If it is important for you to move into a beautifully decorated and well-equippe
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc0ca021d-958c-42bf-8b2f-062e5d65829f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbf318fc4-53cc-47ad-88ae-c4365c393cef-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>d7ce0a5fa597b9ee</version>
+    <version>9688c0218a7ba59b</version>
   </listing>
   <listing>
     <id>estitor:613050</id>
