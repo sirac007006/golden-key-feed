@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-06T16:21:03.183Z" count="905">
+<listings generated="2026-11-06T17:00:33.281Z" count="905">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -9796,7 +9796,7 @@ Open parking is available in front of the building, and the location itself is c
     <reference>537276</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">140000</price>
+    <price currency="EUR">137000</price>
     <country>ME</country>
     <city><![CDATA[Nikšić]]></city>
     <location><![CDATA[Centar, Nikšić]]></location>
@@ -9820,7 +9820,7 @@ The apartment has an excellent layout, suitable for family life, with plenty of 
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5cafd160-76ff-497c-893d-3a9c3121bf9c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F292f671e-bb85-48b3-92ac-a59b7a66d875-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>d969c9bd3c1d0d2f</version>
+    <version>d003d76c14e5cca8</version>
   </listing>
   <listing>
     <id>estitor:537277</id>
