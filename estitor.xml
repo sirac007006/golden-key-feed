@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-06T11:30:16.155Z" count="907">
+<listings generated="2026-11-06T14:35:03.314Z" count="907">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -521,10 +521,10 @@ Complex facilities:Commercial space, shops, and service centerTwo restaurants an
 
 Amenities:Two hotel restaurants, café, offices, and shops on the lower floorsSpa center with gym and poolsGreen oasis on the roofBranded residencesTechnical rooms and underground parkingBranded residences with maintenance services]]></description>
     <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc0fc0b8a-69b9-462c-9c57-efd7d196aa0f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc7f4f2f8-903d-402e-ac9e-403081d3056d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F47ccc998-604b-4bfc-ae44-d8a8fb14fc90-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F09aa1631-110e-45f0-a845-9a78203ea4ee-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc7f4f2f8-903d-402e-ac9e-403081d3056d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc0fc0b8a-69b9-462c-9c57-efd7d196aa0f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbc33d58c-3eaf-4817-8f36-f00abc059e04-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc3526419-2dc8-4343-a696-46b0ced9ca69-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe228150d-e467-41af-96e1-42630cf1b715-lg.webp&output=jpg&q=85&w=1600&we]]></image>
@@ -543,7 +543,7 @@ Amenities:Two hotel restaurants, café, offices, and shops on the lower floorsSp
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7a97297d-2929-4410-840c-057d71cdb1b8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2f4ad679-581e-45be-996b-4291c2cdc627-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>59490014f6f3e76f</version>
+    <version>eb6a6b6d56543eaa</version>
   </listing>
   <listing>
     <id>estitor:188344</id>
@@ -22467,7 +22467,7 @@ Investment Potential
     <reference>569899</reference>
     <purpose>sale</purpose>
     <type>commercial</type>
-    <price_on_request>true</price_on_request>
+    <price currency="EUR">205000</price>
     <country>ME</country>
     <city><![CDATA[Nikšić]]></city>
     <location><![CDATA[Kličevo, Nikšić]]></location>
@@ -22499,7 +22499,7 @@ Thanks to the combination of residential, commercial, and land capacities, as we
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7f042e5c-bcef-4d24-9643-c2e75c30c856-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F674ac78b-161f-4b76-8828-086d6dd70bf0-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>f7346725027fb51b</version>
+    <version>58f642bae8174c94</version>
   </listing>
   <listing>
     <id>estitor:569900</id>
@@ -43804,10 +43804,9 @@ Amenities: Intercom, alarm system, air conditioning, secure parking, sea view, m
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/9e67533e-6cde-4de3-abf7-e923d6437fac/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/d85c0e8e-9ea8-4371-86ea-5f6e11fc6a37/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/e1192b61-0032-418c-bf6f-6679b4f01fb3/variants/large.jpg]]></image>
-      <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/properties/raw/71869224-0487-4a34-ace6-ca7c2ab772bf/variants/large.jpg]]></image>
       <image><![CDATA[https://mdsoftware.fra1.digitaloceanspaces.com/SJ102.png]]></image>
     </images>
-    <version>abfba4ffa009b16e</version>
+    <version>a725951b8c6631cb</version>
   </listing>
   <listing>
     <id>mdrealty:unit-218</id>
