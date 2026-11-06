@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-06T17:00:33.281Z" count="905">
+<listings generated="2026-11-06T17:01:17.274Z" count="905">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -9827,7 +9827,7 @@ The apartment has an excellent layout, suitable for family life, with plenty of 
     <reference>537277</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">133000</price>
+    <price currency="EUR">140000</price>
     <country>ME</country>
     <city><![CDATA[Nikšić]]></city>
     <location><![CDATA[Centar, Nikšić]]></location>
@@ -9850,7 +9850,7 @@ U cijenu uključena ugradnja toplotne pumpe (velika ušteda na grijanju i hlađe
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5f2273c2-b572-488b-a0b9-45fe7f492363-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcebc2a1a-5adc-41d8-bd59-9be23640b09b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>1f7d9511c429944b</version>
+    <version>02894885d324808a</version>
   </listing>
   <listing>
     <id>estitor:537282</id>
@@ -14052,7 +14052,7 @@ Luxury, New construction, Excellent investment]]></description>
     <reference>542862</reference>
     <purpose>sale</purpose>
     <type>apartment</type>
-    <price currency="EUR">133000</price>
+    <price currency="EUR">140000</price>
     <country>ME</country>
     <city><![CDATA[Nikšić]]></city>
     <location><![CDATA[Centar, Nikšić]]></location>
@@ -14075,7 +14075,7 @@ U cijenu uključena ugradnja toplotne pumpe (velika ušteda na grijanju i hlađe
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Facfeef51-afe9-4861-9fd5-d033dbb557ec-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F45004c7e-5d01-406b-8606-4e754b8f4f52-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>904481cbf2c5e2c9</version>
+    <version>1f4744cbd2c0f041</version>
   </listing>
   <listing>
     <id>estitor:542863</id>
