@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-03T18:46:46.902Z" count="908">
+<listings generated="2026-11-06T11:30:16.155Z" count="907">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -48,10 +48,10 @@ Green Oasis:This modern building also features a green oasis on the roof of the 
 
 Additional Benefits:Two hotel restaurants, café, offices, and shops on the lower floorsSpa center with gym and pools, green rooftop oasis, branded residencesTechnical rooms and underground parkingBranded residences with maintenance servicesFurniture packages available for move-in]]></description>
     <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5f4a29fe-0a2d-4ecb-88b6-28448e3fcf91-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd8603b70-77da-4602-b0db-0a35e4a7559e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fee911e7c-6689-4b6d-96eb-0c29bda15ecc-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6d600eed-c23f-4822-88ff-668b77de1dc9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5f4a29fe-0a2d-4ecb-88b6-28448e3fcf91-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fee911e7c-6689-4b6d-96eb-0c29bda15ecc-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbad91154-9fa6-4665-8d32-a693df342b75-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fadca7809-9e5b-4aab-a1d7-c5e857584e6c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7b3bf78d-f1e9-4c45-8ab6-7e2a67004270-lg.webp&output=jpg&q=85&w=1600&we]]></image>
@@ -70,7 +70,7 @@ Additional Benefits:Two hotel restaurants, café, offices, and shops on the lowe
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5aa5d76e-24e5-4337-9a08-c677619133c6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff75a4b0f-a69e-49fb-8257-3fde41d875f0-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>85e2fa42fa195292</version>
+    <version>c719ee32e151f69c</version>
   </listing>
   <listing>
     <id>estitor:176031</id>
@@ -4754,91 +4754,6 @@ Proximity to the marina, golf course, spa center, and exclusive amenities]]></de
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9bc34660-58d5-42ae-8c01-154775dd280c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>15a8566e0e29d84f</version>
-  </listing>
-  <listing>
-    <id>estitor:470674</id>
-    <reference>470674</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price_on_request>true</price_on_request>
-    <country>ME</country>
-    <city><![CDATA[Tivat]]></city>
-    <rooms>2</rooms>
-    <bedrooms>2</bedrooms>
-    <title lang="me"><![CDATA[Prodaja, dvosoban stan, Luštica Bay, Tivat]]></title>
-    <title lang="en"><![CDATA[Sale, two bedroom apartment, Luštica Bay, Tivat]]></title>
-    <description lang="me"><![CDATA[Centrale zona se nalazi blizu Marina naselja u Luštica Bay-u i biće moderno urbano središte sa stanovima, prodavnicama, restoranima, kafićima, parkovima i javnim sadržajima. Povezana je sa svim ključnim delovima Luštice – marinom, golf terenom i plažama, kao i sa okolnim gradovima.
-
-Luštica Bay je ekskluzivno primorsko naselje sa luksuznim stanovima, restoranima, prodavnicama i hotelom Chedi 5★.
-
-270,500 € – 98.14 m² – 1-soban – Dec 2026
-
-504,000 € – 97.82 m² – 2-soban – Jun 2026
-
-604,000 € – 99.05 m² – 2-soban – Dec 2027
-
-687,500 € – 96.83 m² – 2-soban – Dec 2027
-
-687,500 € – 96.83 m² – 2-soban – Dec 2027
-
-708,500 € – 99.80 m² – 2-soban – Dec 2027
-
-759,500 € – 96.77 m² – 2-soban – Dec 2027
-
-770,500 € – 98.15 m² – 2-soban – Dec 2026
-
-825,000 € – 97.03 m² – 2-soban – Dec 2027
-
-840,000 € – 98.80 m² – 2-soban – Dec 2027
-
-1,055,500 € – 134.46 m² – 2-soban – Dec 2027
-
-1,089,000 € – 138.73 m² – 2-soban – Dec 2026
-
-1,526,000 € – 169.54 m² – 3-soban – Dec 2027
-
-15% prilikom potpisivanja ugovora, ostatak (85%) u 12 jednakih kvartalnih rata, bez kamate.]]></description>
-    <description lang="en"><![CDATA[The Centrale Zone is located near the Marina settlement in Luštica Bay and will be a modern urban center with apartments, shops, restaurants, cafes, parks, and public amenities. It is connected to all key parts of Luštica – the marina, golf course, and beaches, as well as to surrounding cities.
-
-Luštica Bay is an exclusive seaside settlement with luxury apartments, restaurants, shops, and the Chedi 5★ hotel.
-
-270,500 € – 98.14 m² – 1-bedroom – Dec 2026
-
-504,000 € – 97.82 m² – 2-bedroom – Jun 2026
-
-604,000 € – 99.05 m² – 2-bedroom – Dec 2027
-
-687,500 € – 96.83 m² – 2-bedroom – Dec 2027
-
-687,500 € – 96.83 m² – 2-bedroom – Dec 2027
-
-708,500 € – 99.80 m² – 2-bedroom – Dec 2027
-
-759,500 € – 96.77 m² – 2-bedroom – Dec 2027
-
-770,500 € – 98.15 m² – 2-bedroom – Dec 2026
-
-825,000 € – 97.03 m² – 2-bedroom – Dec 2027
-
-840,000 € – 98.80 m² – 2-bedroom – Dec 2027
-
-1,055,500 € – 134.46 m² – 2-bedroom – Dec 2027
-
-1,089,000 € – 138.73 m² – 2-bedroom – Dec 2026
-
-1,526,000 € – 169.54 m² – 3-bedroom – Dec 2027
-
-15% upon signing the contract, the remainder (85%) in 12 equal quarterly installments, without interest.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcf219e62-4df7-4f11-b231-06551cac6941-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F233962e7-0e20-453c-8d4b-54dd25dce6d8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3dd56835-32a7-44c1-90b0-4deb359245b2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb36049fe-d681-498b-98a4-ace28e2bf17b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5643037b-7564-4918-b921-77c51582b655-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa72358e8-51b2-4aa4-bffa-ed0c5afc4827-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8632e747-b045-48fe-9ac3-e74e5dab2f6f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>ad0d12de8a77e9db</version>
   </listing>
   <listing>
     <id>estitor:470705</id>
