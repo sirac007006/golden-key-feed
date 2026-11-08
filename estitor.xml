@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-06T17:01:17.274Z" count="905">
+<listings generated="2026-11-08T21:15:59.202Z" count="904">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -5862,30 +5862,6 @@ With a 6% annual return on investment (ROI) through a rental program, this prope
     <version>946f86a56581988e</version>
   </listing>
   <listing>
-    <id>estitor:471607</id>
-    <reference>471607</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price currency="EUR">88000</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Tološi, Podgorica]]></location>
-    <living_area_m2>34</living_area_m2>
-    <rooms>1</rooms>
-    <bedrooms>1</bedrooms>
-    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 34m², Tološi, Podgorica]]></title>
-    <title lang="en"><![CDATA[Sale, one bedroom apartment, 34m², Tološi, Podgorica]]></title>
-    <description lang="me"><![CDATA[Irina Residence u Tološima - prodaju garsonjere površine 34.15m², smještenu među zelenilom i u mirnom okruženju. Stan je prozračan i svijetao, sa funkcionalnim rasporedom i izlazom na terasu, što dodatno doprinosi osjećaju komfora. Podovi su završeni kvalitetnom keramikom i parketom, što upotpunjuje moderan i prijatan ambijent ovog prostora – idealnog za stanovanje ili investiciju. Projekat će biti završen do oktobra 2026. Ima obezbijedjeno parking mjesto.]]></description>
-    <description lang="en"><![CDATA[Irina Residence in Tološi - sells a studio apartment of 34.15m², located among greenery and in a peaceful environment. The apartment is airy and bright, with a functional layout and access to the terrace, which further contributes to the feeling of comfort. The floors are finished with quality ceramics and parquet, which completes the modern and pleasant ambiance of this space – ideal for living or investment. The project will be completed by October 2026. It has a secured parking space.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fac7ad7d0-3cd5-4cee-b48a-b65918fb566e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3c339773-aaf5-4b42-a121-1342fe1d491f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F49f4d283-25a4-4ccf-bcb9-4e0bd239319b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9d2110a1-f7ac-4623-86c9-fc87ab17f278-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>3a9ad421986e6a76</version>
-  </listing>
-  <listing>
     <id>estitor:471676</id>
     <reference>471676</reference>
     <purpose>sale</purpose>
@@ -9498,6 +9474,43 @@ Rok završetka radova: oktobar 2026. godineCijena: 2.500 €/m²Direktna prodaja
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F15845b27-aec2-48e0-9651-c5279847ebe3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>9df5f7ff90ed4621</version>
+  </listing>
+  <listing>
+    <id>estitor:537172</id>
+    <reference>537172</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">157500</price>
+    <country>ME</country>
+    <city><![CDATA[Podgorica]]></city>
+    <location><![CDATA[Tološi, Podgorica]]></location>
+    <living_area_m2>63</living_area_m2>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <bathrooms>1</bathrooms>
+    <floor><![CDATA[1. fl.]]></floor>
+    <year_built>2026</year_built>
+    <condition><![CDATA[New / unused]]></condition>
+    <title lang="me"><![CDATA[Prodaja, dvosoban stan, 63m², Tološi, Podgorica]]></title>
+    <title lang="en"><![CDATA[Sale, two bedroom apartment, 63m², Tološi, Podgorica]]></title>
+    <description lang="me"><![CDATA[U mirnom i atraktivnom dijelu Tološa, u neposrednoj blizini restorana Bjanka, u ponudi su stanovi u zgradi luksuzne gradnje, savršeno pozicioniranoj za udoban i savremen način života. Parking mjesto je uključeno u cijenu stana.Zgrada se gradi od materijala vrhunskog kvaliteta, sa modernim dizajnom i pažljivo odabranim detaljima.Dostupni dvosobni stanovi od 62-64m2.Rok završetka radova: oktobar 2026. godineCijena: 2.500 €/m²
+
+Direktna prodaja od investitora Mogućnost kupovine putem banke:• 20% učešća• Ostatak iznosa na duži rok otplate• Kamatna stopa od 4,6%, Novogradnja, Lux, Hitna prodaja, Odlična investicija, Miran kraj]]></description>
+    <description lang="en"><![CDATA[In the quiet and attractive part of Tološi, in the immediate vicinity of restaurant Bjanka, apartments are offered in a luxury construction building, perfectly positioned for a comfortable and modern way of life. A parking space is included in the apartment price. The building is being constructed with top-quality materials, with modern design and carefully selected details. Available two-bedroom apartments from 62-64m2. Completion date: October 2026. Price: 2.500 €/m²
+
+Direct sale from the investor Possibility of purchase through a bank:• 20% down payment• Remainder of the amount with a longer repayment period• Interest rate of 4,6%, New construction, Luxury, Urgent sale, Excellent investment, Quiet area]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0276915a-5002-4074-a8e1-6bc6a4d65883-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6227834d-5d3d-4f55-b300-3cb6779fbb12-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb1e6bfa0-1633-483d-bbea-238421833dc7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F70e8f2cd-3697-4e83-af84-439a158ce509-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb53501a0-ff1b-4ee3-b8d0-556d24c17030-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8b1ac54c-dc0f-4323-a3c8-bc61c959ddb1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F098e5bc5-af58-4a42-a615-a247f3dc9580-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbac66464-2e4d-41c7-9697-e25220401fba-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe6e63eeb-764a-4977-b414-2c512bd76a8b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>474f2017d5f9ffc3</version>
   </listing>
   <listing>
     <id>estitor:537177</id>
@@ -15074,33 +15087,6 @@ Prices start from 2400 €/m².]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F356a4870-f43b-4f2f-a1b0-f7cfcbd69575-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>8cefd2ef8007afec</version>
-  </listing>
-  <listing>
-    <id>estitor:543511</id>
-    <reference>543511</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price_on_request>true</price_on_request>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Tološi, Podgorica]]></location>
-    <living_area_m2>34</living_area_m2>
-    <rooms>1</rooms>
-    <bathrooms>1</bathrooms>
-    <floor><![CDATA[1. fl.]]></floor>
-    <condition><![CDATA[New / unused]]></condition>
-    <furnished><![CDATA[No]]></furnished>
-    <title lang="me"><![CDATA[Prodaja, garsonjera, 34m², Tološi, Podgorica]]></title>
-    <title lang="en"><![CDATA[Sale, studio apartment, 34m², Tološi, Podgorica]]></title>
-    <description lang="me"><![CDATA[Irina Residence u Tološima - prodaju garsonjere površine 34.15m², smještenu među zelenilom i u mirnom okruženju. Stan je prozračan i svijetao, sa funkcionalnim rasporedom i izlazom na terasu, što dodatno doprinosi osjećaju komfora. Podovi su završeni kvalitetnom keramikom i parketom, što upotpunjuje moderan i prijatan ambijent ovog prostora – idealnog za stanovanje ili investiciju. Projekat će biti završen do oktobra 2026. Ima obezbijedjeno parking mjesto.]]></description>
-    <description lang="en"><![CDATA[Irina Residence in Tološi - selling a studio apartment with an area of 34.15m², located amidst greenery and in a peaceful environment. The apartment is airy and bright, with a functional layout and access to a terrace, which further contributes to the feeling of comfort. The floors are finished with quality ceramics and parquet, which completes the modern and pleasant ambiance of this space – ideal for living or investment. The project will be completed by October 2026. It has a secured parking space.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa77b02b7-8f75-4d83-b780-6e210cc60a47-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fcc244262-3cf4-4ff7-80c4-f457dbe1aad4-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F39cc22ec-1125-4a52-bb40-dd0bfdc1ddd8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbd8d4741-a4dc-4e32-afd4-a4e48b330572-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>06b2ddfdc6e76dce</version>
   </listing>
   <listing>
     <id>estitor:543512</id>
