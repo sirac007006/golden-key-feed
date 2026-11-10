@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-08T21:18:00.201Z" count="902">
+<listings generated="2026-11-10T20:43:40.405Z" count="901">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -8822,38 +8822,6 @@ Electricity is paid without VAT, because the meter is registered to the Embassy.
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fac088023-5a82-4bf3-91c2-204bd80f09b1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>a85b32a680cfc2b2</version>
-  </listing>
-  <listing>
-    <id>estitor:492114</id>
-    <reference>492114</reference>
-    <purpose>sale</purpose>
-    <type>house</type>
-    <price currency="EUR">125000</price>
-    <country>ME</country>
-    <city><![CDATA[Bar]]></city>
-    <location><![CDATA[Sutomore, Bar]]></location>
-    <living_area_m2>114</living_area_m2>
-    <title lang="me"><![CDATA[Prodaja, kuća, 114m², Sutomore, Bar]]></title>
-    <title lang="en"><![CDATA[Sale, house, 114m², Sutomore, Bar]]></title>
-    <description lang="me"><![CDATA[Prodaje se kuća u Sutomoru, površine 114 m², po cijeni od 125.000 €.
-
-Kuća je potpuno renovirana, kako spolja tako i iznutra. Na placu od 170 m² obezbijeđen je parking prostor. Lokacija je mirna, sa udobnim i lakim prilazom. Kuća ima gradsku vodu i podijeljena je na dva zasebna sprata, što omogućava odvojeno korišćenje.]]></description>
-    <description lang="en"><![CDATA[House for sale in Sutomore, with an area of 114 m², at a price of 125.000 €.
-
-The house is completely renovated, both externally and internally. On a land plot of 170 m², a parking space is provided. The location is quiet, with comfortable and easy access. The house has city water and is divided into two separate floors, which allows for separate use.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F43590f35-fcc4-4e13-ae56-ebd23d22679b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fec0fedd2-3aaf-46d5-900b-9b412c3c07b7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fdcead7c6-f6ce-41cb-9adf-c7f88fdc741c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9f17fd57-b9a6-4780-af9d-1170877003a0-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2d71382f-4e8f-4117-81bc-7e232941ab97-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F223e725f-fae8-4fc7-b2d2-cb0ad8743d7e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc7ad8740-32db-46e9-b429-ddb86cb8759b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3132f8e7-3677-4372-883e-00f8c8e46cd7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F50f9d05a-438c-4123-b630-603f7e74cca1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F688b530e-151a-4bdf-955d-c677d658c965-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>04dfe19f32866834</version>
   </listing>
   <listing>
     <id>estitor:492141</id>
