@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-10T20:43:40.405Z" count="901">
+<listings generated="2026-11-16T12:52:24.110Z" count="901">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -9528,7 +9528,7 @@ The apartment comes with a garage space.]]></description>
     <reference>537200</reference>
     <purpose>sale</purpose>
     <type>land</type>
-    <price currency="EUR">98500</price>
+    <price currency="EUR">104000</price>
     <country>ME</country>
     <city><![CDATA[Danilovgrad]]></city>
     <location><![CDATA[Novo Selo, Danilovgrad]]></location>
@@ -9576,7 +9576,7 @@ good connection to Danilovgrad and Podgorica]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa41d0bef-6ff8-49e4-8562-e3e7739c278c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fde9f135b-5d5f-4955-94a5-df21bc6a508d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>59f4bb18e3f373f6</version>
+    <version>0d379cef91447f05</version>
   </listing>
   <listing>
     <id>estitor:537201</id>
