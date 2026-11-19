@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-16T18:58:03.295Z" count="899">
+<listings generated="2026-11-19T18:59:14.833Z" count="898">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -27264,66 +27264,6 @@ For more information about availability, price, apartment position, and rental p
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1e000eef-1264-46fd-8e01-38f7a804022b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>50538b18b8acb6df</version>
-  </listing>
-  <listing>
-    <id>estitor:613105</id>
-    <reference>613105</reference>
-    <purpose>sale</purpose>
-    <type>land</type>
-    <price_on_request>true</price_on_request>
-    <country>ME</country>
-    <city><![CDATA[Ulcinj]]></city>
-    <location><![CDATA[Donji Štoj, Ulcinj]]></location>
-    <land_area_m2>20000</land_area_m2>
-    <title lang="me"><![CDATA[Prodaja, plac, 20000m², Donji Štoj, Ulcinj]]></title>
-    <title lang="en"><![CDATA[Sale, land lot, 20000m², Donji Štoj, Ulcinj]]></title>
-    <description lang="me"><![CDATA[NA PRODAJU INVESTICIONO ZEMLJIŠTE – ULCINJ
-
-Na prodaju veća zemljišna cjelina u blizini Ulcinja, svega 800–900 m od Solane i oko 2,5 km od Štoja i Velike plaže. Zemljište ima odličan pogled, pristup asfaltiranim putem, kao i dostupnu struju i vodu.
-
-Ukupno je parcelisano 140 parcela, površine oko 600 m² i više, uz prostor za puteve.
-
-Prvih 31 parcela, ukupne površine oko 20.000 m², već imaju UTU uslove. Na njima je moguća izgradnja oko 31 vile, do približno 250 m² po objektu, uz mogućnost objedinjavanja parcela i izgradnje hotela ili drugog turističkog kompleksa.
-
-Preostalih oko 75.000–80.000 m² predstavlja dodatni razvojni potencijal, gdje se UTU uslovi mogu pribavljati u skladu sa idejom i projektom investitora.
-
-Pogodno za izgradnju turističkog kompleksa, resorta, hotela, vila sa bazenima, klinike sa apartmanima ili sličnog projekta.
-
-Cijena:
-
-• 20.000 m² sa postojećim UTU uslovima – 100 €/m²
-
-• preostalih 75.000–80.000 m² – 80 €/m²
-
-Moguća prodaja u cjelini ili po dogovoru.
-
-Odlična prilika za ozbiljne investitore, posebno za veće turističke projekte. Radimo po dogovoru.]]></description>
-    <description lang="en"><![CDATA[FOR SALE INVESTMENT LAND PLOT – ULCINJ
-
-For sale a larger land plot near Ulcinj, only 800–900 m from Solana and about 2.5 km from Štoj and Velika plaža. The land plot has an excellent view, access via paved road, as well as available electricity and water.
-
-A total of 140 land plots have been parceled, with an area of about 600 m² and more, with space for roads.
-
-The first 31 land plots, with a total area of about 20,000 m², already have UTU conditions. On them, the construction of about 31 villas is possible, up to approximately 250 m² per building, with the possibility of combining land plots and building a hotel or another tourist complex.
-
-The remaining about 75,000–80,000 m² represents additional development potential, where UTU conditions can be obtained in accordance with the investor's idea and project.
-
-Suitable for the construction of a tourist complex, resort, hotel, villas with pools, clinics with apartments or a similar project.
-
-Price:
-
-• 20,000 m² with existing UTU conditions – 100 €/m²
-
-• remaining 75,000–80,000 m² – 80 €/m²
-
-Possible sale as a whole or by agreement.
-
-Excellent opportunity for serious investors, especially for larger tourist projects. We work by agreement.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fba9905d3-0c98-4990-a80a-bcc226776bd1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2771a3dc-1e7f-4a31-841d-91970765285a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>90ecb8ce45fb3722</version>
   </listing>
   <listing>
     <id>estitor:613113</id>
