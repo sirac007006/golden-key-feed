@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-24T09:26:30.458Z" count="884">
+<listings generated="2026-11-24T09:31:18.745Z" count="882">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -20094,41 +20094,6 @@ Total area: 1900m²]]></description>
     <version>9b474dfa4c479806</version>
   </listing>
   <listing>
-    <id>estitor:565805</id>
-    <reference>565805</reference>
-    <purpose>rent</purpose>
-    <type>commercial</type>
-    <price currency="EUR">550</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Centar, Podgorica]]></location>
-    <living_area_m2>24</living_area_m2>
-    <condition><![CDATA[Excellent condition]]></condition>
-    <title lang="me"><![CDATA[Izdavanje, poslovni prostor, 24m², Centar, Podgorica]]></title>
-    <title lang="en"><![CDATA[Rent, office space, 24m², Centar, Podgorica]]></title>
-    <description lang="me"><![CDATA[Izdaje se poslovni prostor površine 24 m² na atraktivnoj lokaciji u Ulici Slobode. Prostor je organizovan kao studio i posjeduje mokri čvor, što ga čini funkcionalnim za različite vrste djelatnosti.
-
-Posebna prednost prostora je mogućnost korišćenja bašte, što ga čini idealnim za ugostiteljsku djelatnost, manji kafić, espresso bar, kao i druge uslužne ili prodajne namjene.
-
-Zahvaljujući odličnoj lokaciji u samom centru grada i frekventnoj pješačkoj zoni, prostor pruža odličnu vidljivost i potencijal za uspješno poslovanje.
-
-Za više informacija i razgledanje, kontaktirajte nas.]]></description>
-    <description lang="en"><![CDATA[A commercial space of 24 m² is for rent in an attractive location in Ulica Slobode. The space is organized as a studio and includes a restroom, making it functional for various types of businesses.
-
-A special advantage of the space is the possibility of using the garden, making it ideal for hospitality businesses, a small cafe, espresso bar, as well as other service or retail purposes.
-
-Thanks to its excellent location in the very city center and a busy pedestrian zone, the space provides excellent visibility and potential for successful business activities.
-
-For more information and viewing, contact us.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F45a58834-bcaa-40dc-b725-c9d61e4a2f2e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc50e95c7-864d-470e-90e8-9cd1a96ae60e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F146844c7-42bf-45c0-b35c-7385a6381735-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3d940d4a-a6eb-4934-a2c2-e29fd400e597-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>90fd87fc16f6546c</version>
-  </listing>
-  <listing>
     <id>estitor:565813</id>
     <reference>565813</reference>
     <purpose>sale</purpose>
@@ -25949,95 +25914,6 @@ Price: 105.000€]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6e0e4221-5144-4cc6-a0c5-55c8579e519f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>2a30dd4b6afbaca3</version>
-  </listing>
-  <listing>
-    <id>estitor:610237</id>
-    <reference>610237</reference>
-    <purpose>rent</purpose>
-    <type>apartment</type>
-    <price currency="EUR">1000</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Central Point, Podgorica]]></location>
-    <living_area_m2>80</living_area_m2>
-    <rooms>2</rooms>
-    <bedrooms>2</bedrooms>
-    <bathrooms>2</bathrooms>
-    <floor><![CDATA[5. fl.]]></floor>
-    <condition><![CDATA[Excellent condition]]></condition>
-    <furnished><![CDATA[Yes]]></furnished>
-    <parking><![CDATA[Garage]]></parking>
-    <title lang="me"><![CDATA[Izdavanje, dvosoban stan, 80m², Central Point, Podgorica]]></title>
-    <title lang="en"><![CDATA[Rent, two bedroom apartment, 80m², Central Point, Podgorica]]></title>
-    <description lang="me"><![CDATA[LUKSUZAN DVOSOBAN STAN ZA IZDAVANJE – CENTRAL POINT
-
-Ovaj prostrani dvosoban stan od 80 m² idealan je za one koji žele kvalitetan i moderan život u jednom od najtraženijih kompleksa u gradu.
-
-Stan karakterišu:
-
-• 80 m² pažljivo organizovanog prostora
-
-• Dvosoban, prostran i funkcionalan
-
-• Smješten na 5. spratu
-
-• Luksuzno namješten i moderno opremljen
-
-• Svijetao, elegantan i prijatan za život
-
-• Garažno mjesto uključeno u cijenu
-
-• Odlična lokacija i svi važni sadržaji u neposrednoj blizini
-
-• Slobodan za useljenje od 20. oktobra
-
-Ako vam je važno da se uselite u lijepo uređen i kvalitetno opremljen stan bez dodatnih ulaganja, ovo je prava prilika.]]></description>
-    <description lang="en"><![CDATA[LUXURIOUS TWO-ROOM APARTMENT FOR RENT – CENTRAL POINT
-
-This spacious two-room apartment of 80 m² is ideal for those who want a quality and modern life in one of the most sought-after complexes in the city.
-
-The apartment features:
-
-• 80 m² of carefully organized space
-
-• Two-room, spacious and functional
-
-• Located on the 5th floor
-
-• Luxuriously furnished and modernly equipped
-
-• Bright, elegant and pleasant for living
-
-• Garage space included in the price
-
-• Excellent location and all important amenities in the immediate vicinity
-
-• Available for move-in from October 20th
-
-If it is important for you to move into a beautifully decorated and well-equipped apartment without additional investments, this is the right opportunity.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbf318fc4-53cc-47ad-88ae-c4365c393cef-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Faaee768d-3970-4c92-8947-ffd9d2771054-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe43f993e-a152-48d6-9ffa-912d163f68b3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc2075638-2072-4975-9c8c-c2628738a466-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F16bfa021-d320-4db5-bb3f-11aed77ef349-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F23c01d3c-9e97-4df3-b08a-202fe41ad6e8-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fad204272-4246-47c4-a548-020a3e865ec1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2d3e10c2-02eb-4be5-a250-5df3974a73cd-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6c42201a-78b2-4cb8-acac-d7eb3baa0d4c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2a3aa800-34d5-427c-a3bd-f6b02d9c4b16-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7f8b2c1c-a0c9-41d4-a4e5-4098a7c6030f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F344e3c98-b88d-4e13-bf11-40280e4cdabb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9fc5e705-cb38-41e8-bccb-a3e1f056e3b2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F54680240-357b-4342-803d-6468dbd18295-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F93624583-7d04-4353-9527-e787d78d93a6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa61a064c-f012-4741-8acb-ea8f79606f9d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffd628926-871e-4ee2-879e-2420799f7a89-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F45ffaa11-96c1-4822-80fe-8fce5588305c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F98e1034d-4068-4983-9b99-4014c5c1930c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc0ca021d-958c-42bf-8b2f-062e5d65829f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>c2aad32832a86383</version>
   </listing>
   <listing>
     <id>estitor:613050</id>
