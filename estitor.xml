@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-24T09:15:18.763Z" count="898">
+<listings generated="2026-11-24T09:16:16.970Z" count="897">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -3600,33 +3600,6 @@ The house has 4 bedrooms, one bathroom, and secured parking for four vehicles. T
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbeb97fb2-f001-4282-976a-03c1c59be70d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>fd44af576cee3d64</version>
-  </listing>
-  <listing>
-    <id>estitor:466463</id>
-    <reference>466463</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price_on_request>true</price_on_request>
-    <country>ME</country>
-    <city><![CDATA[Bar]]></city>
-    <location><![CDATA[Dobra Voda, Bar]]></location>
-    <living_area_m2>42</living_area_m2>
-    <rooms>1</rooms>
-    <bedrooms>1</bedrooms>
-    <title lang="me"><![CDATA[Prodaja, jednosoban stan, 42m², Dobra Voda, Bar]]></title>
-    <title lang="en"><![CDATA[Sale, one bedroom apartment, 42m², Dobra Voda, Bar]]></title>
-    <description lang="me"><![CDATA[X Residence u Dobrim Vodama je savremeni stambeni kompleks na samo 60 metara od plaže Veliki Pijesak. Zgrada se prostire na sedam etaža, ima podzemne garaže, liftove i izgrađena je po visokim standardima uz upotrebu kvalitetnih materijala. Zahvaljujući preko 270 sunčanih dana godišnje i mirnoj lokaciji, ovo je idealno mesto za život, odmor ili sigurnu investiciju.
-
-U ponudi su jednosobni stanovi od 42.1 m² na prizemlju i prvom spratu.]]></description>
-    <description lang="en"><![CDATA[Residence in Dobre Vode is a modern residential complex only 60 meters from Veliki Pijesak beach. The building spans seven floors, has underground garages, elevators and was built according to high standards using quality materials. Thanks to over 270 sunny days a year and a quiet location, this is an ideal place for living, vacation, or a secure investment.
-
-Available are one-bedroom apartments of 42.1 m² on the ground floor and first floor.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fd62fe556-2891-4248-967e-90df01b7db82-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4a9104c6-712d-43a0-8a5b-20ac891dc31a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F27464fe3-4280-484a-9cf4-4af48ae8b795-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>308126d684620e40</version>
   </listing>
   <listing>
     <id>estitor:466464</id>
