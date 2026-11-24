@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-24T09:20:38.959Z" count="890">
+<listings generated="2026-11-24T09:23:44.175Z" count="889">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -10939,53 +10939,6 @@ The price ranges from 2500-2600€/m2.]]></description>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7aaac34c-b7bc-409f-8426-5db5d8926139-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>8f6c304f56cd1e20</version>
-  </listing>
-  <listing>
-    <id>estitor:538964</id>
-    <reference>538964</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price currency="EUR">310000</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Preko Morače, Podgorica]]></location>
-    <living_area_m2>94</living_area_m2>
-    <rooms>2</rooms>
-    <bedrooms>2</bedrooms>
-    <bathrooms>2</bathrooms>
-    <floor><![CDATA[6. fl.]]></floor>
-    <condition><![CDATA[Excellent condition]]></condition>
-    <furnished><![CDATA[Partially furnished]]></furnished>
-    <parking><![CDATA[Garage]]></parking>
-    <title lang="me"><![CDATA[Prodaja, dvosoban stan, 94m², Preko Morače, Podgorica]]></title>
-    <title lang="en"><![CDATA[Sale, two bedroom apartment, 94m², Preko Morače, Podgorica]]></title>
-    <description lang="me"><![CDATA[Na ekskluzivnoj lokaciji u Podgorici prodaje se stambeni prostor površine 94 m² sa pripadajućom garažom od 16 m². Objekat ima odlično riješenu saobraćajnu infrastrukturu, obezbijeđen parking i lift, dok su prizemlja namijenjena poslovnim sadržajima.
-
-Stan je dvoetažni i funkcionalno podijeljen na dnevnu i noćnu zonu. Nalazi se na 6. spratu. Dnevni dio čine hodnik, ostava, kuhinja, trpezarija i dnevni boravak sa izlazom na terasu, dok se na spratu nalaze dvije spavaće sobe, kupatilo i terasa. Garaža se nalazi u dvorišnom dijelu objekta, u suterenu, opremljena rolo vratima, sa omalterisanim zidovima i betonskim podom., Hitna prodaja, Renoviran, Miran kraj, Uknjiženo, Odmah useljiv, Penthouse]]></description>
-    <description lang="en"><![CDATA[At an exclusive location in Podgorica, a residential space of 94 m² is for sale with an accompanying garage of 16 m². The building has excellently designed traffic infrastructure, secured parking and a lift, while the ground floors are intended for commercial spaces. The apartment is a duplex and functionally divided into a day zone and a night zone. It is located on the 6th floor. The day zone consists of a hallway, storage room, kitchen, dining room, and living room with access to a terrace, while on the upper floor there are two bedrooms, a bathroom, and a terrace. The garage is located in the courtyard part of the building, in the basement, equipped with roller doors, with plastered walls and a concrete floor., Urgent sale, Renovated, Quiet neighborhood, Registered, Move-in ready, Penthouse]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc54d3f55-14b9-48fb-a30f-d97806e0abde-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc0acfb6b-d1ed-42f9-a18a-6f72b3382e9b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa2ae8df9-e722-4eec-9309-eb97abbde27c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fc028a010-ce87-474c-9cd5-d7174b1878c7-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F17978ca9-7f55-419f-90cb-a68d3bb6e8be-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9b1568cf-d3c9-4dc2-846b-219f8f4545c6-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F16df6654-fa9a-4778-bed2-381f03c983e5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F5951d1c2-45f8-47c8-b648-bd4b20e39f69-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2451a18a-64a4-4c46-9c85-ec5a06245401-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6bcb3683-324b-4770-b85a-626fe00ee0a9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8994f587-c0bb-4fe8-a5d0-fc19411a3ef2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F590a5a8b-0af4-4396-acef-c462b4898dd1-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F514278b2-ebf9-4793-aa24-db72e214d0eb-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fe918955a-ad4d-4ab1-b089-4ea8e556270d-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fea8b456e-ee77-4987-9a45-2d08f45aa248-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F17f87210-4e05-4608-b58c-d3d48b8f1a9a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ff3d0db81-4741-4bf3-9a63-bdfa49dcf27e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9f399699-a99c-4104-8151-4bffca306e95-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2c38cf84-cebe-4305-9e5e-77ee74d9752c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F196c75b8-f68f-4d5c-ad3e-043d02bd2fd5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>ef2d81da8c08ef03</version>
   </listing>
   <listing>
     <id>estitor:538965</id>
