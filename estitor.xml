@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-24T09:17:55.440Z" count="891">
+<listings generated="2026-11-24T09:20:38.959Z" count="890">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -1033,7 +1033,7 @@ With its spacious interiors, peaceful surroundings, and prime location, this pro
     <reference>349161</reference>
     <purpose>rent</purpose>
     <type>house</type>
-    <price currency="EUR">5000</price>
+    <price currency="EUR">4500</price>
     <country>ME</country>
     <city><![CDATA[Podgorica]]></city>
     <location><![CDATA[Gorica C, Podgorica]]></location>
@@ -1054,7 +1054,7 @@ With its spacious interiors, peaceful surroundings, and prime location, this pro
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F4ecacaf5-69dc-4eae-940d-c25f2adf4f91-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fbfaff477-54d8-47ec-b3f4-d4adff455016-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>be66c8d7a5724978</version>
+    <version>834e74d7036b0bf5</version>
   </listing>
   <listing>
     <id>estitor:349164</id>
@@ -2376,39 +2376,6 @@ Investing in security and prosperityBy investing in the project, you ensure a gu
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F0817fc50-65a0-4cd8-9017-88be59381d95-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>fc32d14c87d52416</version>
-  </listing>
-  <listing>
-    <id>estitor:383386</id>
-    <reference>383386</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price currency="EUR">369000</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Donja Gorica, Podgorica]]></location>
-    <living_area_m2>132</living_area_m2>
-    <rooms>3</rooms>
-    <bedrooms>3</bedrooms>
-    <title lang="me"><![CDATA[Prodaja, trosoban stan, 132m², Donja Gorica, Podgorica]]></title>
-    <title lang="en"><![CDATA[Sale, three bedroom apartment, 132m², Donja Gorica, Podgorica]]></title>
-    <description lang="me"><![CDATA[Na prodaju prostran i moderan stan u prizemlju, površine 132 m², smješten u atraktivnom dijelu Gornje Gorice, na samo nekoliko minuta od Big Fashion centra. Ova kvalitetna novogradnja nudi savremeni dizajn i visok nivo komfora, a svaka prostorija opremljena je klima uređajem, što osigurava prijatan boravak tokom cijele godine. Cijena stana iznosi 369.600 € (2.800 €/m²). Uz stan je obavezna kupovina parking mjesta po cijeni od 15.000 €.
-
-067/231-153]]></description>
-    <description lang="en"><![CDATA[For sale is a spacious and modern apartment on the ground floor, with an area of 132 m², located in an attractive part of Gornja Gorica, just a few minutes from the Big Fashion center. This quality new construction offers contemporary design and a high level of comfort, and each room is equipped with an air conditioner, ensuring a pleasant stay throughout the year. The price of the apartment is 369.600 € (2.800 €/m²). With the apartment, the purchase of a parking space is mandatory at a price of 15.000 €.
-
-067/231-153]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8a9fa23c-d340-486a-9bf5-00ef620bb7b9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F01618ff6-321a-4472-ad4e-70ba12b47134-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F61655e46-953f-40bb-9b23-846477fea0d5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F380625c8-d784-4955-a840-4c155c719862-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa9b23e60-8bc0-4d9d-95d7-73d48bfefac9-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fb03e30e3-e157-4c9d-96b4-c25be3d0292f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Ffc89633a-302e-4361-abde-8a8dd1c52faa-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1e5ef731-bcaa-4277-8d47-9ccd81914b68-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F83ed4124-c2da-4975-9c30-7e5db749b73c-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>ed3d87356d18b8bc</version>
   </listing>
   <listing>
     <id>estitor:412722</id>
