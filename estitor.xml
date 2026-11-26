@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-24T09:31:18.745Z" count="882">
+<listings generated="2026-11-26T11:36:48.823Z" count="881">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -10010,43 +10010,6 @@ Excellent visibility and a high-traffic location make it suitable for a cafe, re
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F7aed83f5-c688-4b59-b894-55602e7bea69-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>aa156cc4daa60a29</version>
-  </listing>
-  <listing>
-    <id>estitor:537596</id>
-    <reference>537596</reference>
-    <purpose>sale</purpose>
-    <type>apartment</type>
-    <price currency="EUR">155000</price>
-    <country>ME</country>
-    <city><![CDATA[Podgorica]]></city>
-    <location><![CDATA[Stari Aerodrom, Podgorica]]></location>
-    <living_area_m2>65</living_area_m2>
-    <rooms>2</rooms>
-    <bedrooms>2</bedrooms>
-    <bathrooms>1</bathrooms>
-    <floor><![CDATA[2. fl.]]></floor>
-    <condition><![CDATA[Excellent condition]]></condition>
-    <furnished><![CDATA[Yes]]></furnished>
-    <title lang="me"><![CDATA[Prodaja, dvosoban stan, 65m², Stari Aerodrom, Podgorica]]></title>
-    <title lang="en"><![CDATA[Sale, two bedroom apartment, 65m², Stari Aerodrom, Podgorica]]></title>
-    <description lang="me"><![CDATA[Prodaje se dvosoban stan na Starom Aerodromu. Stan ima 65 m² i potpuno je namješten, spreman za useljenje. Smješten je na drugom spratu zgrade, a ispred zgrade se nalazi parking za stanare i posjetioce.
-
-Praktičan raspored i kompletna opremljenost čine ovaj stan idealnim za porodični život ili kao investicija.]]></description>
-    <description lang="en"><![CDATA[A two-bedroom apartment is for sale in Stari Aerodrom. The apartment has 65 m² and is fully furnished, move-in ready. It is located on the second floor of the building, and in front of the building there is parking for residents and visitors.
-
-Practical layout and complete furnishings make this apartment ideal for family life or as an investment.]]></description>
-    <images>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F8195d13b-b77d-4fd4-89d4-864a6f85d019-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F62d364c8-8d99-4d4f-9121-a446f0e1a1c5-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F03ec2b8b-8e78-477d-8ef9-6488c400ab16-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1383d01e-bbfd-4c9d-9724-53a9dc8532e3-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2Fa4e81441-4cd3-4f96-9822-4a48f45afcc2-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F90bc5fd4-083f-4329-9f6c-b59c445e991a-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F1c239c21-d06e-4795-b6fc-a0d599caa53f-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F6dfabbfc-7832-4dbd-a48d-bd3f5a871f0e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F3c282eab-e5ea-4073-a698-fb5e83c1bdcc-lg.webp&output=jpg&q=85&w=1600&we]]></image>
-    </images>
-    <version>9be3cd59fc155c8a</version>
   </listing>
   <listing>
     <id>estitor:537628</id>
