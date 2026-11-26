@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-26T11:36:48.823Z" count="881">
+<listings generated="2026-11-26T12:58:13.750Z" count="881">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -18064,7 +18064,7 @@ A perfect opportunity for investors who wish to take over an already successful 
     <reference>554071</reference>
     <purpose>sale</purpose>
     <type>land</type>
-    <price currency="EUR">35000</price>
+    <price currency="EUR">40000</price>
     <country>ME</country>
     <city><![CDATA[Danilovgrad]]></city>
     <location><![CDATA[Glavica, Danilovgrad]]></location>
@@ -18103,7 +18103,7 @@ Land plot suitable for family house construction, peaceful environment, good acc
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F33941c6d-f4f4-4605-8191-478a431f944b-lg.webp&output=jpg&q=85&w=1600&we]]></image>
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F577b7c85-1304-450a-8bf3-278a11fffa0e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
-    <version>7957e6af0fdb6588</version>
+    <version>1e7886499e81aec5</version>
   </listing>
   <listing>
     <id>estitor:555078</id>
