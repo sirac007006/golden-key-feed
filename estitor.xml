@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<listings generated="2026-11-26T12:58:13.750Z" count="881">
+<listings generated="2026-11-27T19:01:48.973Z" count="882">
   <agency>
     <name><![CDATA[Golden Key Real Estate]]></name>
     <email>goldenkey8@yandex.com</email>
@@ -2517,6 +2517,29 @@ Ownership 1/1.
       <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F9836c453-c2f9-4403-84b5-a4883e01586e-lg.webp&output=jpg&q=85&w=1600&we]]></image>
     </images>
     <version>2cdc5047e13db77b</version>
+  </listing>
+  <listing>
+    <id>estitor:420468</id>
+    <reference>420468</reference>
+    <purpose>sale</purpose>
+    <type>apartment</type>
+    <price currency="EUR">216000</price>
+    <country>ME</country>
+    <city><![CDATA[Budva]]></city>
+    <location><![CDATA[Rozino, Budva]]></location>
+    <living_area_m2>72</living_area_m2>
+    <rooms>2</rooms>
+    <bedrooms>2</bedrooms>
+    <floor><![CDATA[7. fl.]]></floor>
+    <title lang="me"><![CDATA[Prodaja, dvosoban stan, 72m², Rozino, Budva]]></title>
+    <title lang="en"><![CDATA[Sale, two bedroom apartment, 72m², Rozino, Budva]]></title>
+    <description lang="me"><![CDATA[Na prodaju je stan u izgradnji u Budvi, smješten u mirnom kvartu iza autobuske stanice. Stan se nalazi na 7. spratu i prostire se na 72 m². S obzirom na poziciju, s terase se pruža predivan pogled na more. Kvalitet gradnje i moderna arhitektura garantiraju udoban boravak, a opcionalno se može kupiti i garažno mjesto. Cijena stana je 216.000 €]]></description>
+    <description lang="en"><![CDATA[For sale is an apartment under construction in Budva, located in a quiet neighborhood behind the bus station. The apartment is located on the 7th floor and spans 72 m². Given its position, the terrace offers a beautiful sea view. The quality of construction and modern architecture guarantee a comfortable stay, and a parking space can optionally be purchased. The price of the apartment is 216.000 €]]></description>
+    <images>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2f6bd035-1071-49e6-afa8-74474154cb78-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+      <image><![CDATA[https://wsrv.nl/?url=content.estitor.com%2F2a6e51b4-a88d-4d00-bf85-bccf57ed7127-lg.webp&output=jpg&q=85&w=1600&we]]></image>
+    </images>
+    <version>c1879d559c991387</version>
   </listing>
   <listing>
     <id>estitor:423592</id>
